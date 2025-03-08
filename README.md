@@ -35,15 +35,68 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-### Resources:
+## Resources:
+
+### APIs & Data sources:
+
+#### USDA
+https://app.swaggerhub.com/apis/fdcnal/food-data_central_api/1.0.1#/
+https://fdc.nal.usda.gov/api-guide#bkmk-3
+
+#### Opendataweb
+https://apps.fas.usda.gov/opendatawebV2/#/
+
+#### Edamam
+# https://developer.edamam.com/food-database-api
+
+####  Spoonacular API
+https://spoonacular.com/food-api/console#Dashboard
+can't scrape or store data
+must use live call to get flavor profile
+
+#### Food DB 
+https://foodb.ca/api/v1/foodreport/food
+
+#### OpenFoodFacts 
+https://world.openfoodfacts.org/cgi/search.pl
+
+#### ITIS 
+
+https://www.itis.gov/web_service.html
+# JSON Web Services
+# The ITIS JSON services provide an API that matches the Web Service API. All calls for JSON data are made by substituting "jsonservice" into the Web Service call in place of the "services/ITISService" part of the URL.
+
+##### ITIS WEB SERVICE API
+# https://www.itis.gov/ws_description.html
+# common name
+# http://www.itis.gov/ITISWebService/services/ITISService/searchByCommonName?srchKey=ferret-badger
+# scientific name
+# http://www.itis.gov/ITISWebService/services/ITISService/searchByScientificName?srchKey=Tardigrada
+
+### Data sources
+#### Github repos and projects
 https://areeves87.shinyapps.io/flavor-bible/
 https://rpubs.com/areeves87/389547
 https://github.com/areeves87/Flavor-Bible-App/blob/master/app/flavor-bible/flavor_bible_full.csv
 https://github.com/mhalverstadt/The-Flavor-DB
 https://github.com/mhalverstadt/The-Flavor-DB/blob/main/data/data-formatted-json.json
 
+#### Food DB 
+https://foodb.ca/api/v1/foodreport/food
 
-Other:
+### Books
+The Flavor Bible
+The Flavor Equation
+The Art of French Cooking
+Ratios https://www.amazon.com/dp/B001UP63MI?tag=ruhlmancom&linkCode=ogi&th=1&psc=1
+The Sioux Chef
+My Native Kitchen
+Mi Cocina
+Masa
+
+### Other:
 https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00935-9
 https://github.com/javierortegaa/FlavorFinder
 https://www.sensorysociety.org/knowledge/sspwiki/Pages/Flavor%20Flavour.aspx
+https://www.sciencedirect.com/science/article/abs/pii/S0065262808602451
+https://brege.org/post/the-flavor-network/
