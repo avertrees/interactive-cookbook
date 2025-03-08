@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+### Resources:
+https://areeves87.shinyapps.io/flavor-bible/
+https://rpubs.com/areeves87/389547
+https://github.com/areeves87/Flavor-Bible-App/blob/master/app/flavor-bible/flavor_bible_full.csv
+https://github.com/mhalverstadt/The-Flavor-DB
+https://github.com/mhalverstadt/The-Flavor-DB/blob/main/data/data-formatted-json.json
+
+
+Other:
+https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00935-9
+https://github.com/javierortegaa/FlavorFinder
+https://www.sensorysociety.org/knowledge/sspwiki/Pages/Flavor%20Flavour.aspx
