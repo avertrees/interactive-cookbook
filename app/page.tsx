@@ -1,16 +1,17 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 // https://panda-css.com/docs/concepts/responsive-design
-import Grid from "@/app/src/components/Grid"
-import SearchForm from "@/app/src/components/SearchForm"
+// import Grid from "@/app/src/components/Grid"
+// import SearchForm from "@/app/src/components/SearchForm"
 
 
 export default function Home() {
   return (
     <div className={styles.page}>
-      <SearchForm />
-      <Grid />
-      {/* <main className={styles.main}>
+      {/* <SearchForm />
+      <Grid /> */}
+
+      <main className={styles.main}>
         <Image
           className={styles.logo}
           src="/next.svg"
@@ -95,7 +96,7 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
-      </footer> */}
+      </footer>
     </div>
   );
 }

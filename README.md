@@ -94,9 +94,42 @@ My Native Kitchen
 Mi Cocina
 Masa
 
+### Geography
+https://github.com/martynafford/natural-earth-geojson
+https://www.geoapify.com/boundaries-api
+https://explorer.natureserve.org/api-docs/
+https://geojson-maps.kyd.au/
+https://www.geoboundaries.org/
+
+### Species data
+https://nsr.biendata.org
+https://www.usgs.gov/programs/gap-analysis-project/science/species-data-web-services
+https://trefle.io/
+
 ### Other:
 https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00935-9
 https://github.com/javierortegaa/FlavorFinder
 https://www.sensorysociety.org/knowledge/sspwiki/Pages/Flavor%20Flavour.aspx
 https://www.sciencedirect.com/science/article/abs/pii/S0065262808602451
 https://brege.org/post/the-flavor-network/
+https://github.com/victma/meat-map/tree/master
+https://en.m.wikipedia.org/wiki/File:US_Beef_cuts.svg
+https://www.meatsbylinz.com/cattlechart/
+https://www.reddit.com/r/food/comments/1yzcbd/the_complete_visual_guide_to_beef_cuts_infographic/
+https://www.virtualweberbullet.com/meat-charts-beef-pork-lamb-goat/
+
+### Maps
+https://maplibre.org/maplibre-gl-js/docs/examples/animate-a-line/
+
+
+### Recipes
+https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
+https://flavorpair.me/
+
+### Wikipedia pages
+https://en.wikipedia.org/wiki/Category:Crops_originating_from_the_Americas
+https://en.wikipedia.org/wiki/New_World_crops
+https://en.wikipedia.org/wiki/Columbian_exchange
+https://en.wikipedia.org/wiki/Glass_Gem_Corn
+https://en.wikipedia.org/wiki/Cone_pepper
+https://en.wikipedia.org/wiki/Category:Edible_Solanaceae
