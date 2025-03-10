@@ -1,0 +1,10 @@
+{
+	"id": 1,
+	"name": "celery",
+	"flavor_group": "vegetable",
+	"category": "odor",
+	"created_at": "2011-10-02T06:10:04.000Z",
+	"updated_at": "2011-10-02T06:10:04.000Z",
+	"creator_id": null,
+	"updater_id": null
+}

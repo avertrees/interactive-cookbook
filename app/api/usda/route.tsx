@@ -1,14 +1,15 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import {getDataFromFoodDB, getDataFromEdamam, getDataFromOpenDataWeb, getDataFromUSDA} from "../../src/utils/api";
+// https://app.swaggerhub.com/apis/fdcnal/food-data_central_api/1.0.1#/
+// https://app.swaggerhub.com/apis/fdcnal/food-data_central_api/1.0.1#/FDC/getFood
+// https://fdc.nal.usda.gov/api-guide#bkmk-3
+// https://fdc.nal.usda.gov/bkmk-2
+export const GET = async (request: NextRequest) => {
+  // https://api.nal.usda.gov/fdc/v1/foods/search?query=cheese&dataType=Foundation&pageSize=25&pageNumber=1&sortBy=dataType.keyword&sortOrder=asc&api_key=8u6ofSAd1wxQGkB6wdu8aHzl7aqUksB6N2hEgCNw
+  const ingredient = request?.nextUrl?.searchParams.get('ingredient')
+  console.log("ingredient is: ", ingredient)
 
-export const GET = async () => {
-  // const data = await getDataFromFoodDB(``)
-  // const data = await getDataFromUSDA('https://api.nal.usda.gov/fdc/v1/foods')
-  // const data = await getDataFromOpenDataWeb('https://api.fas.usda.gov/api/esr/regions')
-  // const data = await getDataFromEdamam('https://api.edamam.com/api/food-database/v2/parser')
-
-  // console.log("data is: ", data)
-  const url = 'https://api.nal.usda.gov/fdc/v1/foods/search?query=corn&api_key=' + process.env.usdaAPIKey
+  const url = `https://api.nal.usda.gov/fdc/v1/foods/search?query=${ingredient}&dataType=Foundation&api_key=${process.env.usdaAPIKey}`
   console.log("url is: ", url)
   
   try {
@@ -27,6 +28,5 @@ export const GET = async () => {
   }
 
 };
-
-// http://localhost:3000/api/path
+// http://localhost:3000/api/usda?ingredient=culture
 

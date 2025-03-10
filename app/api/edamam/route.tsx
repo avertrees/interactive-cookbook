@@ -1,16 +1,18 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import {getDataFromFoodDB, getDataFromEdamam, getDataFromOpenDataWeb, getDataFromUSDA} from "../../src/utils/api";
 
-export const GET = async () => {
+export const GET = async (request: NextRequest) => {
   // const data = await getDataFromFoodDB(``)
   // const data = await getDataFromUSDA('https://api.nal.usda.gov/fdc/v1/foods')
   // const data = await getDataFromOpenDataWeb('https://api.fas.usda.gov/api/esr/regions')
   // const data = await getDataFromEdamam('https://api.edamam.com/api/food-database/v2/parser')
 
   // console.log("data is: ", data)
+  const ingredient = request?.nextUrl?.searchParams.get('ingredient')
+  console.log("ingredient is: ", ingredient)
 
   const apiUrl = "https://api.edamam.com/api/food-database/v2/parser"
-  const url = apiUrl + '?app_id=' + process.env.EdamamApplicationID + '&app_key=' + process.env.EdamamAPIKey + '&ingr=corn'
+  const url = apiUrl + '?app_id=' + process.env.EdamamApplicationID + '&app_key=' + process.env.EdamamAPIKey + `&ingr=${ingredient}`
   console.log("url is: ", url)
   
   try {
@@ -30,5 +32,5 @@ export const GET = async () => {
 
 };
 
-// http://localhost:3000/api/path
+// http://localhost:3000/api/edamam?ingredient=corn
 

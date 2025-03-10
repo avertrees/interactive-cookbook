@@ -13,10 +13,10 @@ const dataSources = [
   { id: 4, name: "Dragonfruit", source: "OpenDataWeb" },
   { id: 5, name: "Eggplant", source: "open food data" },
   { id: 6, name: "Fig", source: "foodB" },
-  { id: 7, name: "Grapes", source: "usda" },
+  { id: 7, name: "Grapes", source: "flavor bible" },
 ];
 
-const filterOptions = ["foodB", "usda", "edamam", "OpenDataWeb", "open food data"];
+const filterOptions = ["foodB", "usda", "edamam", "OpenDataWeb", "open food data", "flavor bible"];
 
 export default function DataGrid() {
   const [selectedFilter, setSelectedFilter] = useState<string>("");
