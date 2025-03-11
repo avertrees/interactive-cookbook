@@ -1,7 +1,7 @@
 // import {getDataFromFoodDB, getDataFromEdamam, getDataFromOpenDataWeb, getDataFromUSDA} from "../../src/utils/api";
 const fs = require('fs');
 
-const common_name_ingredients = [
+export const common_name_ingredients = [
   "Nutritional yeast",
   "Chicken",
   "Scallions",
@@ -99,7 +99,7 @@ const common_name_ingredients = [
   "sugar",
 ]
 
-const experimental_ingredients = [
+export const experimental_ingredients = [
   "Corn husk ash",
   "Burnt corn husk powder",
   "Adaptogenic mixes",
@@ -120,8 +120,6 @@ function seedJSON() {
 
   console.log("edamamHash is: ", edamamHash)
   
-
-
 }
 
 function writeFile(data){

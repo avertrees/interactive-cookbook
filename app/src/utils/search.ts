@@ -23,7 +23,8 @@ export default function search(data, search_fields, keyword){
   console.log("results length is: ", results.length)
 
   results.sort(compareRelevance) // sort by relevance
-  for(i=0;i < results.length;i++){
+  
+  for(let i=0 as number;i < results.length;i++){
       results[i] = results[i].entry // remove relevance since it is no longer needed
   }
 
