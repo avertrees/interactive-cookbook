@@ -7,13 +7,10 @@ export const GET = async (request: NextRequest) => {
   // const data = await getDataFromOpenDataWeb('https://api.fas.usda.gov/api/esr/regions')
   // const data = await getDataFromEdamam('https://api.edamam.com/api/food-database/v2/parser')
 
-  // console.log("data is: ", data)
   const ingredient = request?.nextUrl?.searchParams.get('ingredient')
-  console.log("ingredient is: ", ingredient)
 
   const apiUrl = "https://api.edamam.com/api/food-database/v2/parser"
   const url = apiUrl + '?app_id=' + process.env.EdamamApplicationID + '&app_key=' + process.env.EdamamAPIKey + `&ingr=${ingredient}`
-  console.log("url is: ", url)
   
   try {
     const response = await fetch(url);
@@ -22,7 +19,6 @@ export const GET = async (request: NextRequest) => {
     }
 
     const json = await response.json();
-    console.log(json);
     return NextResponse.json(json, { status: 200 });
 
   } catch (error) {

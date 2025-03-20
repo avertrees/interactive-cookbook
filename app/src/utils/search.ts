@@ -7,20 +7,15 @@ export default function search(data, search_fields, keyword){
 
   for(var i in data){ // iterate through dataset
       for(var u=0;u<search_fields.length;u++){ // iterate through each key in dataset
-        // console.log("data is: ", data[i][search_fields[u]])
 
           var rel = getRelevance(data[i][search_fields[u]],keyword) // check if there are matches
-        // console.log("rel is: ", rel)
           if(rel==0) {// no matches...
             continue // ...skip
           } 
           
-          console.log("rel is: ", rel)
           results.push({relevance:rel,entry:data[i]}) // matches found, add to results and store relevance
-          console.log("results is: ", results)
       }
   }
-  console.log("results length is: ", results.length)
 
   results.sort(compareRelevance) // sort by relevance
   
@@ -35,7 +30,6 @@ export function getRelevance(value,keyword){
   if (value instanceof Array){
     value = value.join()
   } 
-  console.log("value is: ", value)
   if (value) {
     value = value.toLowerCase() // lowercase to make search not case sensitive
     keyword = keyword.toLowerCase()

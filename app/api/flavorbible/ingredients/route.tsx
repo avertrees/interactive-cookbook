@@ -4,11 +4,9 @@ import search from '@/app/src/utils/search'
 
 // ['name','name_scientific','description','food_group','food_subgroup']
 export const GET = async (request: NextRequest) => {
-  // console.log("data is: ", data)
   const query = request?.nextUrl?.searchParams.get('query')
   console.log("query is: ", query)
   const results = query ? {"data": search(data.data, ['ingredient'], query)} : data
-  // console.log("results are: ", results);
   return NextResponse.json(results, { status: 200 });
 }
 

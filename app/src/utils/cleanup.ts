@@ -13,3 +13,4 @@ function rtrim(str) {
   if(!str) return str;
   return str.replace(/\s+$/g, '');
 }
+

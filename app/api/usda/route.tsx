@@ -7,10 +7,8 @@ import {getDataFromFoodDB, getDataFromEdamam, getDataFromOpenDataWeb, getDataFro
 export const GET = async (request: NextRequest) => {
   // https://api.nal.usda.gov/fdc/v1/foods/search?query=cheese&dataType=Foundation&pageSize=25&pageNumber=1&sortBy=dataType.keyword&sortOrder=asc&api_key=8u6ofSAd1wxQGkB6wdu8aHzl7aqUksB6N2hEgCNw
   const ingredient = request?.nextUrl?.searchParams.get('ingredient')
-  console.log("ingredient is: ", ingredient)
 
   const url = `https://api.nal.usda.gov/fdc/v1/foods/search?query=${ingredient}&dataType=Foundation&api_key=${process.env.usdaAPIKey}`
-  console.log("url is: ", url)
   
   try {
     const response = await fetch(url);
