@@ -12,34 +12,7 @@ export default function Home() {
       <Grid /> */}
 
       <main className={styles.main}>
-        <ol>
-          {data.data.map((flavorBibleObj)=>{
-            return (
-              <li>
-                <a
-                  href={'/ingredient'}
-                  className={styles.secondary}
-                >
-                  Ingredient: {flavorBibleObj.ingredient}
-                </a>
-                  <ol>
-                  {flavorBibleObj.pairings.map((pairing)=>{
-                    return (
-                    <li>
-                      <a
-                      href={'/ingredient/'}
-                      className={styles.secondary}
-                      >
-                      Ingredient: {pairing}
-                      </a>
-                    </li>
-                    )
-                  })}
-                  </ol>
-              </li>
-            )
-          })}
-        </ol>
+        <a href="/ingredients" className="button">Go to Ingredients List</a>
       </main>
     </div>
   );

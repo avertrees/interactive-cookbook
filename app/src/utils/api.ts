@@ -179,3 +179,7 @@ export const getDataFromEdamam = async (apiUrl: string) => {
     console.error(error.message);
   }
 }  
+
+const createURL = (path) => {
+  return window.location.origin + path
+}

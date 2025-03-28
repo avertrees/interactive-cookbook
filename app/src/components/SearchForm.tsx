@@ -8,11 +8,12 @@ import { useState } from 'react';
 
 export default function SearchForm() {
   const [searchTerm, setSearchTerm] = useState('');
-  const [searchType, setSearchType] = useState('scientific');
+  // const [searchType, setSearchType] = useState('scientific');
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    console.log({ searchTerm, searchType });
+    // console.log({ searchTerm, searchType });
+    console.log({ searchTerm });
   };
 
   return (
@@ -23,10 +24,10 @@ export default function SearchForm() {
         placeholder="Enter keyword..."
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
-        className={css({ p: '2', w: 'full', border: '1px solid', borderColor: 'gray.300', rounded: 'md' })}
+        // className={css({ p: '2', w: 'full', border: '1px solid', borderColor: 'gray.300', rounded: 'md' })}
       />
-      <div>
       {/* <div className={hstack({ gap: '4' })}> */}
+      {/* <div>
         <label className={css({ display: 'flex', alignItems: 'center', gap: '2' })}>
           <input
             type="radio"
@@ -47,10 +48,10 @@ export default function SearchForm() {
           />
           Common Name
         </label>
-      </div>
+      </div> */}
       <button
         type="submit"
-        className={css({ bg: 'blue.500', color: 'white', px: '4', py: '2', rounded: 'md', _hover: { bg: 'blue.600' } })}
+        // className={css({ bg: 'blue.500', color: 'white', px: '4', py: '2', rounded: 'md', _hover: { bg: 'blue.600' } })}
       >
         Search
       </button>
