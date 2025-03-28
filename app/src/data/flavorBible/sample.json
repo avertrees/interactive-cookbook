@@ -48,7 +48,7 @@
   "water":["coconut, water"]
 },
 "corn": {
-  "foodB_ID:": 205,
+  "foodB_ID": 205,
   "general":["corn", "corn and cornmeal", "corn and masa"],
   "cornmeal": {
     "general": ["cornmeal", "corn and cornmeal"],
@@ -64,6 +64,7 @@
   },
 },
 "pepper":{
+  "foodB_ID": 40,
   "general": ["pepper", "peppers"],
   "black": ["pepper, black", "pepper, black, pink", "pepper, pink"],
   "pink": ["pepper, black, pink"],
