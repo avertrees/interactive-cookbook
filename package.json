@@ -12,9 +12,13 @@
     "@pandacss/dev": "^0.53.1",
     "@styled-system/css": "^5.1.5",
     "firebase": "^11.4.0",
+    "install": "^0.13.0",
+    "mapbox-gl": "^3.13.0",
     "next": "15.2.1",
+    "npm": "^11.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-map-gl": "^8.0.4",
     "styled-system": "^5.1.5"
   },
   "devDependencies": {
