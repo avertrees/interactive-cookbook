@@ -1,5 +1,4 @@
 {
-"  // single organism, wheather it be plant, animal, or fungi",
   "singleIngredient":[
   "achiote",
   "achiote seeds",
@@ -172,11 +171,11 @@
   "cabbage, red",
   "cabbage, savoy",
   "calamari",
-  "calvados", //idk what this is
+  "calvados", 
   "cantaloupe",
   "caperberries",
   "capers",
-  "caponata", // also don't know what this is
+  "caponata",
   "caraway",
   "caraway seed",
   "caraway seeds",
@@ -221,7 +220,6 @@
   "cherries, sun-dried",
   "cherries, sweet",
 ],
-"// more than one ingredient, vague ingredients, or are a biproduct of a different ingredient. processed single ingredient.",
 "complexIngredient": [
   "aged foods",
   "alcohol",
