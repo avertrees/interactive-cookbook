@@ -1,0 +1,30 @@
+{
+  "Africa": {
+    "Northern Africa": {"DZA": "Algeria", "EGY": "Egypt", "LBY": "Libya", "MAR": "Morocco", "SDN": "Sudan", "TUN": "Tunisia", "ESH": "Western Sahara"},
+    "Sub-Saharan Africa": {
+      "West Africa": {"BEN": "Benin", "BFA": "Burkina Faso", "CPV": "Cape Verde", "CIV": "Côte d'Ivoire", "GMB": "Gambia", "GHA": "Ghana", "GIN": "Guinea", "GNB": "Guinea-Bissau", "LBR": "Liberia", "MLI": "Mali", "MRT": "Mauritania", "NER": "Niger", "NGA": "Nigeria", "SEN": "Senegal", "SLE": "Sierra Leone", "TGO": "Togo"},
+      "East Africa": {"BDI": "Burundi", "COM": "Comoros", "DJI": "Djibouti", "ERI": "Eritrea", "ETH": "Ethiopia", "KEN": "Kenya", "MDG": "Madagascar", "MWI": "Malawi", "MUS": "Mauritius", "MOZ": "Mozambique", "RWA": "Rwanda", "SYC": "Seychelles", "SOM": "Somalia", "SSD": "South Sudan", "TZA": "Tanzania", "UGA": "Uganda", "ZMB": "Zambia", "ZWE": "Zimbabwe"},
+      "Central Africa": {"AGO": "Angola", "CMR": "Cameroon", "CAF": "Central African Republic", "TCD": "Chad", "COD": "Democratic Republic of the Congo", "COG": "Republic of the Congo", "GNQ": "Equatorial Guinea", "GAB": "Gabon", "STP": "Sao Tome and Principe"},
+      "Southern Africa": {"BWA": "Botswana", "SWZ": "Eswatini", "LSO": "Lesotho", "NAM": "Namibia", "ZAF": "South Africa"}
+    }
+  },
+  "Americas": {
+    "North America": {"CAN": "Canada", "USA": "United States", "MEX": "Mexico"},
+    "Central America": {"BLZ": "Belize", "CRI": "Costa Rica", "SLV": "El Salvador", "GTM": "Guatemala", "HND": "Honduras", "NIC": "Nicaragua", "PAN": "Panama"},
+    "Caribbean": {"ATG": "Antigua and Barbuda", "BHS": "Bahamas", "BRB": "Barbados", "CUB": "Cuba", "DMA": "Dominica", "DOM": "Dominican Republic", "GRD": "Grenada", "HTI": "Haiti", "JAM": "Jamaica", "KNA": "Saint Kitts and Nevis", "LCA": "Saint Lucia", "VCT": "Saint Vincent and the Grenadines", "TTO": "Trinidad and Tobago"},
+    "South America": {"ARG": "Argentina", "BOL": "Bolivia", "BRA": "Brazil", "CHL": "Chile", "COL": "Colombia", "ECU": "Ecuador", "GUY": "Guyana", "PRY": "Paraguay", "PER": "Peru", "SUR": "Suriname", "URY": "Uruguay", "VEN": "Venezuela"}
+  },
+  "Asia": {
+    "Central Asia": {"KAZ": "Kazakhstan", "KGZ": "Kyrgyzstan", "TJK": "Tajikistan", "TKM": "Turkmenistan", "UZB": "Uzbekistan"},
+    "East Asia": {"CHN": "China", "HKG": "Hong Kong", "JPN": "Japan", "MAC": "Macao", "MNG": "Mongolia", "PRK": "North Korea", "KOR": "South Korea", "TWN": "Taiwan"},
+    "South Asia": {"AFG": "Afghanistan", "BGD": "Bangladesh", "BTN": "Bhutan", "IND": "India", "MDV": "Maldives", "NPL": "Nepal", "PAK": "Pakistan", "LKA": "Sri Lanka"},
+    "Southeast Asia": {"BRN": "Brunei", "KHM": "Cambodia", "IDN": "Indonesia", "LAO": "Laos", "MYS": "Malaysia", "MMR": "Myanmar", "PHL": "Philippines", "SGP": "Singapore", "THA": "Thailand", "TLS": "Timor-Leste", "VNM": "Vietnam"},
+    "Western Asia (Middle East)": {"ARM": "Armenia", "AZE": "Azerbaijan", "BHR": "Bahrain", "CYP": "Cyprus", "GEO": "Georgia", "IRN": "Iran", "IRQ": "Iraq", "ISR": "Israel", "JOR": "Jordan", "KWT": "Kuwait", "LBN": "Lebanon", "OMN": "Oman", "PSE": "Palestine", "QAT": "Qatar", "SAU": "Saudi Arabia", "SYR": "Syria", "TUR": "Turkey", "ARE": "United Arab Emirates", "YEM": "Yemen"}
+  },
+  "Europe": {
+    "Northern Europe": {"DNK": "Denmark", "EST": "Estonia", "FIN": "Finland", "ISL": "Iceland", "IRL": "Ireland", "LVA": "Latvia", "LTU": "Lithuania", "NOR": "Norway", "SWE": "Sweden", "GBR": "United Kingdom"},
+    "Western Europe": {"AUT": "Austria", "BEL": "Belgium", "FRA": "France", "DEU": "Germany", "LIE": "Liechtenstein", "LUX": "Luxembourg", "MCO": "Monaco", "NLD": "Netherlands", "CHE": "Switzerland"},
+    "Southern Europe": {"AND": "Andorra", "BIH": "Bosnia and Herzegovina", "HRV": "Croatia", "GRC": "Greece", "ITA": "Italy", "MLT": "Malta", "MNE": "Montenegro", "MKD": "North Macedonia", "PRT": "Portugal", "SMR": "San Marino", "SRB": "Serbia", "SVN": "Slovenia", "ESP": "Spain", "VAT": "Vatican City"},
+    "Eastern Europe": {"BLR": "Belarus", "BGR": "Bulgaria", "CZE": "Czech Republic", "HUN": "Hungary", "MDA": "Moldova", "POL": "Poland", "ROU": "Romania", "RUS": "Russia", "SVK": "Slovakia", "UKR": "Ukraine"}
+  }
+}
