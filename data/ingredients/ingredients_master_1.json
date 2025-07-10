@@ -6,7 +6,7 @@
       "achiote",
       "achiote seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "achiote",
       "pork",
       "sour_orange"
@@ -20,7 +20,7 @@
       "aged foods",
       "cheese aged"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -30,7 +30,7 @@
       "aioli",
       "eastern mediterranean"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -43,7 +43,7 @@
       "tequila",
       "vodka"
     ],
-    "pairings": [
+    "pairing_ids": [
       "stews"
     ],
     "status": "draft"
@@ -56,7 +56,7 @@
       "beer  ale",
       "beer or ale"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -69,7 +69,7 @@
       "mostarda mustard fruits",
       "mstarda mustard fruits"
     ],
-    "pairings": [
+    "pairing_ids": [
       "combination_of_the_three_is_delicious."
     ],
     "status": "draft"
@@ -81,7 +81,7 @@
       "allspice",
       "licorice"
     ],
-    "pairings": [
+    "pairing_ids": [
       "allspice",
       "garlic",
       "pork"
@@ -100,7 +100,7 @@
       "oils nut",
       "pine nuts"
     ],
-    "pairings": [
+    "pairing_ids": [
       "almonds",
       "honey",
       "orange_zest",
@@ -116,7 +116,7 @@
       "jerk pastes",
       "pears and pear paste"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -126,7 +126,7 @@
       "amaretti cookie crumbs",
       "cookies"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -136,7 +136,7 @@
       "amaretto",
       "amaretto sweet almond liqueur"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sugar"
     ],
     "status": "draft"
@@ -154,7 +154,7 @@
       "chili powder ancho",
       "chili sauce"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sauces"
     ],
     "status": "draft"
@@ -166,7 +166,7 @@
       "anchovies",
       "anchovy"
     ],
-    "pairings": [
+    "pairing_ids": [
       "anchovies",
       "lemon",
       "olive_oil",
@@ -181,7 +181,7 @@
       "andouille sausage",
       "sausage andouille"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -193,7 +193,7 @@
       "harissa",
       "jasmine"
     ],
-    "pairings": [
+    "pairing_ids": [
       "angelica",
       "cream",
       "rhubarb"
@@ -213,7 +213,7 @@
       "spices star anise",
       "star anise"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -229,7 +229,7 @@
       "brandy dry",
       "pear brandy"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -246,7 +246,7 @@
       "hard cider",
       "pear cider"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -262,7 +262,7 @@
       "fruit juices",
       "fruits and fruit juices"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -278,7 +278,7 @@
       "apples sauce",
       "fruit apples"
     ],
-    "pairings": [
+    "pairing_ids": [
       "apples",
       "red_cabbage",
       "cinnamon"
@@ -291,7 +291,7 @@
     "name_variants": [
       "applejack"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -302,7 +302,7 @@
       "fruit tart",
       "tarts"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -317,7 +317,7 @@
       "apricots sauce",
       "tea apricot"
     ],
-    "pairings": [
+    "pairing_ids": [
       "dried_apricots",
       "dried_cherries",
       "ginger",
@@ -334,7 +334,7 @@
       "buckwheat",
       "turbot"
     ],
-    "pairings": [
+    "pairing_ids": [
       "turbot",
       "lemon",
       "miso",
@@ -349,7 +349,7 @@
       "armagnac",
       "zabaglione"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -360,7 +360,7 @@
       "lavender",
       "lavender can substitute for caraway"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lavender",
       "meat",
       "salt"
@@ -374,7 +374,7 @@
       "arrowroot",
       "choucroute"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -387,7 +387,7 @@
       "artichokes",
       "artichokes jerusalem"
     ],
-    "pairings": [
+    "pairing_ids": [
       "artichokes",
       "olive_oil",
       "parmesan_cheese",
@@ -402,7 +402,7 @@
       "arugula",
       "greens arugula"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -412,7 +412,7 @@
       "asparagus",
       "asparagus white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "asparagus",
       "prosciutto",
       "goat_cheese",
@@ -427,7 +427,7 @@
       "astringency",
       "nettles stinging"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -439,7 +439,7 @@
       "avocados",
       "oil avocado"
     ],
-    "pairings": [
+    "pairing_ids": [
       "avocado",
       "lemon",
       "smoked_trout"
@@ -455,7 +455,7 @@
       "fat bacon",
       "pork bacon"
     ],
-    "pairings": [
+    "pairing_ids": [
       "bacon",
       "spinach",
       "winter_squash"
@@ -473,7 +473,7 @@
       "cured meats prosciutto",
       "meats cured"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -485,7 +485,7 @@
       "panforte",
       "panforte italian fruit and nut cake"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables"
     ],
     "status": "draft"
@@ -505,7 +505,7 @@
       "refried beans",
       "soy beans"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar,_red_wine"
     ],
     "status": "draft"
@@ -523,7 +523,7 @@
       "baked goods shortbread",
       "bread and other baked goods"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -533,7 +533,7 @@
       "baking powder",
       "baking soda"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -546,7 +546,7 @@
       "bananas liqueur",
       "bananas unripe"
     ],
-    "pairings": [
+    "pairing_ids": [
       "banana",
       "oats",
       "pecans"
@@ -563,7 +563,7 @@
       "barbecue sauce",
       "barbecued foods"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -576,7 +576,7 @@
       "grains",
       "wheat"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar,_sherry"
     ],
     "status": "draft"
@@ -594,7 +594,7 @@
       "basil sweet",
       "lemon basil"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables"
     ],
     "status": "draft"
@@ -607,7 +607,7 @@
       "basil thai",
       "thai basil"
     ],
-    "pairings": [
+    "pairing_ids": [
       "thai_basil",
       "coconut_milk",
       "ginger"
@@ -623,7 +623,7 @@
       "cinnamon basil",
       "spices cinnamon"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cinnamon",
       "cloves",
       "mace",
@@ -640,7 +640,7 @@
       "bass striped",
       "striped bass"
     ],
-    "pairings": [
+    "pairing_ids": [
       "black_bass",
       "new_potatoes",
       "shrimp"
@@ -655,7 +655,7 @@
       "flounder",
       "sea bass"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sea_bass",
       "mushrooms",
       "sesame_seeds",
@@ -670,7 +670,7 @@
       "bay leaf",
       "bay leaves"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar"
     ],
     "status": "draft"
@@ -683,7 +683,7 @@
       "brussels sprouts",
       "sprouts"
     ],
-    "pairings": [
+    "pairing_ids": [
       "stir-fried_dishes,_esp._heartier_sprouts"
     ],
     "status": "draft"
@@ -699,7 +699,7 @@
       "beans white",
       "green beans"
     ],
-    "pairings": [
+    "pairing_ids": [
       "black_beans",
       "lemon",
       "sherry"
@@ -715,7 +715,7 @@
       "cantaloupe",
       "melon cantaloupe"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -731,7 +731,7 @@
       "cranberries sweetened",
       "cranberry juice"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_white"
     ],
     "status": "draft"
@@ -745,7 +745,7 @@
       "fava beans",
       "lima beans"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar"
     ],
     "status": "draft"
@@ -758,7 +758,7 @@
       "beans flageolets",
       "flageolets"
     ],
-    "pairings": [
+    "pairing_ids": [
       "flageolet_beans",
       "garlic",
       "thyme"
@@ -772,7 +772,7 @@
       "beans haricots verts",
       "haricots verts"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -782,7 +782,7 @@
       "beans kidney",
       "kidneys"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_red"
     ],
     "status": "draft"
@@ -804,7 +804,7 @@
       "corned beef",
       "meat ground"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -818,7 +818,7 @@
       "stews",
       "stews meat"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -828,7 +828,7 @@
       "beef braised",
       "meats braised"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -838,7 +838,7 @@
       "beef kobe",
       "kobe beef"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -849,7 +849,7 @@
       "oxtails",
       "yellowtail"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -861,7 +861,7 @@
       "fruits raw",
       "vegetables raw"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -873,7 +873,7 @@
       "pork ribs",
       "short ribs"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -894,7 +894,7 @@
       "tomatoes roasted",
       "vegetables roasted"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yams"
     ],
     "status": "draft"
@@ -908,7 +908,7 @@
       "lamb shanks",
       "pork shank"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -924,7 +924,7 @@
       "steaks",
       "veal steaks"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -937,7 +937,7 @@
       "pears dried",
       "pears fresh"
     ],
-    "pairings": [
+    "pairing_ids": [
       "pears",
       "stilton_cheese",
       "hazelnuts",
@@ -955,7 +955,7 @@
       "salt smoked",
       "smokiness"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetarian_dishes"
     ],
     "status": "draft"
@@ -970,7 +970,7 @@
       "beets juice",
       "beets vegetable"
     ],
-    "pairings": [
+    "pairing_ids": [
       "salad_of_organic_beets_and_gala_apples,_\u201cbeauty_heart\u201d_radishes_and_upland_cress,"
     ],
     "status": "draft"
@@ -990,7 +990,7 @@
       "peppers",
       "stuffed peppers"
     ],
-    "pairings": [
+    "pairing_ids": [
       "bell_peppers",
       "garlic",
       "olive_oil",
@@ -1017,7 +1017,7 @@
       "strawberries",
       "strawberries fruit"
     ],
-    "pairings": [
+    "pairing_ids": [
       "blackberries",
       "honey",
       "vanilla",
@@ -1036,7 +1036,7 @@
       "raspberries red",
       "raspberry preserves"
     ],
-    "pairings": [
+    "pairing_ids": [
       "raspberries",
       "sugar",
       "vanilla",
@@ -1053,7 +1053,7 @@
       "fromage blanc",
       "sauces beurre blanc"
     ],
-    "pairings": [
+    "pairing_ids": [
       "figs"
     ],
     "status": "draft"
@@ -1065,7 +1065,7 @@
       "beverages",
       "hot beverages"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1075,7 +1075,7 @@
       "biscotti",
       "biscuit"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1087,7 +1087,7 @@
       "bitters orange",
       "chocolate bitter"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -1109,7 +1109,7 @@
       "snow peas",
       "sugar snap peas"
     ],
-    "pairings": [
+    "pairing_ids": [
       "black-eyed_peas",
       "rice",
       "savory"
@@ -1123,7 +1123,7 @@
       "blini",
       "citron"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1136,7 +1136,7 @@
       "oranges and blood oranges",
       "oranges blood"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vanilla"
     ],
     "status": "draft"
@@ -1150,7 +1150,7 @@
       "paella",
       "tomatillos"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cauliflower",
       "pine_nuts",
       "lime"
@@ -1168,7 +1168,7 @@
       "swordfish",
       "tilefish"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine"
     ],
     "status": "draft"
@@ -1180,7 +1180,7 @@
       "boar",
       "boar wild"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1191,7 +1191,7 @@
       "borage",
       "borscht"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -1205,7 +1205,7 @@
       "delicateflavored foods",
       "strongly flavored foods"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1215,7 +1215,7 @@
       "bonito flakes",
       "bonito flakes dried"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1225,7 +1225,7 @@
       "bottarga tuna roe",
       "tuna"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tuna",
       "sesame",
       "wasabi"
@@ -1241,7 +1241,7 @@
       "mascarpone",
       "ratatouille"
     ],
-    "pairings": [
+    "pairing_ids": [
       "mascarpone",
       "maple_syrup",
       "pistachios"
@@ -1254,7 +1254,7 @@
     "name_variants": [
       "bouquet garni"
     ],
-    "pairings": [
+    "pairing_ids": [
       "bay_leaf",
       "parsley",
       "thyme"
@@ -1271,7 +1271,7 @@
       "whiskey",
       "whiskey scotch"
     ],
-    "pairings": [
+    "pairing_ids": [
       "scotch",
       "ginger",
       "lemon_juice"
@@ -1294,7 +1294,7 @@
       "sauted dishes",
       "vegetablebased dishes"
     ],
-    "pairings": [
+    "pairing_ids": [
       "venison,_shoulder"
     ],
     "status": "draft"
@@ -1306,7 +1306,7 @@
       "brandade",
       "brandies fruit"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1327,7 +1327,7 @@
       "nut bread",
       "walnut bread"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1343,7 +1343,7 @@
       "bread crumbs panko",
       "bread crumbs regular"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1355,7 +1355,7 @@
       "croutons",
       "croutons accent"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1365,7 +1365,7 @@
       "bread rye",
       "rye"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1377,7 +1377,7 @@
       "sweetbreads",
       "veal sweetbreads"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sweetbreads",
       "mustard",
       "raisins"
@@ -1393,7 +1393,7 @@
       "pancakes",
       "pancakescrepes"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1404,7 +1404,7 @@
       "brioche",
       "brioche or challah"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1416,7 +1416,7 @@
       "broccolini",
       "broths"
     ],
-    "pairings": [
+    "pairing_ids": [
       "broccoli",
       "garlic",
       "tarragon"
@@ -1438,7 +1438,7 @@
       "buttermilk",
       "butterscotch"
     ],
-    "pairings": [
+    "pairing_ids": [
       "walnuts"
     ],
     "status": "draft"
@@ -1453,7 +1453,7 @@
       "sauce brown butter",
       "sauces brown butter"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1463,7 +1463,7 @@
       "barnaise sauce",
       "sauces barnaise"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1474,7 +1474,7 @@
       "sauce bchamel",
       "sauces bchamel"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1487,7 +1487,7 @@
       "cabbage red",
       "cabbage savoy"
     ],
-    "pairings": [
+    "pairing_ids": [
       "red_cabbage",
       "pancetta",
       "ricotta_salata_cheese"
@@ -1501,7 +1501,7 @@
       "cabbage with corned beef brisket",
       "corned beef and cabbage"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1512,7 +1512,7 @@
       "sauvignon blanc",
       "wine dry white or red cabernet sauvignon"
     ],
-    "pairings": [
+    "pairing_ids": [
       "strawberries"
     ],
     "status": "draft"
@@ -1541,7 +1541,7 @@
       "salads tuna",
       "salads vegetable"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1552,7 +1552,7 @@
       "coffee",
       "coffee  espresso"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1563,7 +1563,7 @@
       "cakes",
       "pound cake"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1573,7 +1573,7 @@
       "calamari",
       "calvados"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vermouth,_sweet"
     ],
     "status": "draft"
@@ -1586,7 +1586,7 @@
       "tahini",
       "tempura"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1597,7 +1597,7 @@
       "candy",
       "marshmallows"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1607,7 +1607,7 @@
       "caperberries",
       "capers"
     ],
-    "pairings": [
+    "pairing_ids": [
       "capers",
       "lemon",
       "marjoram"
@@ -1622,7 +1622,7 @@
       "carpaccio",
       "sumac"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sumac",
       "salt",
       "sesame_seeds",
@@ -1639,7 +1639,7 @@
       "caraway seed",
       "caraway seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vanilla"
     ],
     "status": "draft"
@@ -1651,7 +1651,7 @@
       "cardamom",
       "cardamom green"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -1666,7 +1666,7 @@
       "carrots and carrot juice",
       "carrots juice"
     ],
-    "pairings": [
+    "pairing_ids": [
       "carrots",
       "raisins",
       "yogurt"
@@ -1680,7 +1680,7 @@
       "cashews",
       "nuts cashews"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables,_esp._indian"
     ],
     "status": "draft"
@@ -1694,7 +1694,7 @@
       "marinades",
       "sardines"
     ],
-    "pairings": [
+    "pairing_ids": [
       "mackerel",
       "onions",
       "thyme"
@@ -1708,7 +1708,7 @@
       "cassis",
       "cassoulet"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1724,7 +1724,7 @@
       "fish white",
       "fish whole"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_dry_white"
     ],
     "status": "draft"
@@ -1737,7 +1737,7 @@
       "caviar and other fish roe",
       "salmon caviar"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_champagne"
     ],
     "status": "draft"
@@ -1749,7 +1749,7 @@
       "cayenne",
       "cayenne ground"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cayenne",
       "coriander",
       "cumin",
@@ -1769,7 +1769,7 @@
       "celery root",
       "celery stalk"
     ],
-    "pairings": [
+    "pairing_ids": [
       "celery",
       "tarragon",
       "vinegar"
@@ -1783,7 +1783,7 @@
       "celery and celery salt",
       "celery salt"
     ],
-    "pairings": [
+    "pairing_ids": [
       "celery",
       "tarragon",
       "vinegar"
@@ -1800,7 +1800,7 @@
       "celery seed",
       "celery seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "celery",
       "tarragon",
       "vinegar"
@@ -1816,7 +1816,7 @@
       "polenta",
       "spaetzle"
     ],
-    "pairings": [
+    "pairing_ids": [
       "polenta",
       "parmesan_cheese",
       "rosemary"
@@ -1831,7 +1831,7 @@
       "chamomile",
       "chayote"
     ],
-    "pairings": [
+    "pairing_ids": [
       "veal"
     ],
     "status": "draft"
@@ -1847,7 +1847,7 @@
       "wine sparkling",
       "wine sparkling white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "strawberries"
     ],
     "status": "draft"
@@ -1860,7 +1860,7 @@
       "mushrooms chanterelle",
       "mushrooms chanterelles"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1871,7 +1871,7 @@
       "chard",
       "swiss chard"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -1882,7 +1882,7 @@
       "vinegar chardonnay",
       "wine chardonnay"
     ],
-    "pairings": [
+    "pairing_ids": [
       "veal"
     ],
     "status": "draft"
@@ -1895,7 +1895,7 @@
       "horseradish",
       "tapenade"
     ],
-    "pairings": [
+    "pairing_ids": [
       "horseradish",
       "seafood",
       "tomatoes"
@@ -1916,7 +1916,7 @@
       "cheeses salty",
       "cream cheese"
     ],
-    "pairings": [
+    "pairing_ids": [
       "pears"
     ],
     "status": "draft"
@@ -1933,7 +1933,7 @@
       "cheeses mozzarella",
       "sauces cheese"
     ],
-    "pairings": [
+    "pairing_ids": [
       "mozzarella_cheese",
       "olives",
       "prosciutto"
@@ -1949,7 +1949,7 @@
       "cheese feta",
       "cheeses feta"
     ],
-    "pairings": [
+    "pairing_ids": [
       "feta_cheese",
       "salad_greens",
       "mint"
@@ -1965,7 +1965,7 @@
       "cheeses parmesan",
       "parmesan cheese"
     ],
-    "pairings": [
+    "pairing_ids": [
       "walnuts"
     ],
     "status": "draft"
@@ -1983,7 +1983,7 @@
       "cheese hoja santa",
       "cheese manchego"
     ],
-    "pairings": [
+    "pairing_ids": [
       "salads"
     ],
     "status": "draft"
@@ -2011,7 +2011,7 @@
       "cheese valdeon",
       "cheese vermont shepherd"
     ],
-    "pairings": [
+    "pairing_ids": [
       "white_wine"
     ],
     "status": "draft"
@@ -2023,7 +2023,7 @@
       "cheese comt",
       "cheeses comt"
     ],
-    "pairings": [
+    "pairing_ids": [
       "greens,_salad"
     ],
     "status": "draft"
@@ -2043,7 +2043,7 @@
       "goat cheese",
       "milk goats"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2054,7 +2054,7 @@
       "cheese jack",
       "cheese monterey jack"
     ],
-    "pairings": [
+    "pairing_ids": [
       "walnuts"
     ],
     "status": "draft"
@@ -2066,7 +2066,7 @@
       "cheese emmental",
       "cheeses emmental"
     ],
-    "pairings": [
+    "pairing_ids": [
       "potatoes"
     ],
     "status": "draft"
@@ -2086,7 +2086,7 @@
       "cheese teleme",
       "cheese triple crme"
     ],
-    "pairings": [
+    "pairing_ids": [
       "pomegranate"
     ],
     "status": "draft"
@@ -2101,7 +2101,7 @@
       "cheese queso fresco",
       "cheese torta del casar"
     ],
-    "pairings": [
+    "pairing_ids": [
       "quince_paste"
     ],
     "status": "draft"
@@ -2113,7 +2113,7 @@
       "cheese gruyre",
       "cheeses gruyre"
     ],
-    "pairings": [
+    "pairing_ids": [
       "walnuts"
     ],
     "status": "draft"
@@ -2125,7 +2125,7 @@
       "cheese havarti",
       "cheeses havarti"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2141,7 +2141,7 @@
       "herbs other as a blending herb",
       "herbs tarragon"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2152,7 +2152,7 @@
       "cheese romano",
       "romano swiss"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2164,7 +2164,7 @@
       "ricotta",
       "ricotta cheese"
     ],
-    "pairings": [
+    "pairing_ids": [
       "ricotta",
       "bread",
       "honey",
@@ -2180,7 +2180,7 @@
       "cheeses roquefort",
       "roquefort"
     ],
-    "pairings": [
+    "pairing_ids": [
       "roquefort_cheese",
       "figs",
       "pears"
@@ -2195,7 +2195,7 @@
       "sopressata",
       "souffls"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2210,7 +2210,7 @@
       "sour cream and sour cream sauces",
       "sourness"
     ],
-    "pairings": [
+    "pairing_ids": [
       "soups"
     ],
     "status": "draft"
@@ -2223,7 +2223,7 @@
       "fruitcake",
       "shortcake"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2234,7 +2234,7 @@
       "chervil",
       "herbs chervil"
     ],
-    "pairings": [
+    "pairing_ids": [
       "chervil",
       "chives",
       "parsley",
@@ -2257,7 +2257,7 @@
       "cherries sundried",
       "cherries sweet"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2268,7 +2268,7 @@
       "pie",
       "pies"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2280,7 +2280,7 @@
       "honey chestnut",
       "water chestnuts"
     ],
-    "pairings": [
+    "pairing_ids": [
       "chestnuts",
       "orange",
       "pear"
@@ -2300,7 +2300,7 @@
       "poultry",
       "poultry chicken"
     ],
-    "pairings": [
+    "pairing_ids": [
       "chicken",
       "mustard",
       "thyme"
@@ -2317,7 +2317,7 @@
       "meats fatty",
       "poultry fatty"
     ],
-    "pairings": [
+    "pairing_ids": [
       "chicken",
       "mustard",
       "thyme"
@@ -2334,7 +2334,7 @@
       "liver calfs",
       "liver chicken"
     ],
-    "pairings": [
+    "pairing_ids": [
       "calf\u2019s_liver",
       "figs",
       "onions",
@@ -2350,7 +2350,7 @@
       "chickpeas and hummus",
       "hummus"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2362,7 +2362,7 @@
       "greens chicory",
       "lettuces bitter greens and chicories"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2390,7 +2390,7 @@
       "chiles jalapeo",
       "pasilla peppers"
     ],
-    "pairings": [
+    "pairing_ids": [
       "stuffed_peppers"
     ],
     "status": "draft"
@@ -2408,7 +2408,7 @@
       "chile peppers dried red",
       "chile peppers pasilla dried chilacas"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar,_white"
     ],
     "status": "draft"
@@ -2421,7 +2421,7 @@
       "chiles red",
       "chiles rellenos"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2432,7 +2432,7 @@
       "cold cuts",
       "cold dishes"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2444,7 +2444,7 @@
       "garlic chives",
       "herbs chives"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -2459,7 +2459,7 @@
       "chocolate white",
       "white chocolate"
     ],
-    "pairings": [
+    "pairing_ids": [
       "white_chocolate",
       "ginger",
       "pistachios",
@@ -2477,7 +2477,7 @@
       "cocoa powder",
       "cocoa sweetened"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2488,7 +2488,7 @@
       "sausage chorizo",
       "sausages chorizo"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2498,7 +2498,7 @@
       "chowders",
       "chowders clam"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2508,7 +2508,7 @@
       "christmas",
       "thanksgiving"
     ],
-    "pairings": [
+    "pairing_ids": [
       "peppermint"
     ],
     "status": "draft"
@@ -2521,7 +2521,7 @@
       "chutney indian",
       "chutneys"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2531,7 +2531,7 @@
       "cilantro",
       "herbs cilantro"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cilantro",
       "garlic",
       "ginger"
@@ -2549,7 +2549,7 @@
       "fruits citrus",
       "orange juice zest and clementine"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2565,7 +2565,7 @@
       "zest lemon",
       "zest orange"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2578,7 +2578,7 @@
       "seafood clams",
       "shellfish clams"
     ],
-    "pairings": [
+    "pairing_ids": [
       "clams",
       "oysters",
       "potatoes",
@@ -2593,7 +2593,7 @@
       "clove",
       "cloves"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cloves",
       "ginger",
       "honey"
@@ -2609,7 +2609,7 @@
       "ladyfingers",
       "skate"
     ],
-    "pairings": [
+    "pairing_ids": [
       "southern_cuisine_(american)"
     ],
     "status": "draft"
@@ -2622,7 +2622,7 @@
       "cola",
       "soda"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2635,7 +2635,7 @@
       "cocktails pimms no  cup",
       "sauces cocktail"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2650,7 +2650,7 @@
       "coconut shredded",
       "coconut water"
     ],
-    "pairings": [
+    "pairing_ids": [
       "coconut_milk",
       "beef",
       "ginger"
@@ -2667,7 +2667,7 @@
       "fish cod",
       "salt cod"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cod",
       "cepes_(mushrooms)",
       "garlic",
@@ -2684,7 +2684,7 @@
       "couscous",
       "couscous israeli"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -2696,7 +2696,7 @@
       "cointreau",
       "dulce de leche"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2706,7 +2706,7 @@
       "coleslaw",
       "coleslaw asianstyle"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2716,7 +2716,7 @@
       "collard greens",
       "greens collard"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar,_cider"
     ],
     "status": "draft"
@@ -2728,7 +2728,7 @@
       "confit",
       "lemon confit"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2743,7 +2743,7 @@
       "slowcooked dishes",
       "sousvide cooking"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -2758,7 +2758,7 @@
       "spices warming",
       "warming"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cucumbers",
       "mint",
       "yogurt"
@@ -2772,7 +2772,7 @@
       "coriander",
       "coriander seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "coriander",
       "fish",
       "garlic",
@@ -2793,7 +2793,7 @@
       "cornmeal for breading",
       "cornmeal for crust"
     ],
-    "pairings": [
+    "pairing_ids": [
       "corn",
       "cilantro",
       "shrimp"
@@ -2809,7 +2809,7 @@
       "corn syrup light",
       "elderflower syrup"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2820,7 +2820,7 @@
       "hamburgers",
       "pretzels"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2832,7 +2832,7 @@
       "guinea fowl",
       "pheasant"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -2848,7 +2848,7 @@
       "crabs",
       "softshell crabs"
     ],
-    "pairings": [
+    "pairing_ids": [
       "crab",
       "saffron",
       "shallots"
@@ -2864,7 +2864,7 @@
       "lobster raw",
       "lobster roe"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lobster",
       "saffron",
       "vanilla"
@@ -2880,7 +2880,7 @@
       "cream halfandhalf",
       "cream heavy"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2892,7 +2892,7 @@
       "cream or milk",
       "milk"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2913,7 +2913,7 @@
       "sauces savory",
       "sauces white"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2925,7 +2925,7 @@
       "ice cream coffee",
       "ices and ice creams"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2936,7 +2936,7 @@
       "sauces tartar",
       "tartar sauce"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2946,7 +2946,7 @@
       "crudits",
       "quatre pices"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cloves_(allspice_or_cinnamon)",
       "ginger",
       "nutmeg",
@@ -2963,7 +2963,7 @@
       "crust pie",
       "puff pastry"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -2976,7 +2976,7 @@
       "crme de menthe",
       "crme frache"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sugar,_brown"
     ],
     "status": "draft"
@@ -2989,7 +2989,7 @@
       "cucumbers",
       "cucumbers sauted"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cucumber",
       "mint",
       "yogurt"
@@ -3003,7 +3003,7 @@
       "cumin",
       "cumin seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cumin",
       "tomatoes",
       "turmeric"
@@ -3018,7 +3018,7 @@
       "orange curaao",
       "spanish cusine"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3029,7 +3029,7 @@
       "cures",
       "salmon cured"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tomatoes"
     ],
     "status": "draft"
@@ -3047,7 +3047,7 @@
       "ham smoked",
       "ham virginia"
     ],
-    "pairings": [
+    "pairing_ids": [
       "ham",
       "mozzarella_cheese",
       "red_onion"
@@ -3068,7 +3068,7 @@
       "currants red fruit",
       "currants red jelly"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3082,7 +3082,7 @@
       "curry leaf",
       "curry leaves"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables"
     ],
     "status": "draft"
@@ -3098,7 +3098,7 @@
       "curry powder and sauces",
       "curry powder or sauce"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -3114,7 +3114,7 @@
       "curry paste yellow",
       "curry pastes and curries"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3124,7 +3124,7 @@
       "curry sauce",
       "curry sauces"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3135,7 +3135,7 @@
       "custards",
       "eggs custard"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_sweet"
     ],
     "status": "draft"
@@ -3147,7 +3147,7 @@
       "daikon",
       "tea lapsang souchong"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar"
     ],
     "status": "draft"
@@ -3161,7 +3161,7 @@
       "lettuces mesclun greens",
       "mesclun salad greens"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar"
     ],
     "status": "draft"
@@ -3173,7 +3173,7 @@
       "dashi",
       "stocks dashi"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3182,7 +3182,7 @@
     "name_variants": [
       "dates"
     ],
-    "pairings": [
+    "pairing_ids": [
       "dates",
       "orange",
       "walnuts"
@@ -3197,7 +3197,7 @@
       "desserts and dessert sauces",
       "iced desserts"
     ],
-    "pairings": [
+    "pairing_ids": [
       "dessert_wine_should_always_be_sweeter_than_the_dessert_it_accompanies."
     ],
     "status": "draft"
@@ -3209,7 +3209,7 @@
       "dill",
       "morels"
     ],
-    "pairings": [
+    "pairing_ids": [
       "dill",
       "cucumber",
       "salmon"
@@ -3223,7 +3223,7 @@
       "dips",
       "sauces dipping"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3236,7 +3236,7 @@
       "salads and salad dressings",
       "salads green pasta and salad dressings"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3252,7 +3252,7 @@
       "fruits dried",
       "fruits fresh"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tarragon"
     ],
     "status": "draft"
@@ -3269,7 +3269,7 @@
       "fat duck",
       "poultry duck"
     ],
-    "pairings": [
+    "pairing_ids": [
       "duck",
       "parsnips",
       "turnips"
@@ -3283,7 +3283,7 @@
       "duck and duck confit",
       "duck confit"
     ],
-    "pairings": [
+    "pairing_ids": [
       "duck",
       "parsnips",
       "turnips"
@@ -3297,7 +3297,7 @@
       "duck prosciutto",
       "prosciutto"
     ],
-    "pairings": [
+    "pairing_ids": [
       "walnuts"
     ],
     "status": "draft"
@@ -3309,7 +3309,7 @@
       "dumplings",
       "prunes"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3325,7 +3325,7 @@
       "tea green",
       "teas"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3338,7 +3338,7 @@
       "okra",
       "tripe"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -3357,7 +3357,7 @@
       "eggs omelets",
       "eggs scrambled"
     ],
-    "pairings": [
+    "pairing_ids": [
       "eggs",
       "potato",
       "sausage"
@@ -3374,7 +3374,7 @@
       "eggs hardboiled",
       "eggs including hardboiled and egg dishes"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tomatoes"
     ],
     "status": "draft"
@@ -3386,7 +3386,7 @@
       "egg salad",
       "eggs and egg salad"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3397,7 +3397,7 @@
       "eggs yolk",
       "eggs yolks"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3407,7 +3407,7 @@
       "eggs quail",
       "quail"
     ],
-    "pairings": [
+    "pairing_ids": [
       "quail",
       "marjoram",
       "olive_oil",
@@ -3424,7 +3424,7 @@
       "emulsions",
       "gelatin for texture"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3434,7 +3434,7 @@
       "enchiladas",
       "succotash"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3444,7 +3444,7 @@
       "endive",
       "endive belgian"
     ],
-    "pairings": [
+    "pairing_ids": [
       "endive",
       "cheese",
       "mushrooms"
@@ -3459,7 +3459,7 @@
       "langoustines",
       "tagines"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables,_green"
     ],
     "status": "draft"
@@ -3472,7 +3472,7 @@
       "escarole",
       "espelette"
     ],
-    "pairings": [
+    "pairing_ids": [
       "escalar",
       "kobe_beef",
       "brown_butter"
@@ -3487,7 +3487,7 @@
       "focaccia",
       "galangal"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3497,7 +3497,7 @@
       "faro",
       "farro"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3507,7 +3507,7 @@
       "fat goose",
       "goose"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3518,7 +3518,7 @@
       "meats and poultry richer",
       "meats fattier richer andor roasted"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3532,7 +3532,7 @@
       "fennel pollen",
       "fennel seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "fennel",
       "orange",
       "sambuca"
@@ -3547,7 +3547,7 @@
       "fenugreek leaves",
       "fenugreek seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -3559,7 +3559,7 @@
       "fermented black beans",
       "fermented foods"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3569,7 +3569,7 @@
       "fiddlehead ferns",
       "prosecco"
     ],
-    "pairings": [
+    "pairing_ids": [
       "fiddlehead_ferns",
       "sesame_oil_and/or_seeds",
       "soy_sauce"
@@ -3586,7 +3586,7 @@
       "figs dried black",
       "figs fresh"
     ],
-    "pairings": [
+    "pairing_ids": [
       "dried_figs",
       "anise",
       "oranges",
@@ -3601,7 +3601,7 @@
       "fines herbes",
       "herbes de provence"
     ],
-    "pairings": [
+    "pairing_ids": [
       "chervil",
       "chives",
       "parsley",
@@ -3617,7 +3617,7 @@
       "kale",
       "kirsch"
     ],
-    "pairings": [
+    "pairing_ids": [
       "kale",
       "onions",
       "salt",
@@ -3633,7 +3633,7 @@
       "fish sauce asian",
       "fish sauce thai"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables"
     ],
     "status": "draft"
@@ -3645,7 +3645,7 @@
       "fish pike",
       "pike"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3659,7 +3659,7 @@
       "salmon ivory",
       "salmon roe"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3676,7 +3676,7 @@
       "trout",
       "trout smoked"
     ],
-    "pairings": [
+    "pairing_ids": [
       "smoked_salmon",
       "dill",
       "horseradish",
@@ -3692,7 +3692,7 @@
       "fish sole",
       "sole"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sole",
       "paprika",
       "potatoes"
@@ -3710,7 +3710,7 @@
       "spices many",
       "spices nutmeg"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cinnamon",
       "cloves",
       "fennel_seeds",
@@ -3727,7 +3727,7 @@
       "flour for dredging",
       "phyllo dough"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3738,7 +3738,7 @@
       "framboise",
       "frise"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3751,7 +3751,7 @@
       "gravy",
       "gremolata"
     ],
-    "pairings": [
+    "pairing_ids": [
       "foie_gras",
       "strawberries",
       "black_pepper"
@@ -3765,7 +3765,7 @@
       "fondue",
       "fondues"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3775,7 +3775,7 @@
       "french pastries",
       "pastries"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3785,7 +3785,7 @@
       "french toast",
       "toasts"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3798,7 +3798,7 @@
       "stirfried dishes",
       "stirfries"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3812,7 +3812,7 @@
       "lettuce butter",
       "lettuces"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3831,7 +3831,7 @@
       "fruits unripened",
       "stone fruits"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3842,7 +3842,7 @@
       "fruits tropical",
       "tropical fruits"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3853,7 +3853,7 @@
       "mangoes ripe",
       "ripe ingredients"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3865,7 +3865,7 @@
       "game birds",
       "game birds roasted"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3876,7 +3876,7 @@
       "rabbit",
       "rabbit braised"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3887,7 +3887,7 @@
       "stocks venison",
       "venison"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3899,7 +3899,7 @@
       "marjoram",
       "pastrami"
     ],
-    "pairings": [
+    "pairing_ids": [
       "mace",
       "nutmeg"
     ],
@@ -3914,7 +3914,7 @@
       "garlic fresh",
       "garlic regular"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -3927,7 +3927,7 @@
       "onions spring",
       "spring rolls"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini_blossoms"
     ],
     "status": "draft"
@@ -3940,7 +3940,7 @@
       "goulash",
       "guacamole"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -3952,7 +3952,7 @@
       "gingko nuts",
       "ginkgo nuts"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zuidam_dry:_orange_peel"
     ],
     "status": "draft"
@@ -3976,7 +3976,7 @@
       "ginger pickled",
       "ginger powdered"
     ],
-    "pairings": [
+    "pairing_ids": [
       "ginger",
       "lemon",
       "pepper",
@@ -3993,7 +3993,7 @@
       "zucchini",
       "zucchini blossoms"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4003,7 +4003,7 @@
       "graham cracker crumbs",
       "graham crackers"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4015,7 +4015,7 @@
       "orange liqueurs grand marnier",
       "oranges marmalade"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4032,7 +4032,7 @@
       "grapes white",
       "tomatoes grape"
     ],
-    "pairings": [
+    "pairing_ids": [
       "grapefruit",
       "star_anise",
       "yogurt"
@@ -4051,7 +4051,7 @@
       "greens stronger",
       "greens winter"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4067,7 +4067,7 @@
       "oil mustard",
       "oils mustard"
     ],
-    "pairings": [
+    "pairing_ids": [
       "combination_of_the_three_is_delicious."
     ],
     "status": "draft"
@@ -4079,7 +4079,7 @@
       "greens mche",
       "mche"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4090,7 +4090,7 @@
       "radicchio",
       "radishes"
     ],
-    "pairings": [
+    "pairing_ids": [
       "radicchio",
       "mushrooms",
       "risotto",
@@ -4105,7 +4105,7 @@
       "greens spinach",
       "spinach"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4115,7 +4115,7 @@
       "greens turnip",
       "turnips"
     ],
-    "pairings": [
+    "pairing_ids": [
       "onions"
     ],
     "status": "draft"
@@ -4127,7 +4127,7 @@
       "grenadine",
       "grenadine syrup"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4137,7 +4137,7 @@
       "grouper",
       "snapper"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -4149,7 +4149,7 @@
       "guava",
       "guavas"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar,_white"
     ],
     "status": "draft"
@@ -4161,7 +4161,7 @@
       "gumbo",
       "gumbos"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4171,7 +4171,7 @@
       "halibut",
       "shad"
     ],
-    "pairings": [
+    "pairing_ids": [
       "halibut",
       "scallions",
       "white_wine"
@@ -4186,7 +4186,7 @@
       "ham hock",
       "ham hocks"
     ],
-    "pairings": [
+    "pairing_ids": [
       "ham",
       "mozzarella_cheese",
       "red_onion"
@@ -4200,7 +4200,7 @@
       "ham ibrico",
       "ibrico ham"
     ],
-    "pairings": [
+    "pairing_ids": [
       "ham",
       "mozzarella_cheese",
       "red_onion"
@@ -4215,7 +4215,7 @@
       "mahi mahi",
       "wasabi"
     ],
-    "pairings": [
+    "pairing_ids": [
       "mahi_mahi",
       "avocado",
       "cabbage",
@@ -4234,7 +4234,7 @@
       "oil hazelnut",
       "oils hazelnut"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine:_red,_sweet,_white"
     ],
     "status": "draft"
@@ -4246,7 +4246,7 @@
       "hendricks cucumber",
       "hendricks rose petals"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4262,7 +4262,7 @@
       "parsleyflatleaf",
       "sauces parsley"
     ],
-    "pairings": [
+    "pairing_ids": [
       "parsley",
       "lemon_juice",
       "olive_oil",
@@ -4277,7 +4277,7 @@
       "herring",
       "herring pickled"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4291,7 +4291,7 @@
       "tabasco sauce",
       "worcestershire sauce"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4302,7 +4302,7 @@
       "sauces brown butter hollandaise",
       "sauces hollandaise"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4312,7 +4312,7 @@
       "hominy",
       "spearmint"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4327,7 +4327,7 @@
       "honey wildflower",
       "honeydew"
     ],
-    "pairings": [
+    "pairing_ids": [
       "honey",
       "fruit",
       "yogurt"
@@ -4341,7 +4341,7 @@
       "hot dogs",
       "hush puppies"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4350,7 +4350,7 @@
     "name_variants": [
       "hotness of indoor or outdoor temperature"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4359,7 +4359,7 @@
     "name_variants": [
       "hyssop"
     ],
-    "pairings": [
+    "pairing_ids": [
       "cut_the_fat_of_the_dish,_so_it_is_not_big,_fat,_and_flabby_on_the_palate."
     ],
     "status": "draft"
@@ -4373,7 +4373,7 @@
       "wine ice",
       "wine ice wine"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4384,7 +4384,7 @@
       "salt vanilla",
       "vanilla"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vanilla",
       "chicken",
       "cream"
@@ -4409,7 +4409,7 @@
       "saltiness",
       "seeds salted"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables,_esp._tomatoes"
     ],
     "status": "draft"
@@ -4423,7 +4423,7 @@
       "turkey breasts",
       "turkey legs"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -4436,7 +4436,7 @@
       "jams and jellies",
       "jellies"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4447,7 +4447,7 @@
       "old bay seasoning",
       "seasoning"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4457,7 +4457,7 @@
       "jicama",
       "mizuna"
     ],
-    "pairings": [
+    "pairing_ids": [
       "jicama",
       "chili_powder",
       "lime_juice"
@@ -4471,7 +4471,7 @@
       "juniper",
       "juniper berries"
     ],
-    "pairings": [
+    "pairing_ids": [
       "juniper_berries",
       "game",
       "garlic",
@@ -4490,7 +4490,7 @@
       "lime leaf kaffir",
       "lime leaves kaffir"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4500,7 +4500,7 @@
       "kahla",
       "kohlrabi"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4511,7 +4511,7 @@
       "kelp",
       "ketchup"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4521,7 +4521,7 @@
       "kiwi",
       "kiwi fruit"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine:_champagne,_ice_wine"
     ],
     "status": "draft"
@@ -4533,7 +4533,7 @@
       "kumquat",
       "kumquats"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_white"
     ],
     "status": "draft"
@@ -4547,7 +4547,7 @@
       "lamb chops",
       "lamb shoulder"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lamb_chop",
       "lemon",
       "mint"
@@ -4561,7 +4561,7 @@
       "leeks",
       "leeks melted"
     ],
-    "pairings": [
+    "pairing_ids": [
       "leeks",
       "mustard",
       "vinaigrette"
@@ -4580,7 +4580,7 @@
       "lemons",
       "lemons preserved"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lemon",
       "blackberries",
       "honey",
@@ -4597,7 +4597,7 @@
       "lemon herbs balm thyme verbena",
       "lemongrass"
     ],
-    "pairings": [
+    "pairing_ids": [
       "teas"
     ],
     "status": "draft"
@@ -4610,7 +4610,7 @@
       "lemonade",
       "lime juice"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4622,7 +4622,7 @@
       "thyme fresh",
       "thyme lemon"
     ],
-    "pairings": [
+    "pairing_ids": [
       "thyme",
       "savory"
     ],
@@ -4635,7 +4635,7 @@
       "lemon verbena",
       "verbena"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lemon_verbena",
       "apricots",
       "sugar"
@@ -4649,7 +4649,7 @@
       "lemon meyer",
       "lemons meyer"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vanilla"
     ],
     "status": "draft"
@@ -4661,7 +4661,7 @@
       "lentils",
       "lentils green"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lentils",
       "olive_oil",
       "parsley",
@@ -4677,7 +4677,7 @@
       "lettuces red leaf",
       "lettuces red oak leaf"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4688,7 +4688,7 @@
       "romaine",
       "romaine lettuce"
     ],
-    "pairings": [
+    "pairing_ids": [
       "romaine",
       "capers",
       "garlic",
@@ -4706,7 +4706,7 @@
       "lime whole",
       "limes"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lime",
       "strawberries",
       "tequila"
@@ -4723,7 +4723,7 @@
       "liqueurs nut",
       "liqueurs other nut"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4737,7 +4737,7 @@
       "orange liqueur",
       "orange liqueurs cointreau"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4754,7 +4754,7 @@
       "liqueurs sweet",
       "peach liqueur"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4765,7 +4765,7 @@
       "lovage",
       "lox"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lovage",
       "salmon",
       "tomatoes"
@@ -4778,7 +4778,7 @@
     "name_variants": [
       "lotus root"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_rice"
     ],
     "status": "draft"
@@ -4790,7 +4790,7 @@
       "luxurious",
       "southern comfort"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine"
     ],
     "status": "draft"
@@ -4803,7 +4803,7 @@
       "lychee nuts",
       "lychees"
     ],
-    "pairings": [
+    "pairing_ids": [
       "lychees",
       "raspberries",
       "rose"
@@ -4820,7 +4820,7 @@
       "oil macadamia",
       "oil macadamia nut"
     ],
-    "pairings": [
+    "pairing_ids": [
       "macadamia_nuts",
       "coconut",
       "lime"
@@ -4834,7 +4834,7 @@
       "macaroni",
       "macaroni and cheese"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4845,7 +4845,7 @@
       "punch",
       "punches fruit"
     ],
-    "pairings": [
+    "pairing_ids": [
       "m\u00e2che",
       "oranges",
       "pistachios",
@@ -4861,7 +4861,7 @@
       "wine madeira",
       "wine madeira red"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4871,7 +4871,7 @@
       "malt",
       "malt malted milk"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vanilla"
     ],
     "status": "draft"
@@ -4884,7 +4884,7 @@
       "mangoes",
       "mangoes green"
     ],
-    "pairings": [
+    "pairing_ids": [
       "mango",
       "salmon",
       "sushi_rice"
@@ -4899,7 +4899,7 @@
       "maple syrup",
       "maple syrup artificial"
     ],
-    "pairings": [
+    "pairing_ids": [
       "maple_syrup",
       "mascarpone",
       "pistachios"
@@ -4913,7 +4913,7 @@
       "maraschino liqueur",
       "midori liqueur"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4923,7 +4923,7 @@
       "marrow",
       "marrow beef"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4934,7 +4934,7 @@
       "marsala wine",
       "wine marsala"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4945,7 +4945,7 @@
       "mayonnaise garlic",
       "sauces mayonnaise"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4962,7 +4962,7 @@
       "meats red",
       "meats white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "selecting_the_best_cooking_technique),_and_after_cooking_(e.g.,_via_condiments_and_sauces)."
     ],
     "status": "draft"
@@ -4976,7 +4976,7 @@
       "smoked foods",
       "smoked meats"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -4991,7 +4991,7 @@
       "melons",
       "watermelon"
     ],
-    "pairings": [
+    "pairing_ids": [
       "watermelon",
       "kaffir_lime",
       "vanilla"
@@ -5005,7 +5005,7 @@
       "meringue",
       "merlot"
     ],
-    "pairings": [
+    "pairing_ids": [
       "veal"
     ],
     "status": "draft"
@@ -5020,7 +5020,7 @@
       "mole sauce",
       "mole sauces"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5030,7 +5030,7 @@
       "milk including sweetened condensed",
       "milk sweetened condensed"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5044,7 +5044,7 @@
       "mint spearmint",
       "peppermint"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -5057,7 +5057,7 @@
       "mirin",
       "mirin japanese sweetener"
     ],
-    "pairings": [
+    "pairing_ids": [
       "carrots",
       "celery",
       "onions"
@@ -5076,7 +5076,7 @@
       "miso sweet",
       "miso white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "walnuts"
     ],
     "status": "draft"
@@ -5089,7 +5089,7 @@
       "pomegranate molasses",
       "pomegranates and pomegranate molasses"
     ],
-    "pairings": [
+    "pairing_ids": [
       "walnuts"
     ],
     "status": "draft"
@@ -5101,7 +5101,7 @@
       "muffins",
       "waffles"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5127,7 +5127,7 @@
       "mushrooms white",
       "mushrooms wild"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5140,7 +5140,7 @@
       "oil porcini",
       "porcini mushrooms"
     ],
-    "pairings": [
+    "pairing_ids": [
       "stews"
     ],
     "status": "draft"
@@ -5155,7 +5155,7 @@
       "stocks mussel",
       "stocks mussels"
     ],
-    "pairings": [
+    "pairing_ids": [
       "mussels",
       "saffron",
       "tarragon",
@@ -5181,7 +5181,7 @@
       "mustard whole grain",
       "mustard yellow"
     ],
-    "pairings": [
+    "pairing_ids": [
       "combination_of_the_three_is_delicious."
     ],
     "status": "draft"
@@ -5194,7 +5194,7 @@
       "peaches",
       "violets"
     ],
-    "pairings": [
+    "pairing_ids": [
       "peaches",
       "sugar",
       "yogurt"
@@ -5216,7 +5216,7 @@
       "potatoes red",
       "potatoes steamed"
     ],
-    "pairings": [
+    "pairing_ids": [
       "potatoes",
       "leeks",
       "nutmeg"
@@ -5231,7 +5231,7 @@
       "poppy seeds",
       "seeds poppy"
     ],
-    "pairings": [
+    "pairing_ids": [
       "zucchini"
     ],
     "status": "draft"
@@ -5248,7 +5248,7 @@
       "noodlespasta",
       "pastanoodles egg"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5260,7 +5260,7 @@
       "nuts salted",
       "nuts toasted"
     ],
-    "pairings": [
+    "pairing_ids": [
       "nutmeg",
       "cream",
       "spinach"
@@ -5278,7 +5278,7 @@
       "peanuts crushed",
       "peanutspeanut butter"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5290,7 +5290,7 @@
       "pecan",
       "pecans"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables"
     ],
     "status": "draft"
@@ -5303,7 +5303,7 @@
       "oil pistachio",
       "pistachios"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tuna"
     ],
     "status": "draft"
@@ -5318,7 +5318,7 @@
       "walnuts candied",
       "walnuts nuts"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5330,7 +5330,7 @@
       "oats",
       "oats and oatmeal"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5343,7 +5343,7 @@
       "squid",
       "squid ink"
     ],
-    "pairings": [
+    "pairing_ids": [
       "octopus",
       "sake",
       "sea_salt"
@@ -5364,7 +5364,7 @@
       "oils canola",
       "oils corn"
     ],
-    "pairings": [
+    "pairing_ids": [
       "deep-fry"
     ],
     "status": "draft"
@@ -5378,7 +5378,7 @@
       "oils grapeseed",
       "oils sunflower"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar"
     ],
     "status": "draft"
@@ -5392,7 +5392,7 @@
       "olive oil extra virgin",
       "olive oilbased dishes"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar"
     ],
     "status": "draft"
@@ -5407,7 +5407,7 @@
       "oils peanut",
       "peanut oil"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegars,_esp._balsamic,_malt"
     ],
     "status": "draft"
@@ -5422,7 +5422,7 @@
       "pumpkin oil",
       "pumpkin seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar:_balsamic,_cider,_rice_wine"
     ],
     "status": "draft"
@@ -5434,7 +5434,7 @@
       "oil safflower",
       "oils safflower"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5448,7 +5448,7 @@
       "sesame oil",
       "sesame oil seeds"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sesame_oil",
       "ginger",
       "mustard",
@@ -5469,7 +5469,7 @@
       "truffles white and white truffle oil",
       "white truffle oil"
     ],
-    "pairings": [
+    "pairing_ids": [
       "salads_and_salad_dressings"
     ],
     "status": "draft"
@@ -5485,7 +5485,7 @@
       "walnuts and walnut oil",
       "walnuts oil"
     ],
-    "pairings": [
+    "pairing_ids": [
       "walnuts"
     ],
     "status": "draft"
@@ -5499,7 +5499,7 @@
       "sabayon sauce",
       "saffron"
     ],
-    "pairings": [
+    "pairing_ids": [
       "saffron",
       "monkfish",
       "rice"
@@ -5519,7 +5519,7 @@
       "olives nioise",
       "olives picholine"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_dry_white"
     ],
     "status": "draft"
@@ -5545,7 +5545,7 @@
       "onions yellow",
       "sauces onion"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5560,7 +5560,7 @@
       "oranges mandarin",
       "oranges sweet"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5572,7 +5572,7 @@
       "ume japanese plum",
       "zuidam dry orange peel"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5585,7 +5585,7 @@
       "tangerines",
       "tangerines and tangerine juice"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5596,7 +5596,7 @@
       "oregano dried",
       "turmeric"
     ],
-    "pairings": [
+    "pairing_ids": [
       "oregano",
       "lemon_juice",
       "marjoram"
@@ -5612,7 +5612,7 @@
       "shiso",
       "shiso leaf"
     ],
-    "pairings": [
+    "pairing_ids": [
       "shiso_leaf",
       "clams",
       "onions"
@@ -5628,7 +5628,7 @@
       "oysters",
       "shellfish oysters"
     ],
-    "pairings": [
+    "pairing_ids": [
       "oysters",
       "shallots",
       "vinegar"
@@ -5642,7 +5642,7 @@
       "papaya",
       "papayas"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -5657,7 +5657,7 @@
       "paprika sweet",
       "paprikash"
     ],
-    "pairings": [
+    "pairing_ids": [
       "smoked_paprika",
       "mayonnaise",
       "seafood"
@@ -5671,7 +5671,7 @@
       "parsnip",
       "parsnips"
     ],
-    "pairings": [
+    "pairing_ids": [
       "parsnips",
       "pancetta",
       "parmesan_cheese",
@@ -5686,7 +5686,7 @@
       "passion fruit",
       "passion fruits"
     ],
-    "pairings": [
+    "pairing_ids": [
       "passion_fruit",
       "dark_chocolate",
       "ginger",
@@ -5703,7 +5703,7 @@
       "pasta dishes and sauces",
       "pastas"
     ],
-    "pairings": [
+    "pairing_ids": [
       "pasta",
       "tomatoes",
       "ricotta_cheese"
@@ -5717,7 +5717,7 @@
       "pasta including using to color green pasta",
       "water for blanching or for pasta"
     ],
-    "pairings": [
+    "pairing_ids": [
       "pasta",
       "tomatoes",
       "ricotta_cheese"
@@ -5737,7 +5737,7 @@
       "pepper white",
       "red pepper flakes"
     ],
-    "pairings": [
+    "pairing_ids": [
       "veal"
     ],
     "status": "draft"
@@ -5752,7 +5752,7 @@
       "peppercorns green",
       "peppercorns white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine,_white"
     ],
     "status": "draft"
@@ -5764,7 +5764,7 @@
       "pepper szechuan",
       "szechuan pepper"
     ],
-    "pairings": [
+    "pairing_ids": [
       "szechuan_pepper",
       "ginger",
       "star_anise"
@@ -5779,7 +5779,7 @@
       "peppers piquillo spanish peppers",
       "piquillo peppers"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tuna"
     ],
     "status": "draft"
@@ -5792,7 +5792,7 @@
       "praline",
       "purslane"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -5804,7 +5804,7 @@
       "persimmon",
       "persimmons"
     ],
-    "pairings": [
+    "pairing_ids": [
       "persimmons",
       "allspice",
       "cinnamon",
@@ -5820,7 +5820,7 @@
       "pickles",
       "pickles saltysour"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5831,7 +5831,7 @@
       "piquancy",
       "pistou"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wasabi"
     ],
     "status": "draft"
@@ -5845,7 +5845,7 @@
       "pineapple juice",
       "pineapples"
     ],
-    "pairings": [
+    "pairing_ids": [
       "pineapple",
       "rum",
       "vanilla",
@@ -5861,7 +5861,7 @@
       "wine pinot blanc",
       "wine pinot noir"
     ],
-    "pairings": [
+    "pairing_ids": [
       "veal"
     ],
     "status": "draft"
@@ -5873,7 +5873,7 @@
       "pizza",
       "popcorn"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5884,7 +5884,7 @@
       "plantains green",
       "plantains sweet"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -5902,7 +5902,7 @@
       "tomatoes plum",
       "wine plum"
     ],
-    "pairings": [
+    "pairing_ids": [
       "plums",
       "ginger",
       "yogurt"
@@ -5917,7 +5917,7 @@
       "pomegrantes",
       "pomelos"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5929,7 +5929,7 @@
       "pomegranates",
       "pomegranates and pomegranate juice"
     ],
-    "pairings": [
+    "pairing_ids": [
       "pomegranates",
       "lemon",
       "sugar"
@@ -5943,7 +5943,7 @@
       "ponzu",
       "ponzu sauce"
     ],
-    "pairings": [
+    "pairing_ids": [
       "ume_(japanese_plum)"
     ],
     "status": "draft"
@@ -5960,7 +5960,7 @@
       "pork tenderloin",
       "salt pork"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5971,7 +5971,7 @@
       "pork belly",
       "pork pork belly"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5981,7 +5981,7 @@
       "pork and pork chops",
       "pork chops"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -5992,7 +5992,7 @@
       "port red",
       "port white"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6003,7 +6003,7 @@
       "shrimp",
       "shrimp paste"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6015,7 +6015,7 @@
       "rice pudding",
       "ricerice pudding"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6025,7 +6025,7 @@
       "pt",
       "pts"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6037,7 +6037,7 @@
       "quinces",
       "quinoa"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -6052,7 +6052,7 @@
       "raisins white",
       "raisins yellow"
     ],
-    "pairings": [
+    "pairing_ids": [
       "raisins",
       "orange",
       "rum"
@@ -6066,7 +6066,7 @@
       "raitas",
       "sambuca"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6076,7 +6076,7 @@
       "ramps",
       "rocket"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6085,7 +6085,7 @@
     "name_variants": [
       "ras el hanout"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6098,7 +6098,7 @@
       "tomatoes puree",
       "vegetable puree"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6117,7 +6117,7 @@
       "wine sherry",
       "wine sweet sherry"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables"
     ],
     "status": "draft"
@@ -6130,7 +6130,7 @@
       "squab",
       "tabbouleh"
     ],
-    "pairings": [
+    "pairing_ids": [
       "rhubarb",
       "strawberry",
       "vanilla"
@@ -6154,7 +6154,7 @@
       "rices",
       "wild rice"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tomatoes_and_tomato_paste"
     ],
     "status": "draft"
@@ -6168,7 +6168,7 @@
       "risotto",
       "risottos"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6178,7 +6178,7 @@
       "riesling",
       "wine riesling"
     ],
-    "pairings": [
+    "pairing_ids": [
       "trout,_esp._saut\u00e9ed"
     ],
     "status": "draft"
@@ -6190,7 +6190,7 @@
       "riesling ros zinfandel",
       "zinfandel"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6201,7 +6201,7 @@
       "sauce romesco",
       "sauces romesco"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6212,7 +6212,7 @@
       "vegetables and root vegetables",
       "vegetables root"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6225,7 +6225,7 @@
       "rose hips petals water",
       "rose water"
     ],
-    "pairings": [
+    "pairing_ids": [
       "rose",
       "lychee",
       "raspberries"
@@ -6239,7 +6239,7 @@
       "rosemary",
       "rosemary fresh"
     ],
-    "pairings": [
+    "pairing_ids": [
       "rosemary",
       "pork",
       "sherry"
@@ -6254,7 +6254,7 @@
       "rum dark",
       "rum light"
     ],
-    "pairings": [
+    "pairing_ids": [
       "rum",
       "lime",
       "pineapple",
@@ -6269,7 +6269,7 @@
       "rutabaga",
       "rutabagas"
     ],
-    "pairings": [
+    "pairing_ids": [
       "rutabagas",
       "potatoes",
       "rosemary"
@@ -6283,7 +6283,7 @@
       "sage",
       "sage fresh"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sage",
       "stuffing",
       "turkey",
@@ -6298,7 +6298,7 @@
       "sake",
       "yams"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sake",
       "cucumber",
       "lime"
@@ -6314,7 +6314,7 @@
       "salumi",
       "umami"
     ],
-    "pairings": [
+    "pairing_ids": [
       "salsify",
       "parmesan_cheese",
       "prosciutto"
@@ -6334,7 +6334,7 @@
       "salsas fruit",
       "salsas mexican"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6344,7 +6344,7 @@
       "salt fleur de sel",
       "saltfleur de sel"
     ],
-    "pairings": [
+    "pairing_ids": [
       "steak"
     ],
     "status": "draft"
@@ -6356,7 +6356,7 @@
       "salt kosher",
       "saltkosher"
     ],
-    "pairings": [
+    "pairing_ids": [
       "water_for_blanching_or_for_pasta"
     ],
     "status": "draft"
@@ -6368,7 +6368,7 @@
       "sandwiches",
       "tea sandwiches"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6379,7 +6379,7 @@
       "sashimi and sushi",
       "sushi and sashimi"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6389,7 +6389,7 @@
       "sauce mornay",
       "sauces mornay"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6400,7 +6400,7 @@
       "sauces reducedwine",
       "wine red and red wine sauces"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6412,7 +6412,7 @@
       "tomatoes and tomato sauces",
       "tomatoes sauce"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6424,7 +6424,7 @@
       "sauternes",
       "wine sauternes"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine:_dry_to_off-dry_white_(e.g.,_alsatian,_riesling)"
     ],
     "status": "draft"
@@ -6441,7 +6441,7 @@
       "sausages italian",
       "sausages salty"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6452,7 +6452,7 @@
       "savory summer",
       "savory winter"
     ],
-    "pairings": [
+    "pairing_ids": [
       "savory",
       "garlic",
       "tomatoes"
@@ -6468,7 +6468,7 @@
       "seafood scallops",
       "shellfish scallops"
     ],
-    "pairings": [
+    "pairing_ids": [
       "scallops",
       "parsley",
       "salmon_roe"
@@ -6490,7 +6490,7 @@
       "vegetables hearty",
       "vegetables sweet"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6504,7 +6504,7 @@
       "seafood lobster",
       "seafood shrimp"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6515,7 +6515,7 @@
       "seaweed dried",
       "seaweed for presentation"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6528,7 +6528,7 @@
       "sesame seeds black",
       "sesame seeds white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar,_rice_wine"
     ],
     "status": "draft"
@@ -6540,7 +6540,7 @@
       "shallots",
       "shallots roasted"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wine"
     ],
     "status": "draft"
@@ -6554,7 +6554,7 @@
       "shellfish shrimp",
       "snails"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6564,7 +6564,7 @@
       "smoothies and shakes",
       "whey"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6575,7 +6575,7 @@
       "sorbets",
       "sorrel"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sorrel",
       "nutmeg",
       "ricotta_cheese"
@@ -6595,7 +6595,7 @@
       "soups fruit",
       "soups vegetable"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6606,7 +6606,7 @@
       "soy sauce regular",
       "soy sauce white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "soy_sauce",
       "molasses",
       "sugar"
@@ -6621,7 +6621,7 @@
       "spice cakes",
       "spiced cakes"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6631,7 +6631,7 @@
       "spirits white gin",
       "spirits white vodka"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6648,7 +6648,7 @@
       "squash yellow",
       "squash yellow or other summer"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6664,7 +6664,7 @@
       "stocks rabbit",
       "stocks turkey"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6679,7 +6679,7 @@
       "stocks meatbased",
       "stocks pork"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6696,7 +6696,7 @@
       "stocks shellfish",
       "stocks shrimp"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6708,7 +6708,7 @@
       "stocks mushroom",
       "stocks vegetable"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6719,7 +6719,7 @@
       "stocks and broths veal",
       "stocks veal"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6733,7 +6733,7 @@
       "stocks and broths clam",
       "stocks clam"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6743,7 +6743,7 @@
       "stuffing",
       "stuffings"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6757,7 +6757,7 @@
       "sugar raw",
       "sugar simple syrup"
     ],
-    "pairings": [
+    "pairing_ids": [
       "syrup,_as_the_combination_is_too_intense."
     ],
     "status": "draft"
@@ -6770,7 +6770,7 @@
       "sugar light brown",
       "sugar white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "syrup,_as_the_combination_is_too_intense."
     ],
     "status": "draft"
@@ -6783,7 +6783,7 @@
       "sweet potatoes",
       "sweetness"
     ],
-    "pairings": [
+    "pairing_ids": [
       "sweet_potatoes",
       "maple_syrup",
       "pecans"
@@ -6800,7 +6800,7 @@
       "tamarind puree",
       "tamarind syrup"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tamarind",
       "chicken",
       "yogurt"
@@ -6814,7 +6814,7 @@
       "tapanade",
       "tapioca"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6824,7 +6824,7 @@
       "tarragon",
       "tarragon fresh"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6834,7 +6834,7 @@
       "teriyaki",
       "teriyaki sauce"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6844,7 +6844,7 @@
       "toffee",
       "tofu"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6858,7 +6858,7 @@
       "tomatoes juice",
       "tomatoes tomato juice tomato sauce"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6873,7 +6873,7 @@
       "tomatoes tomato juice tomato paste",
       "tomatoes tomato paste and tomato sauce"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6890,7 +6890,7 @@
       "tomatoes raw",
       "tomatoes regular"
     ],
-    "pairings": [
+    "pairing_ids": [
       "tomatoes",
       "olive_oil",
       "balsamic_vinegar"
@@ -6904,7 +6904,7 @@
       "tonic",
       "tonic water"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6914,7 +6914,7 @@
       "tortilla spanish",
       "tortillas corn"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6923,7 +6923,7 @@
     "name_variants": [
       "triple sec"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6937,7 +6937,7 @@
       "truffles shaved",
       "truffles white"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar,_balsamic"
     ],
     "status": "draft"
@@ -6955,7 +6955,7 @@
       "veal sirloin",
       "veal tenderloin"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6967,7 +6967,7 @@
       "veal shank",
       "veal shanks"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -6978,7 +6978,7 @@
       "venison shoulder",
       "verjus"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vinegar,_rice_wine"
     ],
     "status": "draft"
@@ -6990,7 +6990,7 @@
       "vegetarian dishes",
       "vegetarian meals"
     ],
-    "pairings": [
+    "pairing_ids": [
       "soy_sauce"
     ],
     "status": "draft"
@@ -7004,7 +7004,7 @@
       "vermouth sweet",
       "wine vermouth"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -7014,7 +7014,7 @@
       "vin santo",
       "wine vin santo"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -7029,7 +7029,7 @@
       "vincotto cooked wine",
       "vinegar vincotto cooked wine"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yogurt"
     ],
     "status": "draft"
@@ -7054,7 +7054,7 @@
       "vinegar white",
       "vinegars"
     ],
-    "pairings": [
+    "pairing_ids": [
       "white_balsamic_vinegar",
       "white_truffle_oil",
       "whole_grain_mustard"
@@ -7071,7 +7071,7 @@
       "vinegar white wine",
       "vinegar wine"
     ],
-    "pairings": [
+    "pairing_ids": [
       "vegetables"
     ],
     "status": "draft"
@@ -7084,7 +7084,7 @@
       "vinegar rice wine",
       "wine rice"
     ],
-    "pairings": [
+    "pairing_ids": [
       "wasabi"
     ],
     "status": "draft"
@@ -7097,7 +7097,7 @@
       "watercess",
       "watercress"
     ],
-    "pairings": [
+    "pairing_ids": [
       "watercress",
       "ginger",
       "lemon",
@@ -7112,7 +7112,7 @@
       "white",
       "white and other lightcolored foods"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -7127,7 +7127,7 @@
       "wine white",
       "wines dry white"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -7143,7 +7143,7 @@
       "wine syrah",
       "wines sweet"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -7162,7 +7162,7 @@
       "wine red sweet",
       "wine ros"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -7172,7 +7172,7 @@
       "yogurt",
       "yogurt and yogurt sauces"
     ],
-    "pairings": [],
+    "pairing_ids": [],
     "status": "draft"
   },
   {
@@ -7184,7 +7184,7 @@
       "yuzu juice",
       "yuzu rind"
     ],
-    "pairings": [
+    "pairing_ids": [
       "yuzu",
       "caramel",
       "grapefruit",
