@@ -1,16 +1,8 @@
+"force-dynamic";
+
 import Image from "next/image";
 import styles from "@/app/page.module.css";
-// import data from '@/data/drafts/custom/ingredients_sample.json'
-// import { Ingredient } from "@/app/src/types/ingredient";
-
-import fs from 'fs';
-import path from 'path'
-
-function getIngredients(){
-  const filePath = path.join(process.cwd(), 'data', 'ingredients', 'merged', `ingredients_1.json`);
-  const data = fs.readFileSync(filePath, 'utf-8');
-  return JSON.parse(data);
-}
+import { getIngredients } from "../src/utils/utils";
 
 export default function customFoodBIndexPage() {
   const data = getIngredients()
