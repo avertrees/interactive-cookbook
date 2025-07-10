@@ -1,10 +1,16 @@
 import MapComponent from "./MapComponent"
 
-const IngredientPage = ({ingredient}) => {
+const IngredientPage = async ({ingredient}) => {
     return ( 
         <>
-            <p>{ingredient.name}</p>
-            <MapComponent></MapComponent>
+            <div>
+            {Object.entries(ingredient).map(([key, value]) => (
+                <p key={key}>
+                <strong>{key}:</strong> {String(value)}
+                </p>
+            ))}
+            </div>
+            {/* <MapComponent></MapComponent> */}
         </>
     )
 }
