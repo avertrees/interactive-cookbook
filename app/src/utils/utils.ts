@@ -1,4 +1,4 @@
-import ingredients from '@/app/src/data/custom/ingredients.json'
+import ingredients from  '@/data/drafts/custom/ingredients_sample.json'
 import { Ingredient } from '../types/ingredient'
 
 export const getIngredient = async (id) => {

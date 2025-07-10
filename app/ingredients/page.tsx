@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "@/app/page.module.css";
-import data from '@/app/src/data/drafts/custom/ingredients_sample.json'
+import data from '@/data/drafts/custom/ingredients_sample.json'
 import { Ingredient } from "@/app/src/types/ingredient";
 
 export default function customFoodBIndexPage() {
