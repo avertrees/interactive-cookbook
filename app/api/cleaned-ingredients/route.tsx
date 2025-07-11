@@ -1,11 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getCleanedIngredients } from "@/app/src/utils/utils";
+import { getIngredients } from "@/app/src/utils/utils";
 import search from '@/app/src/utils/search'
 import {sortIngredientsByField} from '@/app/src/utils/sort'
 
-
 export const GET = async (request: NextRequest) => {
-  let data = await getCleanedIngredients()
+  let data = await getIngredients()
   console.log("data is: ", data)
   const sort = request?.nextUrl?.searchParams.get('sort')
 
@@ -19,4 +18,4 @@ export const GET = async (request: NextRequest) => {
   return NextResponse.json(results, { status: 200 });
 }
 
-// http://localhost:3000/api/ingredient-clusters
+// http://localhost:3000/api/ingredients

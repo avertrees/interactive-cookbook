@@ -15,6 +15,17 @@ export const getIngredientById = async (id: string | number) => {
 };
 
 
+export const getCleanedIngredients = () =>{
+  const filePath = path.join(process.cwd(), 'data', 'ingredients', 'merged', `cleaned_deduped_ingredients.json`);
+  const data = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(data);
+}
+
+export const getCleanedIngredientById = async (id: string | number) => {
+  const ingredients = getCleanedIngredients();
+  return ingredients.find((obj) => String(obj.id) === String(id));
+};
+
 export const getIngredientClusters = () =>{
   const filePath = path.join(process.cwd(), 'data', 'ingredients', `ingredients.json`);
   const data = fs.readFileSync(filePath, 'utf-8');
