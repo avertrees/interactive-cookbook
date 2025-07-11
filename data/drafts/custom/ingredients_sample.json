@@ -1,0 +1,304 @@
+[
+    {
+      "id": "pumpkin_seed",
+      "name": "Pumpkin Seed",
+      "common_names": ["Pepita", "Semilla de calabaza"],
+      "type": "plant",
+      "taxonomy": {
+        "family": "Cucurbitaceae",
+        "genus": "Cucurbita",
+        "species": "Cucurbita pepo"
+      },
+      "part_used": "seed",
+      "origin": {
+        "region": ["Mesoamerica"],
+        "specific_locations": ["Mexico"],
+        "indigenous_peoples": ["Nahua"]
+      },
+      "flavor_profile": ["nutty", "earthy"],
+      "uses": ["sauce", "snack", "thickener"],
+      "cultural_notes": ["Used in pipián and mole sauces."],
+      "first_documented_use": {
+        "date":"1300 BCE",
+        "location": "Mexico"
+      }
+    },
+    {
+      "id": "corn",
+      "name": "Corn",
+      "common_names": ["Maize"],
+      "type": "plant",
+      "taxonomy": {
+        "family": "Poaceae",
+        "genus": "Zea",
+        "species": "Zea mays"
+      },
+      "part_used": "fruit",
+      "origin": {
+        "region": ["Mesoamerica"],
+        "specific_locations": ["Mexico", "Guatemala"],
+        "indigenous_peoples": ["Maya", "Zapotec"]
+      },
+      "uses": ["grain", "base", "sweetener"],
+      "cultural_notes": ["Sacred in many Mesoamerican cultures."],
+      "first_documented_use": {
+        "date":"7000 BCE",
+        "location": "Tehuacán Valley"
+      }
+    },
+    {
+      "id": "masa",
+      "name": "Masa",
+      "type": "plant",
+      "taxonomy": {
+        "family": "Poaceae",
+        "genus": "Zea"
+      },
+      "part_used": "fruit",
+      "origin": {
+        "region": ["Mesoamerica"]
+      },
+      "uses": ["dough", "base"],
+      "cultural_notes": ["Nixtamalized corn dough used in tortillas and tamales."],
+      "first_documented_use": {
+        "date":"1500 BCE",
+        "location": "Mesoamerica",
+        "use": "post-nixtamalization invention"
+      }
+    },
+    {
+      "id": "cream",
+      "name": "Cream",
+      "type": "animal",
+      "part_used": "milk",
+      "origin": {
+        "region": ["Europe"]
+      },
+      "uses": ["base", "dressing"],
+      "first_documented_use": {
+        "date":"3000 BCE",
+        "location": "Middle East",
+        "use": "used in dairy separation"
+      }
+    },
+    {
+      "id": "milk",
+      "name": "Milk",
+      "type": "animal",
+      "part_used": "milk",
+      "origin": {
+        "region": ["Global"]
+      },
+      "uses": ["base", "sweetener", "beverage"],
+      "first_documented_use": {
+        "date":"6000 BCE",
+        "location": "Neolithic Middle East",
+        "use": "domestication of dairy animals"
+      }
+    },
+    {
+      "id": "pine_nuts",
+      "name": "Pine Nuts",
+      "type": "plant",
+      "taxonomy": {
+        "family": "Pinaceae",
+        "genus": "Pinus"
+      },
+      "part_used": "seed",
+      "origin": {
+        "region": ["Eurasia", "North America"]
+      },
+      "uses": ["sauce", "pesto"],
+      "first_documented_use": {
+        "date":"2000 BCE",
+        "location": "Ancient Greece and Central Asia"
+      }
+    },
+    {
+      "id": "vanilla",
+      "name": "Vanilla",
+      "type": "plant",
+      "taxonomy": {
+        "family": "Orchidaceae",
+        "genus": "Vanilla"
+      },
+      "part_used": "fruit",
+      "origin": {
+        "region": ["Mesoamerica"],
+        "specific_locations": ["Veracruz, Mexico"]
+      },
+      "flavor_profile": ["sweet", "floral"],
+      "uses": ["flavoring", "dessert"],
+      "cultural_notes": ["Used by the Totonac people before colonization."],
+      "first_documented_use": {
+        "date":"1000 BCE",
+        "location": "Mesoamerica, Totonac peoples"
+      }
+    },
+    {
+      "id": "maple_syrup",
+      "name": "Maple Syrup",
+      "type": "plant",
+      "taxonomy": {
+        "genus": "Acer"
+      },
+      "part_used": "sap",
+      "origin": {
+        "region": ["Northeast North America"],
+        "indigenous_peoples": ["Abenaki", "Haudenosaunee"]
+      },
+      "uses": ["sweetener"],
+      "first_documented_use": {
+        "date":"Pre-Contact (before 1600s)",
+        "location": "Northeast North America"
+      }
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "type": "other",
+      "part_used": "other",
+      "origin": {
+        "region": "Global"
+      },
+      "uses": ["sweetener"],
+      "first_documented_use": {
+        "date":"7000 BCE",
+        "location": "Spain",
+        "source": "Rock paintings"
+      }
+    },
+    {
+      "id": "eggs",
+      "name": "Eggs",
+      "type": "animal",
+      "part_used": "other",
+      "origin": {
+        "region": ["Global"]
+      },
+      "uses": ["binder", "base", "leavening"],
+      "first_documented_use": {
+        "date":"6000 BCE",
+        "location": "Domesticated fowl in Southeast Asia"
+      }
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "type": "mineral",
+      "part_used": "other",
+      "origin": {
+        "region": ["Global"]
+      },
+      "uses": ["seasoning", "preservative"],
+      "first_documented_use": {
+        "date":"6000 BCE",
+        "location": "China and Ethiopia, early salt mining"
+      }
+    },
+    {
+      "id": "coconut_milk",
+      "name": "Coconut Milk",
+      "type": "plant",
+      "part_used": "fruit",
+      "origin": {
+        "region": ["Tropics"]
+      },
+      "uses": ["base", "dairy alternative"],
+      "first_documented_use": {
+        "date":"1st Century CE",
+        "location": "Southeast Asia and Pacific Islands"
+      }
+    },
+    {
+      "id": "coconut_cream",
+      "name": "Coconut Cream",
+      "type": "plant",
+      "part_used": "fruit",
+      "origin": {
+        "region": ["Tropics"]
+      },
+      "uses": ["dairy alternative", "dessert base"],
+      "first_documented_use": {
+        "date":"1st Century CE",
+        "location": "Southeast Asia and Pacific Islands"
+      }
+    },
+    {
+      "id": "agave",
+      "name": "Agave Syrup",
+      "type": "plant",
+      "taxonomy": {
+        "genus": "Agave"
+      },
+      "part_used": "sap",
+      "origin": {
+        "region": ["Mesoamerica"],
+        "specific_locations": ["Central Mexico"]
+      },
+      "uses": ["sweetener"],
+      "cultural_notes": ["Used in fermented beverages like pulque."],
+      "first_documented_use": {
+        "date":"Pre-Contact",
+        "location": "Mesoamerica, fermented in pulque before colonial sugar use"
+      }
+    },
+    {
+      "id": "chocolate",
+      "name": "Chocolate",
+      "common_names": ["Cacao", "Cocoa"],
+      "type": "plant",
+      "taxonomy": {
+        "genus": "Theobroma"
+      },
+      "part_used": "seed",
+      "origin": {
+        "region": ["Mesoamerica"],
+        "indigenous_peoples": ["Maya", "Aztec"]
+      },
+      "flavor_profile": ["bitter", "rich"],
+      "uses": ["drink", "dessert", "sauce"],
+      "cultural_notes": ["Used ceremonially; basis of traditional chocolate drinks."],
+      "first_documented_use": {
+        "date":"1900 BCE",
+        "location": "Mesoamerica",
+        "use": "Olmec, pre-Maya use of cacao in Mesoamerica"
+      }
+    },
+    {
+      "id": "mole",
+      "name": "Mole",
+      "type": "other",
+      "part_used": "other",
+      "origin": {
+        "region": ["Mexico"]
+      },
+      "uses": ["sauce"],
+      "cultural_notes": ["Complex sauce with Indigenous and colonial roots."],
+      "first_documented_use": {
+        "date":"16th Century CE",
+        "location": "Central Mexico",
+        "use": "Post-colonial fusion food in Central Mexico"
+      }
+    },
+    {
+      "id": "strawberries",
+      "name": "Strawberries",
+      "type": "plant",
+      "taxonomy": {
+        "genus": "Fragaria"
+      },
+      "part_used": "fruit",
+      "origin": {
+        "region": ["North America"]
+      },
+      "uses": ["dessert", "snack"],
+      "first_documented_use": {
+        "date":"234 BCE",
+        "location": "Ancient Rome",
+        "use": "Post-colonial fusion food in Central Mexico",
+        "source": "referenced by Cato the Elder"
+      }
+    }
+  ]
+  

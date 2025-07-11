@@ -34,3 +34,102 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Resources:
+
+### APIs & Data sources:
+
+#### USDA
+https://app.swaggerhub.com/apis/fdcnal/food-data_central_api/1.0.1#/
+https://fdc.nal.usda.gov/api-guide#bkmk-3
+
+#### Opendataweb
+https://apps.fas.usda.gov/opendatawebV2/#/
+
+#### Edamam
+# https://developer.edamam.com/food-database-api
+
+####  Spoonacular API
+https://spoonacular.com/food-api/console#Dashboard
+can't scrape or store data
+must use live call to get flavor profile
+
+#### Food DB 
+https://foodb.ca/api/v1/foodreport/food
+
+#### OpenFoodFacts 
+https://world.openfoodfacts.org/cgi/search.pl
+
+#### ITIS 
+
+https://www.itis.gov/web_service.html
+# JSON Web Services
+# The ITIS JSON services provide an API that matches the Web Service API. All calls for JSON data are made by substituting "jsonservice" into the Web Service call in place of the "services/ITISService" part of the URL.
+
+##### ITIS WEB SERVICE API
+# https://www.itis.gov/ws_description.html
+# common name
+# http://www.itis.gov/ITISWebService/services/ITISService/searchByCommonName?srchKey=ferret-badger
+# scientific name
+# http://www.itis.gov/ITISWebService/services/ITISService/searchByScientificName?srchKey=Tardigrada
+
+### Data sources
+#### Github repos and projects
+https://areeves87.shinyapps.io/flavor-bible/
+https://rpubs.com/areeves87/389547
+https://github.com/areeves87/Flavor-Bible-App/blob/master/app/flavor-bible/flavor_bible_full.csv
+https://github.com/mhalverstadt/The-Flavor-DB
+https://github.com/mhalverstadt/The-Flavor-DB/blob/main/data/data-formatted-json.json
+
+#### Food DB 
+https://foodb.ca/api/v1/foodreport/food
+
+### Books
+The Flavor Bible
+The Flavor Equation
+The Art of French Cooking
+Ratios https://www.amazon.com/dp/B001UP63MI?tag=ruhlmancom&linkCode=ogi&th=1&psc=1
+The Sioux Chef
+My Native Kitchen
+Mi Cocina
+Masa
+
+### Geography
+https://github.com/martynafford/natural-earth-geojson
+https://www.geoapify.com/boundaries-api
+https://explorer.natureserve.org/api-docs/
+https://geojson-maps.kyd.au/
+https://www.geoboundaries.org/
+
+### Species data
+https://nsr.biendata.org
+https://www.usgs.gov/programs/gap-analysis-project/science/species-data-web-services
+https://trefle.io/
+
+### Other:
+https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00935-9
+https://github.com/javierortegaa/FlavorFinder
+https://www.sensorysociety.org/knowledge/sspwiki/Pages/Flavor%20Flavour.aspx
+https://www.sciencedirect.com/science/article/abs/pii/S0065262808602451
+https://brege.org/post/the-flavor-network/
+https://github.com/victma/meat-map/tree/master
+https://en.m.wikipedia.org/wiki/File:US_Beef_cuts.svg
+https://www.meatsbylinz.com/cattlechart/
+https://www.reddit.com/r/food/comments/1yzcbd/the_complete_visual_guide_to_beef_cuts_infographic/
+https://www.virtualweberbullet.com/meat-charts-beef-pork-lamb-goat/
+
+### Maps
+https://maplibre.org/maplibre-gl-js/docs/examples/animate-a-line/
+
+
+### Recipes
+https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
+https://flavorpair.me/
+
+### Wikipedia pages
+https://en.wikipedia.org/wiki/Category:Crops_originating_from_the_Americas
+https://en.wikipedia.org/wiki/New_World_crops
+https://en.wikipedia.org/wiki/Columbian_exchange
+https://en.wikipedia.org/wiki/Glass_Gem_Corn
+https://en.wikipedia.org/wiki/Cone_pepper
+https://en.wikipedia.org/wiki/Category:Edible_Solanaceae

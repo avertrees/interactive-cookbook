@@ -1,0 +1,7195 @@
+[
+  {
+    "id": "achiote",
+    "name": "Achiote",
+    "name_variants": [
+      "achiote",
+      "achiote seeds"
+    ],
+    "pairing_ids": [
+      "achiote",
+      "pork",
+      "sour_orange"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "aged",
+    "name": "Aged",
+    "name_variants": [
+      "aged foods",
+      "cheese aged"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "aioli",
+    "name": "Aioli",
+    "name_variants": [
+      "aioli",
+      "eastern mediterranean"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "alcohol",
+    "name": "Alcohol",
+    "name_variants": [
+      "alcohol",
+      "beer",
+      "margaritas",
+      "tequila",
+      "vodka"
+    ],
+    "pairing_ids": [
+      "stews"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ale",
+    "name": "Ale",
+    "name_variants": [
+      "ale or beer dark",
+      "beer  ale",
+      "beer or ale"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "name_variants": [
+      "aligot french garliccheesy pureed potatoes",
+      "legumes",
+      "mirepoix carrots celery onions",
+      "mostarda mustard fruits",
+      "mstarda mustard fruits"
+    ],
+    "pairing_ids": [
+      "combination_of_the_three_is_delicious."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "allspice",
+    "name": "Allspice",
+    "name_variants": [
+      "allspice",
+      "licorice"
+    ],
+    "pairing_ids": [
+      "allspice",
+      "garlic",
+      "pork"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "almonds",
+    "name": "Almonds",
+    "name_variants": [
+      "almonds",
+      "nuts almonds",
+      "oil almond",
+      "oil nut",
+      "oils almond",
+      "oils nut",
+      "pine nuts"
+    ],
+    "pairing_ids": [
+      "almonds",
+      "honey",
+      "orange_zest",
+      "raisins"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "and",
+    "name": "And",
+    "name_variants": [
+      "almonds and almond paste",
+      "jerk pastes",
+      "pears and pear paste"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "amaretti",
+    "name": "Amaretti",
+    "name_variants": [
+      "amaretti cookie crumbs",
+      "cookies"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "amaretto",
+    "name": "Amaretto",
+    "name_variants": [
+      "amaretto",
+      "amaretto sweet almond liqueur"
+    ],
+    "pairing_ids": [
+      "sugar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chili",
+    "name": "Chili",
+    "name_variants": [
+      "ancho chili powder",
+      "chili",
+      "chili con carne",
+      "chili oil",
+      "chili paste",
+      "chili powder",
+      "chili powder ancho",
+      "chili sauce"
+    ],
+    "pairing_ids": [
+      "sauces"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "anchovies",
+    "name": "Anchovies",
+    "name_variants": [
+      "anchovies",
+      "anchovy"
+    ],
+    "pairing_ids": [
+      "anchovies",
+      "lemon",
+      "olive_oil",
+      "rosemary"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "andouille",
+    "name": "Andouille",
+    "name_variants": [
+      "andouille sausage",
+      "sausage andouille"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "angelica",
+    "name": "Angelica",
+    "name_variants": [
+      "angelica",
+      "biryani",
+      "harissa",
+      "jasmine"
+    ],
+    "pairing_ids": [
+      "angelica",
+      "cream",
+      "rhubarb"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "anise",
+    "name": "Anise",
+    "name_variants": [
+      "anise",
+      "anise hyssop",
+      "anise seeds",
+      "anise seeds and anise hyssop",
+      "anise star",
+      "anisette",
+      "spices star anise",
+      "star anise"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "brandy",
+    "name": "Brandy",
+    "name_variants": [
+      "apple brandy",
+      "apricot brandy",
+      "brandy",
+      "brandy apple",
+      "brandy dry",
+      "pear brandy"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cider",
+    "name": "Cider",
+    "name_variants": [
+      "apple cider",
+      "apples and apple cider",
+      "apples cider",
+      "cider",
+      "cider apple",
+      "cider hard",
+      "cider hot",
+      "hard cider",
+      "pear cider"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "juice",
+    "name": "Juice",
+    "name_variants": [
+      "apple cider or juice",
+      "apple juice",
+      "apples and apple juice",
+      "apples and apple juice or cider",
+      "apples juice",
+      "fruit juice",
+      "fruit juices",
+      "fruits and fruit juices"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "apples",
+    "name": "Apples",
+    "name_variants": [
+      "apple fruit",
+      "apples",
+      "apples and applesauce",
+      "apples fruit",
+      "apples golden delicious",
+      "apples rome",
+      "apples sauce",
+      "fruit apples"
+    ],
+    "pairing_ids": [
+      "apples",
+      "red_cabbage",
+      "cinnamon"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "applejack",
+    "name": "Applejack",
+    "name_variants": [
+      "applejack"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tart",
+    "name": "Tart",
+    "name_variants": [
+      "apples tart",
+      "fruit tart",
+      "tarts"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "apricots",
+    "name": "Apricots",
+    "name_variants": [
+      "apricots",
+      "apricots dried",
+      "apricots jam",
+      "apricots puree",
+      "apricots pureed",
+      "apricots sauce",
+      "tea apricot"
+    ],
+    "pairing_ids": [
+      "dried_apricots",
+      "dried_cherries",
+      "ginger",
+      "orange",
+      "pistachios"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "aquavit",
+    "name": "Aquavit",
+    "name_variants": [
+      "aquavit",
+      "buckwheat",
+      "turbot"
+    ],
+    "pairing_ids": [
+      "turbot",
+      "lemon",
+      "miso",
+      "mushrooms"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "armagnac",
+    "name": "Armagnac",
+    "name_variants": [
+      "armagnac",
+      "zabaglione"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "name_variants": [
+      "aroma",
+      "lavender",
+      "lavender can substitute for caraway"
+    ],
+    "pairing_ids": [
+      "lavender",
+      "meat",
+      "salt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "arrowroot",
+    "name": "Arrowroot",
+    "name_variants": [
+      "arrowroot",
+      "choucroute"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "artichoke",
+    "name": "Artichoke",
+    "name_variants": [
+      "artichoke",
+      "artichoke hearts",
+      "artichoke jerusalem",
+      "artichokes",
+      "artichokes jerusalem"
+    ],
+    "pairing_ids": [
+      "artichokes",
+      "olive_oil",
+      "parmesan_cheese",
+      "white_truffles"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "arugula",
+    "name": "Arugula",
+    "name_variants": [
+      "arugula",
+      "greens arugula"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "asparagus",
+    "name": "Asparagus",
+    "name_variants": [
+      "asparagus",
+      "asparagus white"
+    ],
+    "pairing_ids": [
+      "asparagus",
+      "prosciutto",
+      "goat_cheese",
+      "chervil"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "astringency",
+    "name": "Astringency",
+    "name_variants": [
+      "astringency",
+      "nettles stinging"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "name_variants": [
+      "avocado",
+      "avocadoes",
+      "avocados",
+      "oil avocado"
+    ],
+    "pairing_ids": [
+      "avocado",
+      "lemon",
+      "smoked_trout"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bacon",
+    "name": "Bacon",
+    "name_variants": [
+      "bacon",
+      "bacon  lardons",
+      "fat bacon",
+      "pork bacon"
+    ],
+    "pairing_ids": [
+      "bacon",
+      "spinach",
+      "winter_squash"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cured",
+    "name": "Cured",
+    "name_variants": [
+      "bacon and other cured meats",
+      "cured meats",
+      "cured meats bacon",
+      "cured meats pancetta",
+      "cured meats prosciutto",
+      "meats cured"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "and",
+    "name": "And",
+    "name_variants": [
+      "bacon and pancetta",
+      "pancetta",
+      "panforte",
+      "panforte italian fruit and nut cake"
+    ],
+    "pairing_ids": [
+      "vegetables"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beans",
+    "name": "Beans",
+    "name_variants": [
+      "baked beans",
+      "beans",
+      "beans baked",
+      "beans dried",
+      "beans fresh",
+      "beans navy",
+      "beans pinto",
+      "beans shell",
+      "refried beans",
+      "soy beans"
+    ],
+    "pairing_ids": [
+      "vinegar,_red_wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "baked",
+    "name": "Baked",
+    "name_variants": [
+      "baked dishes",
+      "baked dishes and goods",
+      "baked goods",
+      "baked goods cakes",
+      "baked goods cookies",
+      "baked goods scones",
+      "baked goods shortbread",
+      "bread and other baked goods"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "baking",
+    "name": "Baking",
+    "name_variants": [
+      "baking powder",
+      "baking soda"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "bananas",
+    "name": "Bananas",
+    "name_variants": [
+      "banana liqueur",
+      "bananas",
+      "bananas fruit",
+      "bananas liqueur",
+      "bananas unripe"
+    ],
+    "pairing_ids": [
+      "banana",
+      "oats",
+      "pecans"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "barbecue",
+    "name": "Barbecue",
+    "name_variants": [
+      "barbecue",
+      "barbecue dishes",
+      "barbecue rub",
+      "barbecue sauce",
+      "barbecued foods"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "name_variants": [
+      "barley",
+      "beer wheat",
+      "bulgur wheat",
+      "grains",
+      "wheat"
+    ],
+    "pairing_ids": [
+      "vinegar,_sherry"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "basil",
+    "name": "Basil",
+    "name_variants": [
+      "basil",
+      "basil leaf",
+      "basil lemon",
+      "basil oil",
+      "basil purple",
+      "basil regular",
+      "basil sweet",
+      "lemon basil"
+    ],
+    "pairing_ids": [
+      "vegetables"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "basil",
+    "name": "Basil",
+    "name_variants": [
+      "basil and thai basil",
+      "basil thai",
+      "thai basil"
+    ],
+    "pairing_ids": [
+      "thai_basil",
+      "coconut_milk",
+      "ginger"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cinnamon",
+    "name": "Cinnamon",
+    "name_variants": [
+      "basil cinnamon",
+      "cinnamon",
+      "cinnamon basil",
+      "spices cinnamon"
+    ],
+    "pairing_ids": [
+      "cinnamon",
+      "cloves",
+      "mace",
+      "nutmeg"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bass",
+    "name": "Bass",
+    "name_variants": [
+      "bass",
+      "bass black",
+      "bass striped",
+      "striped bass"
+    ],
+    "pairing_ids": [
+      "black_bass",
+      "new_potatoes",
+      "shrimp"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bass",
+    "name": "Bass",
+    "name_variants": [
+      "bass sea",
+      "flounder",
+      "sea bass"
+    ],
+    "pairing_ids": [
+      "sea_bass",
+      "mushrooms",
+      "sesame_seeds",
+      "shrimp"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bay",
+    "name": "Bay",
+    "name_variants": [
+      "bay leaf",
+      "bay leaves"
+    ],
+    "pairing_ids": [
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "sprouts",
+    "name": "Sprouts",
+    "name_variants": [
+      "bean sprouts",
+      "brussels sprouts",
+      "sprouts"
+    ],
+    "pairing_ids": [
+      "stir-fried_dishes,_esp._heartier_sprouts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beans",
+    "name": "Beans",
+    "name_variants": [
+      "beans black",
+      "beans black green",
+      "beans green",
+      "beans red",
+      "beans white",
+      "green beans"
+    ],
+    "pairing_ids": [
+      "black_beans",
+      "lemon",
+      "sherry"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beans",
+    "name": "Beans",
+    "name_variants": [
+      "beans cannelini",
+      "beans cannellini",
+      "cantaloupe",
+      "melon cantaloupe"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cranberries",
+    "name": "Cranberries",
+    "name_variants": [
+      "beans cranberry",
+      "berries cranberries",
+      "cranberries",
+      "cranberries dried",
+      "cranberries sweetened",
+      "cranberry juice"
+    ],
+    "pairing_ids": [
+      "wine,_white"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beans",
+    "name": "Beans",
+    "name_variants": [
+      "beans fava",
+      "beans lima",
+      "fava beans",
+      "lima beans"
+    ],
+    "pairing_ids": [
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beans",
+    "name": "Beans",
+    "name_variants": [
+      "beans flageolet",
+      "beans flageolets",
+      "flageolets"
+    ],
+    "pairing_ids": [
+      "flageolet_beans",
+      "garlic",
+      "thyme"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "haricots",
+    "name": "Haricots",
+    "name_variants": [
+      "beans haricots verts",
+      "haricots verts"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "beans",
+    "name": "Beans",
+    "name_variants": [
+      "beans kidney",
+      "kidneys"
+    ],
+    "pairing_ids": [
+      "wine,_red"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beef",
+    "name": "Beef",
+    "name_variants": [
+      "beef",
+      "beef brisket",
+      "beef cheeks",
+      "beef consomm",
+      "beef ground",
+      "beef loin",
+      "beef rare",
+      "beef round",
+      "beef shoulder",
+      "beef steak",
+      "corned beef",
+      "meat ground"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "stews",
+    "name": "Stews",
+    "name_variants": [
+      "beef stew",
+      "middle eastern stews",
+      "stew",
+      "stewed dishes",
+      "stews",
+      "stews meat"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "braised",
+    "name": "Braised",
+    "name_variants": [
+      "beef braised",
+      "meats braised"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "beef",
+    "name": "Beef",
+    "name_variants": [
+      "beef kobe",
+      "kobe beef"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "oxtails",
+    "name": "Oxtails",
+    "name_variants": [
+      "beef oxtails",
+      "oxtails",
+      "yellowtail"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "raw",
+    "name": "Raw",
+    "name_variants": [
+      "beef raw",
+      "fish raw",
+      "fruits raw",
+      "vegetables raw"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "ribs",
+    "name": "Ribs",
+    "name_variants": [
+      "beef ribs",
+      "beef short ribs",
+      "pork ribs",
+      "short ribs"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "roasted",
+    "name": "Roasted",
+    "name_variants": [
+      "beef roast",
+      "bell peppers roasted",
+      "chicken roasted",
+      "garlic roasted",
+      "meats roasted",
+      "pot roast",
+      "poultry roasted",
+      "roasted dishes",
+      "roasted foods",
+      "roasted meats",
+      "roasts",
+      "tomatoes roasted",
+      "vegetables roasted"
+    ],
+    "pairing_ids": [
+      "yams"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beef",
+    "name": "Beef",
+    "name_variants": [
+      "beef shank",
+      "beef shanks",
+      "lamb shanks",
+      "pork shank"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "steak",
+    "name": "Steak",
+    "name_variants": [
+      "beef steak filet mignon",
+      "beef steak flank",
+      "beef steak hanger",
+      "beef steak rib eye",
+      "beef steak skirt",
+      "steak",
+      "steaks",
+      "veal steaks"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pears",
+    "name": "Pears",
+    "name_variants": [
+      "beefeater pear",
+      "fruit pears",
+      "pears",
+      "pears dried",
+      "pears fresh"
+    ],
+    "pairing_ids": [
+      "pears",
+      "stilton_cheese",
+      "hazelnuts",
+      "balsamic_vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "smoked",
+    "name": "Smoked",
+    "name_variants": [
+      "beer smoked",
+      "cheese smoked",
+      "liquid smoke",
+      "salt smoked",
+      "smokiness"
+    ],
+    "pairing_ids": [
+      "vegetarian_dishes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beets",
+    "name": "Beets",
+    "name_variants": [
+      "beet greens",
+      "beet juice",
+      "beets",
+      "beets juice",
+      "beets vegetable"
+    ],
+    "pairing_ids": [
+      "salad_of_organic_beets_and_gala_apples,_\u201cbeauty_heart\u201d_radishes_and_upland_cress,"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bell",
+    "name": "Bell",
+    "name_variants": [
+      "bell pepper",
+      "bell pepper red",
+      "bell pepper roasted red",
+      "bell peppers",
+      "bell peppers green",
+      "bell peppers red",
+      "bell peppers yellow",
+      "pepper",
+      "peppers",
+      "stuffed peppers"
+    ],
+    "pairing_ids": [
+      "bell_peppers",
+      "garlic",
+      "olive_oil",
+      "onion",
+      "thyme",
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "berries",
+    "name": "Berries",
+    "name_variants": [
+      "berries",
+      "berries blackberries",
+      "berries blueberries",
+      "berries gooseberries",
+      "berries strawberries",
+      "blackberries",
+      "blueberries",
+      "boysenberries",
+      "gooseberries",
+      "huckleberries",
+      "strawberries",
+      "strawberries fruit"
+    ],
+    "pairing_ids": [
+      "blackberries",
+      "honey",
+      "vanilla",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "raspberries",
+    "name": "Raspberries",
+    "name_variants": [
+      "berries raspberries",
+      "raspberries",
+      "raspberries black",
+      "raspberries fruit",
+      "raspberries red",
+      "raspberry preserves"
+    ],
+    "pairing_ids": [
+      "raspberries",
+      "sugar",
+      "vanilla",
+      "white_chocolate"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "blanc",
+    "name": "Blanc",
+    "name_variants": [
+      "beurre blanc",
+      "cheese fromage blanc",
+      "fromage blanc",
+      "sauces beurre blanc"
+    ],
+    "pairing_ids": [
+      "figs"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "beverages",
+    "name": "Beverages",
+    "name_variants": [
+      "beverages",
+      "hot beverages"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "biscotti",
+    "name": "Biscotti",
+    "name_variants": [
+      "biscotti",
+      "biscuit"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "bitters",
+    "name": "Bitters",
+    "name_variants": [
+      "bitterness",
+      "bitters",
+      "bitters orange",
+      "chocolate bitter"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "peas",
+    "name": "Peas",
+    "name_variants": [
+      "blackeyed peas",
+      "peas",
+      "peas and sugar snap peas",
+      "peas blackeyed",
+      "peas green",
+      "peas snow",
+      "peas spring",
+      "peas sugar",
+      "peas sugar snap",
+      "snap peas",
+      "snow peas",
+      "sugar snap peas"
+    ],
+    "pairing_ids": [
+      "black-eyed_peas",
+      "rice",
+      "savory"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "blini",
+    "name": "Blini",
+    "name_variants": [
+      "blini",
+      "citron"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "blood",
+    "name": "Blood",
+    "name_variants": [
+      "blood orange",
+      "orange blood or regular juice",
+      "orange juice",
+      "oranges and blood oranges",
+      "oranges blood"
+    ],
+    "pairing_ids": [
+      "vanilla"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bloody",
+    "name": "Bloody",
+    "name_variants": [
+      "bloody marys",
+      "cauliflower",
+      "paella",
+      "tomatillos"
+    ],
+    "pairing_ids": [
+      "cauliflower",
+      "pine_nuts",
+      "lime"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bluefish",
+    "name": "Bluefish",
+    "name_variants": [
+      "bluefish",
+      "crayfish",
+      "monkfish",
+      "sea urchin",
+      "swordfish",
+      "tilefish"
+    ],
+    "pairing_ids": [
+      "wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "boar",
+    "name": "Boar",
+    "name_variants": [
+      "boar",
+      "boar wild"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "bok",
+    "name": "Bok",
+    "name_variants": [
+      "bok choy",
+      "borage",
+      "borscht"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "foods",
+    "name": "Foods",
+    "name_variants": [
+      "boldflavored foods",
+      "delicate flavors",
+      "delicateflavored foods",
+      "strongly flavored foods"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "bonito",
+    "name": "Bonito",
+    "name_variants": [
+      "bonito flakes",
+      "bonito flakes dried"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tuna",
+    "name": "Tuna",
+    "name_variants": [
+      "bottarga tuna roe",
+      "tuna"
+    ],
+    "pairing_ids": [
+      "tuna",
+      "sesame",
+      "wasabi"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bouillabaisse",
+    "name": "Bouillabaisse",
+    "name_variants": [
+      "bouillabaisse",
+      "chicken mousse",
+      "mascarpone",
+      "ratatouille"
+    ],
+    "pairing_ids": [
+      "mascarpone",
+      "maple_syrup",
+      "pistachios"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "bouquet",
+    "name": "Bouquet",
+    "name_variants": [
+      "bouquet garni"
+    ],
+    "pairing_ids": [
+      "bay_leaf",
+      "parsley",
+      "thyme"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "whiskey",
+    "name": "Whiskey",
+    "name_variants": [
+      "bourbon",
+      "irish whiskey",
+      "scotch",
+      "whiskey",
+      "whiskey scotch"
+    ],
+    "pairing_ids": [
+      "scotch",
+      "ginger",
+      "lemon_juice"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "dishes",
+    "name": "Dishes",
+    "name_variants": [
+      "braised dishes",
+      "brined dishes",
+      "delicate dishes",
+      "finishing dishes",
+      "heartier dishes",
+      "meat dishes",
+      "milkbased dishes",
+      "raw dishes",
+      "rich dishes",
+      "sauted dishes",
+      "vegetablebased dishes"
+    ],
+    "pairing_ids": [
+      "venison,_shoulder"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "brandade",
+    "name": "Brandade",
+    "name_variants": [
+      "brandade",
+      "brandies fruit"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "bread",
+    "name": "Bread",
+    "name_variants": [
+      "bread",
+      "bread bagels",
+      "bread breadsticks croutons etc",
+      "bread crusty",
+      "bread french",
+      "bread olive",
+      "bread pita",
+      "bread pumpernickel",
+      "bread white",
+      "breads",
+      "breads and breadsticks",
+      "nut bread",
+      "walnut bread"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "bread",
+    "name": "Bread",
+    "name_variants": [
+      "bread and bread crumbs",
+      "bread bread crumbs",
+      "bread crumbs",
+      "bread crumbs  panko",
+      "bread crumbs or cracker crumbs",
+      "bread crumbs or panko",
+      "bread crumbs panko",
+      "bread crumbs regular"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "croutons",
+    "name": "Croutons",
+    "name_variants": [
+      "bread and croutons",
+      "bread croutons",
+      "croutons",
+      "croutons accent"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "rye",
+    "name": "Rye",
+    "name_variants": [
+      "bread rye",
+      "rye"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sweetbreads",
+    "name": "Sweetbreads",
+    "name_variants": [
+      "breads sweet",
+      "gingerbread",
+      "sweetbreads",
+      "veal sweetbreads"
+    ],
+    "pairing_ids": [
+      "sweetbreads",
+      "mustard",
+      "raisins"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "breakfast",
+    "name": "Breakfast",
+    "name_variants": [
+      "breakfast",
+      "breakfast  brunch",
+      "pancakes",
+      "pancakescrepes"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "brioche",
+    "name": "Brioche",
+    "name_variants": [
+      "brines",
+      "brioche",
+      "brioche or challah"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "name_variants": [
+      "broccoli",
+      "broccoli rabe",
+      "broccolini",
+      "broths"
+    ],
+    "pairing_ids": [
+      "broccoli",
+      "garlic",
+      "tarragon"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "name_variants": [
+      "brown butter",
+      "butter",
+      "butter brown",
+      "butter brown andor unsalted",
+      "butter clarified",
+      "butter salted",
+      "butter sweet",
+      "butter unsalted",
+      "buttermilk",
+      "butterscotch"
+    ],
+    "pairing_ids": [
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "name_variants": [
+      "brown butter sauce",
+      "butter and butter sauces",
+      "butter sauces",
+      "sauce brown butter",
+      "sauces brown butter"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "barnaise",
+    "name": "Barnaise",
+    "name_variants": [
+      "barnaise sauce",
+      "sauces barnaise"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "bchamel",
+    "name": "Bchamel",
+    "name_variants": [
+      "bchamel sauce",
+      "sauce bchamel",
+      "sauces bchamel"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "name_variants": [
+      "cabbage",
+      "cabbage green",
+      "cabbage napa",
+      "cabbage red",
+      "cabbage savoy"
+    ],
+    "pairing_ids": [
+      "red_cabbage",
+      "pancetta",
+      "ricotta_salata_cheese"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "name_variants": [
+      "cabbage with corned beef brisket",
+      "corned beef and cabbage"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sauvignon",
+    "name": "Sauvignon",
+    "name_variants": [
+      "cabernet sauvignon",
+      "sauvignon blanc",
+      "wine dry white or red cabernet sauvignon"
+    ],
+    "pairing_ids": [
+      "strawberries"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "salads",
+    "name": "Salads",
+    "name_variants": [
+      "caesar salad",
+      "fruit salads",
+      "fruits and fruit salads",
+      "greens delicate salad",
+      "greens salad",
+      "potatoes and potato salad",
+      "salad",
+      "salads",
+      "salads and salad greens",
+      "salads bean",
+      "salads chicken",
+      "salads fruit",
+      "salads fruit and green",
+      "salads green",
+      "salads pasta",
+      "salads potato",
+      "salads shrimp",
+      "salads tuna",
+      "salads vegetable"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "name_variants": [
+      "caffeine",
+      "coffee",
+      "coffee  espresso"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cake",
+    "name": "Cake",
+    "name_variants": [
+      "cake",
+      "cakes",
+      "pound cake"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "calamari",
+    "name": "Calamari",
+    "name_variants": [
+      "calamari",
+      "calvados"
+    ],
+    "pairing_ids": [
+      "vermouth,_sweet"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "campari",
+    "name": "Campari",
+    "name_variants": [
+      "campari",
+      "tahini",
+      "tempura"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "candies",
+    "name": "Candies",
+    "name_variants": [
+      "candies",
+      "candy",
+      "marshmallows"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "caperberries",
+    "name": "Caperberries",
+    "name_variants": [
+      "caperberries",
+      "capers"
+    ],
+    "pairing_ids": [
+      "capers",
+      "lemon",
+      "marjoram"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "caponata",
+    "name": "Caponata",
+    "name_variants": [
+      "caponata",
+      "carpaccio",
+      "sumac"
+    ],
+    "pairing_ids": [
+      "sumac",
+      "salt",
+      "sesame_seeds",
+      "thyme_(aka_middle_eastern_za\u2019atar)"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "caraway",
+    "name": "Caraway",
+    "name_variants": [
+      "caramel",
+      "caraway",
+      "caraway seed",
+      "caraway seeds"
+    ],
+    "pairing_ids": [
+      "vanilla"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cardamom",
+    "name": "Cardamom",
+    "name_variants": [
+      "cardamom",
+      "cardamom green"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "name_variants": [
+      "carrot",
+      "carrot juice",
+      "carrots",
+      "carrots and carrot juice",
+      "carrots juice"
+    ],
+    "pairing_ids": [
+      "carrots",
+      "raisins",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cashews",
+    "name": "Cashews",
+    "name_variants": [
+      "cashews",
+      "nuts cashews"
+    ],
+    "pairing_ids": [
+      "vegetables,_esp._indian"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "casseroles",
+    "name": "Casseroles",
+    "name_variants": [
+      "casseroles",
+      "mackerel",
+      "marinades",
+      "sardines"
+    ],
+    "pairing_ids": [
+      "mackerel",
+      "onions",
+      "thyme"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cassis",
+    "name": "Cassis",
+    "name_variants": [
+      "cassis",
+      "cassoulet"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "fish",
+    "name": "Fish",
+    "name_variants": [
+      "catfish",
+      "fish",
+      "fish cooked",
+      "fish fried",
+      "fish grilled",
+      "fish mild",
+      "fish white",
+      "fish whole"
+    ],
+    "pairing_ids": [
+      "wine,_dry_white"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "caviar",
+    "name": "Caviar",
+    "name_variants": [
+      "caviar",
+      "caviar and other fish roe",
+      "salmon caviar"
+    ],
+    "pairing_ids": [
+      "wine,_champagne"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cayenne",
+    "name": "Cayenne",
+    "name_variants": [
+      "cayenne",
+      "cayenne ground"
+    ],
+    "pairing_ids": [
+      "cayenne",
+      "coriander",
+      "cumin",
+      "garlic"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "celery",
+    "name": "Celery",
+    "name_variants": [
+      "celery",
+      "celery and celery leaves",
+      "celery and leaves",
+      "celery leaf",
+      "celery leaves",
+      "celery root",
+      "celery stalk"
+    ],
+    "pairing_ids": [
+      "celery",
+      "tarragon",
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "celery",
+    "name": "Celery",
+    "name_variants": [
+      "celery and celery salt",
+      "celery salt"
+    ],
+    "pairing_ids": [
+      "celery",
+      "tarragon",
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "celery",
+    "name": "Celery",
+    "name_variants": [
+      "celery and celery seeds",
+      "celery leaves or seeds",
+      "celery or celery seeds",
+      "celery seed",
+      "celery seeds"
+    ],
+    "pairing_ids": [
+      "celery",
+      "tarragon",
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ceviche",
+    "name": "Ceviche",
+    "name_variants": [
+      "ceviche",
+      "pimentos",
+      "polenta",
+      "spaetzle"
+    ],
+    "pairing_ids": [
+      "polenta",
+      "parmesan_cheese",
+      "rosemary"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chai",
+    "name": "Chai",
+    "name_variants": [
+      "chai",
+      "chamomile",
+      "chayote"
+    ],
+    "pairing_ids": [
+      "veal"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "champagne",
+    "name": "Champagne",
+    "name_variants": [
+      "champagne",
+      "riesling sparkling",
+      "vinegar champagne",
+      "wine champagne",
+      "wine sparkling",
+      "wine sparkling white"
+    ],
+    "pairing_ids": [
+      "strawberries"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chanterelles",
+    "name": "Chanterelles",
+    "name_variants": [
+      "chanterelles",
+      "mushrooms chanterelle",
+      "mushrooms chanterelles"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "chard",
+    "name": "Chard",
+    "name_variants": [
+      "charcuterie",
+      "chard",
+      "swiss chard"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "chardonnay",
+    "name": "Chardonnay",
+    "name_variants": [
+      "chardonnay",
+      "vinegar chardonnay",
+      "wine chardonnay"
+    ],
+    "pairing_ids": [
+      "veal"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chartreuse",
+    "name": "Chartreuse",
+    "name_variants": [
+      "chartreuse",
+      "horseradish",
+      "tapenade"
+    ],
+    "pairing_ids": [
+      "horseradish",
+      "seafood",
+      "tomatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese",
+      "cheese blue",
+      "cheese fresh",
+      "cheese salty",
+      "cheese soft",
+      "cheese swiss",
+      "cheeses",
+      "cheeses salty",
+      "cream cheese"
+    ],
+    "pairing_ids": [
+      "pears"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese and cheese dishes",
+      "cheese and cheese dishes mozzarella",
+      "cheese and cheese sauces",
+      "cheese dishes",
+      "cheese mozzarella",
+      "cheeses mozzarella",
+      "sauces cheese"
+    ],
+    "pairing_ids": [
+      "mozzarella_cheese",
+      "olives",
+      "prosciutto"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese and cheese dishes feta",
+      "cheese dry feta",
+      "cheese feta",
+      "cheeses feta"
+    ],
+    "pairing_ids": [
+      "feta_cheese",
+      "salad_greens",
+      "mint"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese and cheese dishes parmesan",
+      "cheese parmesan",
+      "cheeses parmesan",
+      "parmesan cheese"
+    ],
+    "pairing_ids": [
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese asiago",
+      "cheese azeitao",
+      "cheese cambozola",
+      "cheese cotija",
+      "cheese gorgonzola",
+      "cheese gouda",
+      "cheese hoja santa",
+      "cheese manchego"
+    ],
+    "pairing_ids": [
+      "salads"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese brie",
+      "cheese brin damour",
+      "cheese burrata",
+      "cheese cabrales",
+      "cheese camembert",
+      "cheese cantal",
+      "cheese cheddar",
+      "cheese chvre",
+      "cheese colby",
+      "cheese cottage",
+      "cheese farmers",
+      "cheese fontina",
+      "cheese raclette",
+      "cheese reblochon",
+      "cheese stilton",
+      "cheese vacherin",
+      "cheese valdeon",
+      "cheese vermont shepherd"
+    ],
+    "pairing_ids": [
+      "white_wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "comt",
+    "name": "Comt",
+    "name_variants": [
+      "cheese comt",
+      "cheeses comt"
+    ],
+    "pairing_ids": [
+      "greens,_salad"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese cows milk",
+      "cheese fresh goat",
+      "cheese goat",
+      "cheese goats milk",
+      "cheese pressed sheeps milk",
+      "cheese sheeps milk",
+      "cheese white sheep or goats milk",
+      "goat",
+      "goat cheese",
+      "milk goats"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese dry jack",
+      "cheese jack",
+      "cheese monterey jack"
+    ],
+    "pairing_ids": [
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "emmental",
+    "name": "Emmental",
+    "name_variants": [
+      "cheese emmental",
+      "cheeses emmental"
+    ],
+    "pairing_ids": [
+      "potatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese explorateur",
+      "cheese garrotxa",
+      "cheese muenster",
+      "cheese pecorino",
+      "cheese piave",
+      "cheese poisses",
+      "cheese provolone",
+      "cheese taleggio",
+      "cheese teleme",
+      "cheese triple crme"
+    ],
+    "pairing_ids": [
+      "pomegranate"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese french or spanish",
+      "cheese mahon aged spanish cheese",
+      "cheese queso de los beyos",
+      "cheese queso fresco",
+      "cheese torta del casar"
+    ],
+    "pairing_ids": [
+      "quince_paste"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "gruyre",
+    "name": "Gruyre",
+    "name_variants": [
+      "cheese gruyre",
+      "cheeses gruyre"
+    ],
+    "pairing_ids": [
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "havarti",
+    "name": "Havarti",
+    "name_variants": [
+      "cheese havarti",
+      "cheeses havarti"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "herbs",
+    "name": "Herbs",
+    "name_variants": [
+      "cheese herb",
+      "herbs",
+      "herbs as a flavor enhancer",
+      "herbs many",
+      "herbs mint",
+      "herbs most other",
+      "herbs other as a blending herb",
+      "herbs tarragon"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "romano",
+    "name": "Romano",
+    "name_variants": [
+      "cheese pecorino romano",
+      "cheese romano",
+      "romano swiss"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "ricotta",
+    "name": "Ricotta",
+    "name_variants": [
+      "cheese ricotta",
+      "cheese ricotta salata",
+      "ricotta",
+      "ricotta cheese"
+    ],
+    "pairing_ids": [
+      "ricotta",
+      "bread",
+      "honey",
+      "prosecco"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "roquefort",
+    "name": "Roquefort",
+    "name_variants": [
+      "cheese roquefort",
+      "cheeses roquefort",
+      "roquefort"
+    ],
+    "pairing_ids": [
+      "roquefort_cheese",
+      "figs",
+      "pears"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "name_variants": [
+      "cheese souffl",
+      "sopressata",
+      "souffls"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sour",
+    "name": "Sour",
+    "name_variants": [
+      "cheese sour",
+      "cream and sour cream",
+      "cream sour",
+      "fruits sour",
+      "sour cream",
+      "sour cream and sour cream sauces",
+      "sourness"
+    ],
+    "pairing_ids": [
+      "soups"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cheesecake",
+    "name": "Cheesecake",
+    "name_variants": [
+      "cheesecake",
+      "fruitcake",
+      "shortcake"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "chervil",
+    "name": "Chervil",
+    "name_variants": [
+      "chermoula",
+      "chervil",
+      "herbs chervil"
+    ],
+    "pairing_ids": [
+      "chervil",
+      "chives",
+      "parsley",
+      "tarragon_(fines_herbes)"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cherries",
+    "name": "Cherries",
+    "name_variants": [
+      "cherries",
+      "cherries dried",
+      "cherries dried or fresh",
+      "cherries fresh",
+      "cherries fresh or dried",
+      "cherries regular",
+      "cherries sour",
+      "cherries sour or sweet",
+      "cherries sundried",
+      "cherries sweet"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pie",
+    "name": "Pie",
+    "name_variants": [
+      "cherry pie",
+      "pie",
+      "pies"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "chestnuts",
+    "name": "Chestnuts",
+    "name_variants": [
+      "chestnuts",
+      "chestnuts roasted",
+      "honey chestnut",
+      "water chestnuts"
+    ],
+    "pairing_ids": [
+      "chestnuts",
+      "orange",
+      "pear"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken",
+    "name_variants": [
+      "chicken",
+      "chicken and other poultry",
+      "chicken legs",
+      "chicken thighs",
+      "chicken wings",
+      "eggs chicken",
+      "poultry",
+      "poultry chicken"
+    ],
+    "pairing_ids": [
+      "chicken",
+      "mustard",
+      "thyme"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken",
+    "name_variants": [
+      "chicken fat",
+      "fat chicken",
+      "fat rendered chicken",
+      "meats fatty",
+      "poultry fatty"
+    ],
+    "pairing_ids": [
+      "chicken",
+      "mustard",
+      "thyme"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "liver",
+    "name": "Liver",
+    "name_variants": [
+      "chicken livers",
+      "innards liver",
+      "liver",
+      "liver calfs",
+      "liver chicken"
+    ],
+    "pairing_ids": [
+      "calf\u2019s_liver",
+      "figs",
+      "onions",
+      "red_wine_vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chickpeas",
+    "name": "Chickpeas",
+    "name_variants": [
+      "chickpeas",
+      "chickpeas and hummus",
+      "hummus"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "greens",
+    "name": "Greens",
+    "name_variants": [
+      "chicories aka bitter greens",
+      "chicory",
+      "greens chicory",
+      "lettuces bitter greens and chicories"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "peppers",
+    "name": "Peppers",
+    "name_variants": [
+      "chile peppers",
+      "chile peppers anaheim",
+      "chile peppers ancho",
+      "chile peppers ancho dried poblanos",
+      "chile peppers cachuca",
+      "chile peppers fresh",
+      "chile peppers fresh green",
+      "chile peppers green",
+      "chile peppers green or red",
+      "chile peppers guajillo",
+      "chile peppers habanero",
+      "chile peppers jalapeo",
+      "chile peppers piments despelette",
+      "chile peppers poblano",
+      "chile peppers red",
+      "chile peppers scotch bonnet pepper",
+      "chile peppers serrano",
+      "chile peppers thai",
+      "chiles jalapeo",
+      "pasilla peppers"
+    ],
+    "pairing_ids": [
+      "stuffed_peppers"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chile",
+    "name": "Chile",
+    "name_variants": [
+      "chile peppers andor dried sweet",
+      "chile peppers chipotle",
+      "chile peppers chipotle dried smoked jalapeo",
+      "chile peppers chipotle in adobo",
+      "chile peppers dried",
+      "chile peppers dried or fresh",
+      "chile peppers dried red",
+      "chile peppers pasilla dried chilacas"
+    ],
+    "pairing_ids": [
+      "vinegar,_white"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chiles",
+    "name": "Chiles",
+    "name_variants": [
+      "chiles",
+      "chiles red",
+      "chiles rellenos"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "dishes",
+    "name": "Dishes",
+    "name_variants": [
+      "chilled dishes and beverages",
+      "cold cuts",
+      "cold dishes"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "chives",
+    "name": "Chives",
+    "name_variants": [
+      "chives",
+      "chives fresh",
+      "garlic chives",
+      "herbs chives"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chocolate",
+    "name": "Chocolate",
+    "name_variants": [
+      "chocolate",
+      "chocolate dark",
+      "chocolate milk",
+      "chocolate white",
+      "white chocolate"
+    ],
+    "pairing_ids": [
+      "white_chocolate",
+      "ginger",
+      "pistachios",
+      "rice"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cocoa",
+    "name": "Cocoa",
+    "name_variants": [
+      "chocolate and cocoa",
+      "chocolate and cocoa powder",
+      "cocoa",
+      "cocoa powder",
+      "cocoa sweetened"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "chorizo",
+    "name": "Chorizo",
+    "name_variants": [
+      "chorizo",
+      "sausage chorizo",
+      "sausages chorizo"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "chowders",
+    "name": "Chowders",
+    "name_variants": [
+      "chowders",
+      "chowders clam"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "christmas",
+    "name": "Christmas",
+    "name_variants": [
+      "christmas",
+      "thanksgiving"
+    ],
+    "pairing_ids": [
+      "peppermint"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "chutney",
+    "name": "Chutney",
+    "name_variants": [
+      "chutney",
+      "chutney indian",
+      "chutneys"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro",
+    "name_variants": [
+      "cilantro",
+      "herbs cilantro"
+    ],
+    "pairing_ids": [
+      "cilantro",
+      "garlic",
+      "ginger"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "citrus",
+    "name": "Citrus",
+    "name_variants": [
+      "citrus",
+      "citrus fruit",
+      "citrus fruits",
+      "clementines",
+      "fruits citrus",
+      "orange juice zest and clementine"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "zest",
+    "name": "Zest",
+    "name_variants": [
+      "citrus and citrus zest",
+      "citrus zest",
+      "lemon zest",
+      "lime zest",
+      "orange zest",
+      "zest etc",
+      "zest lemon",
+      "zest orange"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "clams",
+    "name": "Clams",
+    "name_variants": [
+      "clam juice",
+      "clams",
+      "clams and clam juice",
+      "seafood clams",
+      "shellfish clams"
+    ],
+    "pairing_ids": [
+      "clams",
+      "oysters",
+      "potatoes",
+      "thyme"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "clove",
+    "name": "Clove",
+    "name_variants": [
+      "clove",
+      "cloves"
+    ],
+    "pairing_ids": [
+      "cloves",
+      "ginger",
+      "honey"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cobblers",
+    "name": "Cobblers",
+    "name_variants": [
+      "cobblers",
+      "grits",
+      "ladyfingers",
+      "skate"
+    ],
+    "pairing_ids": [
+      "southern_cuisine_(american)"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cocacola",
+    "name": "Cocacola",
+    "name_variants": [
+      "cocacola",
+      "cola",
+      "soda"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cocktails",
+    "name": "Cocktails",
+    "name_variants": [
+      "cocktail sauce",
+      "cocktails",
+      "cocktails mint julep",
+      "cocktails pimms no  cup",
+      "sauces cocktail"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "coconut",
+    "name": "Coconut",
+    "name_variants": [
+      "coconut",
+      "coconut and coconut milk",
+      "coconut fruit",
+      "coconut meat",
+      "coconut milk",
+      "coconut shredded",
+      "coconut water"
+    ],
+    "pairing_ids": [
+      "coconut_milk",
+      "beef",
+      "ginger"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cod",
+    "name": "Cod",
+    "name_variants": [
+      "cod",
+      "cod black",
+      "cod salt",
+      "fish cod",
+      "salt cod"
+    ],
+    "pairing_ids": [
+      "cod",
+      "cepes_(mushrooms)",
+      "garlic",
+      "lemon",
+      "potatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "couscous",
+    "name": "Couscous",
+    "name_variants": [
+      "cognac",
+      "couscous",
+      "couscous israeli"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cointreau",
+    "name": "Cointreau",
+    "name_variants": [
+      "cointreau",
+      "dulce de leche"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "coleslaw",
+    "name": "Coleslaw",
+    "name_variants": [
+      "coleslaw",
+      "coleslaw asianstyle"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "collard",
+    "name": "Collard",
+    "name_variants": [
+      "collard greens",
+      "greens collard"
+    ],
+    "pairing_ids": [
+      "vinegar,_cider"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "confit",
+    "name": "Confit",
+    "name_variants": [
+      "confit",
+      "lemon confit"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cooking",
+    "name": "Cooking",
+    "name_variants": [
+      "cooking",
+      "grilled dishes",
+      "grilled foods",
+      "holiday cooking",
+      "slowcooked",
+      "slowcooked dishes",
+      "sousvide cooking"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cooling",
+    "name": "Cooling",
+    "name_variants": [
+      "cooling",
+      "herbs cooling",
+      "spices cooling",
+      "spices warming",
+      "warming"
+    ],
+    "pairing_ids": [
+      "cucumbers",
+      "mint",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander",
+    "name_variants": [
+      "coriander",
+      "coriander seeds"
+    ],
+    "pairing_ids": [
+      "coriander",
+      "fish",
+      "garlic",
+      "olive_oil",
+      "tomatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "corn",
+    "name": "Corn",
+    "name_variants": [
+      "corn",
+      "corn and cornmeal",
+      "corn and masa",
+      "corn bread",
+      "cornmeal",
+      "cornmeal for breading",
+      "cornmeal for crust"
+    ],
+    "pairing_ids": [
+      "corn",
+      "cilantro",
+      "shrimp"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "syrup",
+    "name": "Syrup",
+    "name_variants": [
+      "corn syrup",
+      "corn syrup dark",
+      "corn syrup light",
+      "elderflower syrup"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cornichons",
+    "name": "Cornichons",
+    "name_variants": [
+      "cornichons",
+      "hamburgers",
+      "pretzels"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "game",
+    "name": "Game",
+    "name_variants": [
+      "cornish game hens",
+      "game birds pheasant",
+      "guinea fowl",
+      "pheasant"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "crab",
+    "name": "Crab",
+    "name_variants": [
+      "crab",
+      "crab and crab cakes",
+      "crab dungeness",
+      "crab softshell",
+      "crabs",
+      "softshell crabs"
+    ],
+    "pairing_ids": [
+      "crab",
+      "saffron",
+      "shallots"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lobster",
+    "name": "Lobster",
+    "name_variants": [
+      "crab roe",
+      "lobster",
+      "lobster raw",
+      "lobster roe"
+    ],
+    "pairing_ids": [
+      "lobster",
+      "saffron",
+      "vanilla"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cream",
+    "name": "Cream",
+    "name_variants": [
+      "cream",
+      "cream bavarian style",
+      "cream halfandhalf",
+      "cream heavy"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "name_variants": [
+      "cream  milk",
+      "cream and milk",
+      "cream or milk",
+      "milk"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sauces",
+    "name": "Sauces",
+    "name_variants": [
+      "cream and cream sauces",
+      "cream sauces",
+      "italian sauces",
+      "mexican sauces",
+      "sauces",
+      "sauces and gravies",
+      "sauces cream",
+      "sauces creamy",
+      "sauces fruit",
+      "sauces meatbased",
+      "sauces mignonette",
+      "sauces savory",
+      "sauces white"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cream",
+    "name": "Cream",
+    "name_variants": [
+      "cream and ice cream",
+      "ice cream",
+      "ice cream coffee",
+      "ices and ice creams"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tartar",
+    "name": "Tartar",
+    "name_variants": [
+      "cream of tartar",
+      "sauces tartar",
+      "tartar sauce"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "crudits",
+    "name": "Crudits",
+    "name_variants": [
+      "crudits",
+      "quatre pices"
+    ],
+    "pairing_ids": [
+      "cloves_(allspice_or_cinnamon)",
+      "ginger",
+      "nutmeg",
+      "black_and/or_white_pepper"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "crust",
+    "name": "Crust",
+    "name_variants": [
+      "crust pastry",
+      "crust pastry or pie",
+      "crust pie",
+      "puff pastry"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "crme",
+    "name": "Crme",
+    "name_variants": [
+      "crme anglaise",
+      "crme anglaise sauce",
+      "crme de cassis",
+      "crme de menthe",
+      "crme frache"
+    ],
+    "pairing_ids": [
+      "sugar,_brown"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cucumbers",
+    "name": "Cucumbers",
+    "name_variants": [
+      "cucumber",
+      "cucumbers",
+      "cucumbers sauted"
+    ],
+    "pairing_ids": [
+      "cucumber",
+      "mint",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "cumin",
+    "name": "Cumin",
+    "name_variants": [
+      "cumin",
+      "cumin seeds"
+    ],
+    "pairing_ids": [
+      "cumin",
+      "tomatoes",
+      "turmeric"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "curaao",
+    "name": "Curaao",
+    "name_variants": [
+      "curaao",
+      "orange curaao",
+      "spanish cusine"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "cured",
+    "name": "Cured",
+    "name_variants": [
+      "cured foods",
+      "cures",
+      "salmon cured"
+    ],
+    "pairing_ids": [
+      "tomatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ham",
+    "name": "Ham",
+    "name_variants": [
+      "cured meats ham",
+      "ham",
+      "ham baked",
+      "ham cured",
+      "ham meat",
+      "ham serrano",
+      "ham smoked",
+      "ham virginia"
+    ],
+    "pairing_ids": [
+      "ham",
+      "mozzarella_cheese",
+      "red_onion"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "currants",
+    "name": "Currants",
+    "name_variants": [
+      "currants",
+      "currants black",
+      "currants black or red fruit",
+      "currants black or red preserves",
+      "currants dried",
+      "currants dried or fresh",
+      "currants red",
+      "currants red fruit",
+      "currants red jelly"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "curry",
+    "name": "Curry",
+    "name_variants": [
+      "curries",
+      "curry",
+      "curry and curry leaf",
+      "curry green",
+      "curry leaf",
+      "curry leaves"
+    ],
+    "pairing_ids": [
+      "vegetables"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "curry",
+    "name": "Curry",
+    "name_variants": [
+      "curries and curry powder",
+      "curries curry paste curry powder",
+      "curry leaves powder",
+      "curry powder",
+      "curry powder and sauces",
+      "curry powder or sauce"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "curry",
+    "name": "Curry",
+    "name_variants": [
+      "curry paste",
+      "curry paste red",
+      "curry paste thai red",
+      "curry paste thai yellow",
+      "curry paste yellow",
+      "curry pastes and curries"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "curry",
+    "name": "Curry",
+    "name_variants": [
+      "curry sauce",
+      "curry sauces"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "custard",
+    "name": "Custard",
+    "name_variants": [
+      "custard",
+      "custards",
+      "eggs custard"
+    ],
+    "pairing_ids": [
+      "wine,_sweet"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "daikon",
+    "name": "Daikon",
+    "name_variants": [
+      "daikon",
+      "tea lapsang souchong"
+    ],
+    "pairing_ids": [
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "greens",
+    "name": "Greens",
+    "name_variants": [
+      "dandelion greens",
+      "greens dandelion",
+      "lettuces mesclun greens",
+      "mesclun salad greens"
+    ],
+    "pairing_ids": [
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "dashi",
+    "name": "Dashi",
+    "name_variants": [
+      "dashi",
+      "stocks dashi"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "dates",
+    "name": "Dates",
+    "name_variants": [
+      "dates"
+    ],
+    "pairing_ids": [
+      "dates",
+      "orange",
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "desserts",
+    "name": "Desserts",
+    "name_variants": [
+      "desserts",
+      "desserts and dessert sauces",
+      "iced desserts"
+    ],
+    "pairing_ids": [
+      "dessert_wine_should_always_be_sweeter_than_the_dessert_it_accompanies."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "dill",
+    "name": "Dill",
+    "name_variants": [
+      "dill",
+      "morels"
+    ],
+    "pairing_ids": [
+      "dill",
+      "cucumber",
+      "salmon"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "dips",
+    "name": "Dips",
+    "name_variants": [
+      "dips",
+      "sauces dipping"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "dressings",
+    "name": "Dressings",
+    "name_variants": [
+      "dressings",
+      "salad dressings",
+      "salads and salad dressing",
+      "salads and salad dressings",
+      "salads green pasta and salad dressings"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "fruit",
+    "name": "Fruit",
+    "name_variants": [
+      "dried fruits",
+      "fresh fruit",
+      "freshness",
+      "fruit crisp",
+      "fruit dried",
+      "fruit fresh",
+      "fruits dried",
+      "fruits fresh"
+    ],
+    "pairing_ids": [
+      "tarragon"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "duck",
+    "name": "Duck",
+    "name_variants": [
+      "duck",
+      "duck fat",
+      "duck legs",
+      "duck peking",
+      "duck smoked",
+      "fat duck",
+      "poultry duck"
+    ],
+    "pairing_ids": [
+      "duck",
+      "parsnips",
+      "turnips"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "duck",
+    "name": "Duck",
+    "name_variants": [
+      "duck and duck confit",
+      "duck confit"
+    ],
+    "pairing_ids": [
+      "duck",
+      "parsnips",
+      "turnips"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "prosciutto",
+    "name": "Prosciutto",
+    "name_variants": [
+      "duck prosciutto",
+      "prosciutto"
+    ],
+    "pairing_ids": [
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "dumplings",
+    "name": "Dumplings",
+    "name_variants": [
+      "dumplings",
+      "prunes"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tea",
+    "name": "Tea",
+    "name_variants": [
+      "earl grey tea",
+      "green tea",
+      "tea",
+      "tea apple",
+      "tea black",
+      "tea earl grey",
+      "tea green",
+      "teas"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "edamame",
+    "name": "Edamame",
+    "name_variants": [
+      "edamame",
+      "nori",
+      "offal",
+      "okra",
+      "tripe"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "eggs",
+    "name": "Eggs",
+    "name_variants": [
+      "egg",
+      "egg whites",
+      "eggnog",
+      "eggplant",
+      "eggs",
+      "eggs egg dishes and omelets",
+      "eggs frittata",
+      "eggs omelets",
+      "eggs scrambled"
+    ],
+    "pairing_ids": [
+      "eggs",
+      "potato",
+      "sausage"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "egg",
+    "name": "Egg",
+    "name_variants": [
+      "egg dishes",
+      "egg hardboiled",
+      "eggs eggbased dishes",
+      "eggs hardboiled",
+      "eggs including hardboiled and egg dishes"
+    ],
+    "pairing_ids": [
+      "tomatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "egg",
+    "name": "Egg",
+    "name_variants": [
+      "egg salad",
+      "eggs and egg salad"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "yolks",
+    "name": "Yolks",
+    "name_variants": [
+      "egg yolks",
+      "eggs yolk",
+      "eggs yolks"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "quail",
+    "name": "Quail",
+    "name_variants": [
+      "eggs quail",
+      "quail"
+    ],
+    "pairing_ids": [
+      "quail",
+      "marjoram",
+      "olive_oil",
+      "rosemary",
+      "sage",
+      "thyme"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "emulsions",
+    "name": "Emulsions",
+    "name_variants": [
+      "emulsions",
+      "gelatin for texture"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "enchiladas",
+    "name": "Enchiladas",
+    "name_variants": [
+      "enchiladas",
+      "succotash"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "endive",
+    "name": "Endive",
+    "name_variants": [
+      "endive",
+      "endive belgian"
+    ],
+    "pairing_ids": [
+      "endive",
+      "cheese",
+      "mushrooms"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "epazote",
+    "name": "Epazote",
+    "name_variants": [
+      "epazote",
+      "langoustines",
+      "tagines"
+    ],
+    "pairing_ids": [
+      "vegetables,_green"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "escalar",
+    "name": "Escalar",
+    "name_variants": [
+      "escalar",
+      "escarole",
+      "espelette"
+    ],
+    "pairing_ids": [
+      "escalar",
+      "kobe_beef",
+      "brown_butter"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "falafel",
+    "name": "Falafel",
+    "name_variants": [
+      "falafel",
+      "focaccia",
+      "galangal"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "faro",
+    "name": "Faro",
+    "name_variants": [
+      "faro",
+      "farro"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "goose",
+    "name": "Goose",
+    "name_variants": [
+      "fat goose",
+      "goose"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "fattier",
+    "name": "Fattier",
+    "name_variants": [
+      "fattier foods",
+      "meats and poultry richer",
+      "meats fattier richer andor roasted"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "fennel",
+    "name": "Fennel",
+    "name_variants": [
+      "fennel",
+      "fennel bulb",
+      "fennel leaves",
+      "fennel leaves or seeds",
+      "fennel pollen",
+      "fennel seeds"
+    ],
+    "pairing_ids": [
+      "fennel",
+      "orange",
+      "sambuca"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "fenugreek",
+    "name": "Fenugreek",
+    "name_variants": [
+      "fenugreek",
+      "fenugreek leaves",
+      "fenugreek seeds"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "fermented",
+    "name": "Fermented",
+    "name_variants": [
+      "fermented black beans",
+      "fermented foods"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "fiddlehead",
+    "name": "Fiddlehead",
+    "name_variants": [
+      "fiddlehead ferns",
+      "prosecco"
+    ],
+    "pairing_ids": [
+      "fiddlehead_ferns",
+      "sesame_oil_and/or_seeds",
+      "soy_sauce"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "figs",
+    "name": "Figs",
+    "name_variants": [
+      "figs",
+      "figs and fig cake",
+      "figs dried",
+      "figs dried black",
+      "figs fresh"
+    ],
+    "pairing_ids": [
+      "dried_figs",
+      "anise",
+      "oranges",
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "herbes",
+    "name": "Herbes",
+    "name_variants": [
+      "fines herbes",
+      "herbes de provence"
+    ],
+    "pairing_ids": [
+      "chervil",
+      "chives",
+      "parsley",
+      "tarragon"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "finnan",
+    "name": "Finnan",
+    "name_variants": [
+      "finnan haddie",
+      "kale",
+      "kirsch"
+    ],
+    "pairing_ids": [
+      "kale",
+      "onions",
+      "salt",
+      "smoked_sausage"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "fish",
+    "name": "Fish",
+    "name_variants": [
+      "fish sauce",
+      "fish sauce asian",
+      "fish sauce thai"
+    ],
+    "pairing_ids": [
+      "vegetables"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pike",
+    "name": "Pike",
+    "name_variants": [
+      "fish pike",
+      "pike"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon",
+    "name_variants": [
+      "fish salmon",
+      "roe flying fish",
+      "roe salmon",
+      "salmon",
+      "salmon ivory",
+      "salmon roe"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "smoked",
+    "name": "Smoked",
+    "name_variants": [
+      "fish smoked",
+      "salmon smoked",
+      "sea trout",
+      "smoked fish",
+      "smoked salmon",
+      "smoked salmon and trout",
+      "smoked trout",
+      "trout",
+      "trout smoked"
+    ],
+    "pairing_ids": [
+      "smoked_salmon",
+      "dill",
+      "horseradish",
+      "lemon_juice",
+      "sour_cream"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "sole",
+    "name": "Sole",
+    "name_variants": [
+      "fish sole",
+      "sole"
+    ],
+    "pairing_ids": [
+      "sole",
+      "paprika",
+      "potatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "spices",
+    "name": "Spices",
+    "name_variants": [
+      "fivespice powder",
+      "spice rub",
+      "spices",
+      "spices allspice",
+      "spices many",
+      "spices nutmeg"
+    ],
+    "pairing_ids": [
+      "cinnamon",
+      "cloves",
+      "fennel_seeds",
+      "star_anise",
+      "szechuan_peppercorns"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "flour",
+    "name": "Flour",
+    "name_variants": [
+      "flour",
+      "flour for dredging",
+      "phyllo dough"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "fluke",
+    "name": "Fluke",
+    "name_variants": [
+      "fluke",
+      "framboise",
+      "frise"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "foie",
+    "name": "Foie",
+    "name_variants": [
+      "foie gras",
+      "grappa",
+      "gravlax",
+      "gravy",
+      "gremolata"
+    ],
+    "pairing_ids": [
+      "foie_gras",
+      "strawberries",
+      "black_pepper"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "fondue",
+    "name": "Fondue",
+    "name_variants": [
+      "fondue",
+      "fondues"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pastries",
+    "name": "Pastries",
+    "name_variants": [
+      "french pastries",
+      "pastries"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "french",
+    "name": "French",
+    "name_variants": [
+      "french toast",
+      "toasts"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "fried",
+    "name": "Fried",
+    "name_variants": [
+      "fried dishes",
+      "fried foods",
+      "steam stirfry tartare",
+      "stirfried dishes",
+      "stirfries"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "name_variants": [
+      "frise lettuce",
+      "lettuce",
+      "lettuce bibb",
+      "lettuce boston",
+      "lettuce butter",
+      "lettuces"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "fruits",
+    "name": "Fruits",
+    "name_variants": [
+      "fruit",
+      "fruit and fruit preserves",
+      "fruits",
+      "fruits fruit compotes",
+      "fruits fruit compotes and jams",
+      "fruits fruit desserts",
+      "fruits most",
+      "fruits stone",
+      "fruits unripe",
+      "fruits unripened",
+      "stone fruits"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tropical",
+    "name": "Tropical",
+    "name_variants": [
+      "fruit tropical",
+      "fruits tropical",
+      "tropical fruits"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "ripe",
+    "name": "Ripe",
+    "name_variants": [
+      "fruits ripe",
+      "mangoes ripe",
+      "ripe ingredients"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "game",
+    "name": "Game",
+    "name_variants": [
+      "game",
+      "game and game birds",
+      "game birds",
+      "game birds roasted"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "rabbit",
+    "name": "Rabbit",
+    "name_variants": [
+      "game rabbit",
+      "rabbit",
+      "rabbit braised"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "venison",
+    "name": "Venison",
+    "name_variants": [
+      "game venison",
+      "stocks venison",
+      "venison"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "garam",
+    "name": "Garam",
+    "name_variants": [
+      "garam masala",
+      "garam masala indian",
+      "marjoram",
+      "pastrami"
+    ],
+    "pairing_ids": [
+      "mace",
+      "nutmeg"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "name_variants": [
+      "garlic",
+      "garlic and garlic paste",
+      "garlic fresh",
+      "garlic regular"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "spring",
+    "name": "Spring",
+    "name_variants": [
+      "garlic spring",
+      "onions spring",
+      "spring rolls"
+    ],
+    "pairing_ids": [
+      "zucchini_blossoms"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "gazpacho",
+    "name": "Gazpacho",
+    "name_variants": [
+      "gazpacho",
+      "goulash",
+      "guacamole"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "gin",
+    "name": "Gin",
+    "name_variants": [
+      "gin",
+      "gin flavors",
+      "gingko nuts",
+      "ginkgo nuts"
+    ],
+    "pairing_ids": [
+      "zuidam_dry:_orange_peel"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "name_variants": [
+      "ginger",
+      "ginger candied",
+      "ginger crystallized",
+      "ginger dried",
+      "ginger fresh",
+      "ginger fresh or ground",
+      "ginger grated",
+      "ginger ground",
+      "ginger ground dried",
+      "ginger juice",
+      "ginger minced",
+      "ginger or ginger ale",
+      "ginger pickled",
+      "ginger powdered"
+    ],
+    "pairing_ids": [
+      "ginger",
+      "lemon",
+      "pepper",
+      "salt",
+      "sugar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "zucchini",
+    "name": "Zucchini",
+    "name_variants": [
+      "gnocchi",
+      "zucchini",
+      "zucchini blossoms"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "graham",
+    "name": "Graham",
+    "name_variants": [
+      "graham cracker crumbs",
+      "graham crackers"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "grand",
+    "name": "Grand",
+    "name_variants": [
+      "grand marnier",
+      "marmalade citrus",
+      "orange liqueurs grand marnier",
+      "oranges marmalade"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "name_variants": [
+      "grape jelly",
+      "grapefruit",
+      "grapefruit juice",
+      "grapefruit zest",
+      "grapes",
+      "grapes and grape juice",
+      "grapes green",
+      "grapes white",
+      "tomatoes grape"
+    ],
+    "pairing_ids": [
+      "grapefruit",
+      "star_anise",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "greens",
+    "name": "Greens",
+    "name_variants": [
+      "greens",
+      "greens baby",
+      "greens bitter",
+      "greens bitter  winter",
+      "greens dark leafy",
+      "greens stronger",
+      "greens winter"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "name_variants": [
+      "greens mustard",
+      "mustard and mustard seeds",
+      "mustard greens",
+      "mustard oil",
+      "mustard seeds",
+      "mustard seeds black",
+      "oil mustard",
+      "oils mustard"
+    ],
+    "pairing_ids": [
+      "combination_of_the_three_is_delicious."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mche",
+    "name": "Mche",
+    "name_variants": [
+      "greens mche",
+      "mche"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "radicchio",
+    "name": "Radicchio",
+    "name_variants": [
+      "greens radicchio",
+      "radicchio",
+      "radishes"
+    ],
+    "pairing_ids": [
+      "radicchio",
+      "mushrooms",
+      "risotto",
+      "balsamic_vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "name_variants": [
+      "greens spinach",
+      "spinach"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "greens",
+    "name": "Greens",
+    "name_variants": [
+      "greens turnip",
+      "turnips"
+    ],
+    "pairing_ids": [
+      "onions"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "grenadine",
+    "name": "Grenadine",
+    "name_variants": [
+      "grenadine",
+      "grenadine syrup"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "grouper",
+    "name": "Grouper",
+    "name_variants": [
+      "grouper",
+      "snapper"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "guava",
+    "name": "Guava",
+    "name_variants": [
+      "guava",
+      "guavas"
+    ],
+    "pairing_ids": [
+      "vinegar,_white"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "gumbo",
+    "name": "Gumbo",
+    "name_variants": [
+      "gumbo",
+      "gumbos"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "halibut",
+    "name": "Halibut",
+    "name_variants": [
+      "halibut",
+      "shad"
+    ],
+    "pairing_ids": [
+      "halibut",
+      "scallions",
+      "white_wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ham",
+    "name": "Ham",
+    "name_variants": [
+      "ham and ham hocks",
+      "ham hock",
+      "ham hocks"
+    ],
+    "pairing_ids": [
+      "ham",
+      "mozzarella_cheese",
+      "red_onion"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ham",
+    "name": "Ham",
+    "name_variants": [
+      "ham ibrico",
+      "ibrico ham"
+    ],
+    "pairing_ids": [
+      "ham",
+      "mozzarella_cheese",
+      "red_onion"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mahi",
+    "name": "Mahi",
+    "name_variants": [
+      "hamachi",
+      "mahi mahi",
+      "wasabi"
+    ],
+    "pairing_ids": [
+      "mahi_mahi",
+      "avocado",
+      "cabbage",
+      "cilantro"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "hazelnut",
+    "name": "Hazelnut",
+    "name_variants": [
+      "hazelnut oil",
+      "hazelnuts",
+      "hazelnuts and hazelnut oil",
+      "nuts hazelnuts",
+      "oil hazelnut",
+      "oils hazelnut"
+    ],
+    "pairing_ids": [
+      "wine:_red,_sweet,_white"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "hendricks",
+    "name": "Hendricks",
+    "name_variants": [
+      "hendricks cucumber",
+      "hendricks rose petals"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley",
+    "name_variants": [
+      "herbs flatleaf parsley",
+      "parlsey flatleaf",
+      "parsley",
+      "parsley curly",
+      "parsley flat leaf",
+      "parsley flatleaf",
+      "parsleyflatleaf",
+      "sauces parsley"
+    ],
+    "pairing_ids": [
+      "parsley",
+      "lemon_juice",
+      "olive_oil",
+      "parmesan_cheese"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "herring",
+    "name": "Herring",
+    "name_variants": [
+      "herring",
+      "herring pickled"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sauce",
+    "name": "Sauce",
+    "name_variants": [
+      "hoisin sauce",
+      "hot sauce",
+      "puttanesca sauce",
+      "rmoulade sauce",
+      "tabasco sauce",
+      "worcestershire sauce"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "hollandaise",
+    "name": "Hollandaise",
+    "name_variants": [
+      "hollandaise sauce",
+      "sauces brown butter hollandaise",
+      "sauces hollandaise"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "hominy",
+    "name": "Hominy",
+    "name_variants": [
+      "hominy",
+      "spearmint"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "name_variants": [
+      "honey",
+      "honey blueberry",
+      "honey burnt",
+      "honey raspberry",
+      "honey raw",
+      "honey wildflower",
+      "honeydew"
+    ],
+    "pairing_ids": [
+      "honey",
+      "fruit",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "hot",
+    "name": "Hot",
+    "name_variants": [
+      "hot dogs",
+      "hush puppies"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "hotness",
+    "name": "Hotness",
+    "name_variants": [
+      "hotness of indoor or outdoor temperature"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "hyssop",
+    "name": "Hyssop",
+    "name_variants": [
+      "hyssop"
+    ],
+    "pairing_ids": [
+      "cut_the_fat_of_the_dish,_so_it_is_not_big,_fat,_and_flabby_on_the_palate."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ice",
+    "name": "Ice",
+    "name_variants": [
+      "ice",
+      "ices",
+      "wine ice",
+      "wine ice wine"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "vanilla",
+    "name": "Vanilla",
+    "name_variants": [
+      "ice cream vanilla",
+      "salt vanilla",
+      "vanilla"
+    ],
+    "pairing_ids": [
+      "vanilla",
+      "chicken",
+      "cream"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "salt",
+    "name": "Salt",
+    "name_variants": [
+      "ingredients with added salt",
+      "salt",
+      "salt hawaiian",
+      "salt japanese",
+      "salt maldon",
+      "salt rock",
+      "salt sea",
+      "salt sea coarse",
+      "salt sea fine",
+      "salt sel gris",
+      "salt truffle",
+      "saltiness",
+      "seeds salted"
+    ],
+    "pairing_ids": [
+      "vegetables,_esp._tomatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "name_variants": [
+      "innards turkey heart",
+      "turkey",
+      "turkey breasts",
+      "turkey legs"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "jams",
+    "name": "Jams",
+    "name_variants": [
+      "jams",
+      "jams and jellies",
+      "jellies"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "seasoning",
+    "name": "Seasoning",
+    "name_variants": [
+      "jerk seasoning",
+      "old bay seasoning",
+      "seasoning"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "jicama",
+    "name": "Jicama",
+    "name_variants": [
+      "jicama",
+      "mizuna"
+    ],
+    "pairing_ids": [
+      "jicama",
+      "chili_powder",
+      "lime_juice"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "juniper",
+    "name": "Juniper",
+    "name_variants": [
+      "juniper",
+      "juniper berries"
+    ],
+    "pairing_ids": [
+      "juniper_berries",
+      "game",
+      "garlic",
+      "rosemary"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kaffir",
+    "name": "Kaffir",
+    "name_variants": [
+      "kaffir lime",
+      "kaffir lime leaf",
+      "kaffir lime leaves",
+      "kaffir limes and kaffir lime leaf",
+      "lime leaf kaffir",
+      "lime leaves kaffir"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "kahla",
+    "name": "Kahla",
+    "name_variants": [
+      "kahla",
+      "kohlrabi"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "kebabs",
+    "name": "Kebabs",
+    "name_variants": [
+      "kebabs",
+      "kelp",
+      "ketchup"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "name_variants": [
+      "kiwi",
+      "kiwi fruit"
+    ],
+    "pairing_ids": [
+      "wine:_champagne,_ice_wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "kumquat",
+    "name": "Kumquat",
+    "name_variants": [
+      "kumquat",
+      "kumquats"
+    ],
+    "pairing_ids": [
+      "wine,_white"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lamb",
+    "name": "Lamb",
+    "name_variants": [
+      "lamb",
+      "lamb butterflied",
+      "lamb chops",
+      "lamb shoulder"
+    ],
+    "pairing_ids": [
+      "lamb_chop",
+      "lemon",
+      "mint"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "leeks",
+    "name": "Leeks",
+    "name_variants": [
+      "leeks",
+      "leeks melted"
+    ],
+    "pairing_ids": [
+      "leeks",
+      "mustard",
+      "vinaigrette"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "name_variants": [
+      "lemon",
+      "lemon fruit",
+      "lemon juice preserved",
+      "lemon preserved",
+      "lemon slices",
+      "lemons",
+      "lemons preserved"
+    ],
+    "pairing_ids": [
+      "lemon",
+      "blackberries",
+      "honey",
+      "ricotta_cheese"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lemon",
+    "name": "Lemon",
+    "name_variants": [
+      "lemon balm",
+      "lemon herbs",
+      "lemon herbs balm thyme verbena",
+      "lemongrass"
+    ],
+    "pairing_ids": [
+      "teas"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "juice",
+    "name": "Juice",
+    "name_variants": [
+      "lemon juice",
+      "lemonade",
+      "lime juice"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme",
+    "name_variants": [
+      "lemon thyme",
+      "thyme",
+      "thyme fresh",
+      "thyme lemon"
+    ],
+    "pairing_ids": [
+      "thyme",
+      "savory"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "verbena",
+    "name": "Verbena",
+    "name_variants": [
+      "lemon verbena",
+      "verbena"
+    ],
+    "pairing_ids": [
+      "lemon_verbena",
+      "apricots",
+      "sugar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "meyer",
+    "name": "Meyer",
+    "name_variants": [
+      "lemon meyer",
+      "lemons meyer"
+    ],
+    "pairing_ids": [
+      "vanilla"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lentils",
+    "name": "Lentils",
+    "name_variants": [
+      "lentils",
+      "lentils green"
+    ],
+    "pairing_ids": [
+      "lentils",
+      "olive_oil",
+      "parsley",
+      "sorrel"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "red",
+    "name": "Red",
+    "name_variants": [
+      "lettuce red oak",
+      "lettuces red leaf",
+      "lettuces red oak leaf"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "romaine",
+    "name": "Romaine",
+    "name_variants": [
+      "lettuce romaine",
+      "romaine",
+      "romaine lettuce"
+    ],
+    "pairing_ids": [
+      "romaine",
+      "capers",
+      "garlic",
+      "parmesan_cheese",
+      "red_onions"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "name_variants": [
+      "lime",
+      "lime leaves",
+      "lime whole",
+      "limes"
+    ],
+    "pairing_ids": [
+      "lime",
+      "strawberries",
+      "tequila"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "liqueurs",
+    "name": "Liqueurs",
+    "name_variants": [
+      "liqueur almond",
+      "liqueurs almond",
+      "liqueurs hazelnut",
+      "liqueurs nut",
+      "liqueurs other nut"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "name_variants": [
+      "liqueur orange",
+      "liqueurs berry or orange",
+      "liqueurs fruit including orange",
+      "liqueurs orange",
+      "orange liqueur",
+      "orange liqueurs cointreau"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "liqueurs",
+    "name": "Liqueurs",
+    "name_variants": [
+      "liqueurs",
+      "liqueurs apricot",
+      "liqueurs berry",
+      "liqueurs coffee",
+      "liqueurs crme de cacao",
+      "liqueurs peach",
+      "liqueurs plum",
+      "liqueurs sweet",
+      "peach liqueur"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "loquats",
+    "name": "Loquats",
+    "name_variants": [
+      "loquats",
+      "lovage",
+      "lox"
+    ],
+    "pairing_ids": [
+      "lovage",
+      "salmon",
+      "tomatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lotus",
+    "name": "Lotus",
+    "name_variants": [
+      "lotus root"
+    ],
+    "pairing_ids": [
+      "wine,_rice"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "luxurious",
+    "name": "Luxurious",
+    "name_variants": [
+      "luxurious",
+      "southern comfort"
+    ],
+    "pairing_ids": [
+      "wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "lychee",
+    "name": "Lychee",
+    "name_variants": [
+      "lychee",
+      "lychee nuts",
+      "lychees"
+    ],
+    "pairing_ids": [
+      "lychees",
+      "raspberries",
+      "rose"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "macadamia",
+    "name": "Macadamia",
+    "name_variants": [
+      "macadamia",
+      "macadamia nuts",
+      "nuts macadamia",
+      "oil macadamia",
+      "oil macadamia nut"
+    ],
+    "pairing_ids": [
+      "macadamia_nuts",
+      "coconut",
+      "lime"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "macaroni",
+    "name": "Macaroni",
+    "name_variants": [
+      "macaroni",
+      "macaroni and cheese"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "mace",
+    "name": "Mace",
+    "name_variants": [
+      "mace",
+      "punch",
+      "punches fruit"
+    ],
+    "pairing_ids": [
+      "m\u00e2che",
+      "oranges",
+      "pistachios",
+      "pomegranates"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "madeira",
+    "name": "Madeira",
+    "name_variants": [
+      "madeira",
+      "wine madeira",
+      "wine madeira red"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "malt",
+    "name": "Malt",
+    "name_variants": [
+      "malt",
+      "malt malted milk"
+    ],
+    "pairing_ids": [
+      "vanilla"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mangoes",
+    "name": "Mangoes",
+    "name_variants": [
+      "mango",
+      "mangoes",
+      "mangoes green"
+    ],
+    "pairing_ids": [
+      "mango",
+      "salmon",
+      "sushi_rice"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "maple",
+    "name": "Maple",
+    "name_variants": [
+      "maple",
+      "maple syrup",
+      "maple syrup artificial"
+    ],
+    "pairing_ids": [
+      "maple_syrup",
+      "mascarpone",
+      "pistachios"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "liqueur",
+    "name": "Liqueur",
+    "name_variants": [
+      "maraschino liqueur",
+      "midori liqueur"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "marrow",
+    "name": "Marrow",
+    "name_variants": [
+      "marrow",
+      "marrow beef"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "marsala",
+    "name": "Marsala",
+    "name_variants": [
+      "marsala",
+      "marsala wine",
+      "wine marsala"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "mayonnaise",
+    "name": "Mayonnaise",
+    "name_variants": [
+      "mayonnaise",
+      "mayonnaise garlic",
+      "sauces mayonnaise"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "meats",
+    "name": "Meats",
+    "name_variants": [
+      "meat",
+      "meat red",
+      "meats",
+      "meats and meat loaf",
+      "meats barbecued",
+      "meats cold or hot",
+      "meats grilled",
+      "meats red",
+      "meats white"
+    ],
+    "pairing_ids": [
+      "selecting_the_best_cooking_technique),_and_after_cooking_(e.g.,_via_condiments_and_sauces)."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "smoked",
+    "name": "Smoked",
+    "name_variants": [
+      "meats cured and smoked",
+      "meats smoked",
+      "smoked foods",
+      "smoked meats"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "melon",
+    "name": "Melon",
+    "name_variants": [
+      "melon",
+      "melon bitter",
+      "melon honeydew",
+      "melon muskmelons",
+      "melon watermelon",
+      "melons",
+      "watermelon"
+    ],
+    "pairing_ids": [
+      "watermelon",
+      "kaffir_lime",
+      "vanilla"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "meringue",
+    "name": "Meringue",
+    "name_variants": [
+      "meringue",
+      "merlot"
+    ],
+    "pairing_ids": [
+      "veal"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mole",
+    "name": "Mole",
+    "name_variants": [
+      "mexican beverages and mole sauces",
+      "mole",
+      "mole negro",
+      "mole sauce",
+      "mole sauces"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "name_variants": [
+      "milk including sweetened condensed",
+      "milk sweetened condensed"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "mint",
+    "name": "Mint",
+    "name_variants": [
+      "mint",
+      "mint dried",
+      "mint fresh",
+      "mint peppermint",
+      "mint spearmint",
+      "peppermint"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mirin",
+    "name": "Mirin",
+    "name_variants": [
+      "mirepoix",
+      "mirin",
+      "mirin japanese sweetener"
+    ],
+    "pairing_ids": [
+      "carrots",
+      "celery",
+      "onions"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "miso",
+    "name": "Miso",
+    "name_variants": [
+      "miso",
+      "miso and miso soup",
+      "miso dried",
+      "miso red",
+      "miso soup",
+      "miso sweet",
+      "miso white"
+    ],
+    "pairing_ids": [
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "molasses",
+    "name": "Molasses",
+    "name_variants": [
+      "molasses",
+      "pomegranate molasses",
+      "pomegranates and pomegranate molasses"
+    ],
+    "pairing_ids": [
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "muffins",
+    "name": "Muffins",
+    "name_variants": [
+      "muffins",
+      "waffles"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "mushrooms",
+    "name": "Mushrooms",
+    "name_variants": [
+      "mushrooms",
+      "mushrooms button",
+      "mushrooms button or cremini",
+      "mushrooms cepes",
+      "mushrooms cremini",
+      "mushrooms cultivated",
+      "mushrooms cultivated or wild",
+      "mushrooms enoki",
+      "mushrooms japanese",
+      "mushrooms matsutake",
+      "mushrooms morel",
+      "mushrooms morels",
+      "mushrooms oyster",
+      "mushrooms portobello",
+      "mushrooms shiitake",
+      "mushrooms shiitakes",
+      "mushrooms white",
+      "mushrooms wild"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "mushrooms",
+    "name": "Mushrooms",
+    "name_variants": [
+      "mushrooms cepesporcini",
+      "mushrooms porcini",
+      "mushrooms porcini dried",
+      "oil porcini",
+      "porcini mushrooms"
+    ],
+    "pairing_ids": [
+      "stews"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mussels",
+    "name": "Mussels",
+    "name_variants": [
+      "mussels",
+      "mussels smoked",
+      "seafood mussels",
+      "stocks mussel",
+      "stocks mussels"
+    ],
+    "pairing_ids": [
+      "mussels",
+      "saffron",
+      "tarragon",
+      "tomatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "name_variants": [
+      "mustard",
+      "mustard brown",
+      "mustard chinese",
+      "mustard country",
+      "mustard dijon",
+      "mustard dry",
+      "mustard dry sauce",
+      "mustard grainy",
+      "mustard hot",
+      "mustard meaux",
+      "mustard powder",
+      "mustard whole grain",
+      "mustard yellow"
+    ],
+    "pairing_ids": [
+      "combination_of_the_three_is_delicious."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "nectarines",
+    "name": "Nectarines",
+    "name_variants": [
+      "nectarines",
+      "peaches",
+      "violets"
+    ],
+    "pairing_ids": [
+      "peaches",
+      "sugar",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "potatoes",
+    "name": "Potatoes",
+    "name_variants": [
+      "new potatoes",
+      "potatoes",
+      "potatoes baked",
+      "potatoes creamer",
+      "potatoes french fries",
+      "potatoes mashed",
+      "potatoes mashed or roasted",
+      "potatoes new",
+      "potatoes red",
+      "potatoes steamed"
+    ],
+    "pairing_ids": [
+      "potatoes",
+      "leeks",
+      "nutmeg"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "seeds",
+    "name": "Seeds",
+    "name_variants": [
+      "nigella seeds",
+      "poppy seeds",
+      "seeds poppy"
+    ],
+    "pairing_ids": [
+      "zucchini"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "noodles",
+    "name": "Noodles",
+    "name_variants": [
+      "noodles",
+      "noodles and noodle dishes",
+      "noodles angel hair",
+      "noodles rice",
+      "noodles vermicelli",
+      "noodlespasta",
+      "pastanoodles egg"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "nuts",
+    "name": "Nuts",
+    "name_variants": [
+      "nutmeg",
+      "nuts",
+      "nuts salted",
+      "nuts toasted"
+    ],
+    "pairing_ids": [
+      "nutmeg",
+      "cream",
+      "spinach"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "peanuts",
+    "name": "Peanuts",
+    "name_variants": [
+      "nuts peanuts",
+      "peanuts",
+      "peanuts and peanut butter",
+      "peanuts and peanut sauce",
+      "peanuts crushed",
+      "peanutspeanut butter"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pecans",
+    "name": "Pecans",
+    "name_variants": [
+      "nuts pecans",
+      "oil pecan",
+      "pecan",
+      "pecans"
+    ],
+    "pairing_ids": [
+      "vegetables"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pistachios",
+    "name": "Pistachios",
+    "name_variants": [
+      "nuts pistachios",
+      "oil pistachio",
+      "pistachios"
+    ],
+    "pairing_ids": [
+      "tuna"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "walnuts",
+    "name": "Walnuts",
+    "name_variants": [
+      "nuts walnuts",
+      "walnuts",
+      "walnuts accent",
+      "walnuts candied",
+      "walnuts nuts"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "oatmeal",
+    "name": "Oatmeal",
+    "name_variants": [
+      "oatmeal",
+      "oatmeal and oats",
+      "oats",
+      "oats and oatmeal"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "squid",
+    "name": "Squid",
+    "name_variants": [
+      "octopus",
+      "seafood octopus",
+      "seafood squid",
+      "squid",
+      "squid ink"
+    ],
+    "pairing_ids": [
+      "octopus",
+      "sake",
+      "sea_salt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "oil",
+    "name": "Oil",
+    "name_variants": [
+      "oil",
+      "oil canola",
+      "oil corn",
+      "oil mild",
+      "oil vegetable",
+      "oil vegetable for cooking",
+      "oils",
+      "oils canola",
+      "oils corn"
+    ],
+    "pairing_ids": [
+      "deep-fry"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "oil",
+    "name": "Oil",
+    "name_variants": [
+      "oil grapeseed",
+      "oil sunflower seed",
+      "oils grapeseed",
+      "oils sunflower"
+    ],
+    "pairing_ids": [
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "olive",
+    "name": "Olive",
+    "name_variants": [
+      "oil olive",
+      "olive oil",
+      "olive oil extra virgin",
+      "olive oilbased dishes"
+    ],
+    "pairing_ids": [
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "peanut",
+    "name": "Peanut",
+    "name_variants": [
+      "oil peanut",
+      "oil peanut for cooking",
+      "oil peanut for frying",
+      "oils peanut",
+      "peanut oil"
+    ],
+    "pairing_ids": [
+      "vinegars,_esp._balsamic,_malt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pumpkin",
+    "name": "Pumpkin",
+    "name_variants": [
+      "oil pumpkin seed",
+      "pumpkin",
+      "pumpkin and pumpkin oil",
+      "pumpkin oil",
+      "pumpkin seeds"
+    ],
+    "pairing_ids": [
+      "vinegar:_balsamic,_cider,_rice_wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "safflower",
+    "name": "Safflower",
+    "name_variants": [
+      "oil safflower",
+      "oils safflower"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sesame",
+    "name": "Sesame",
+    "name_variants": [
+      "oil sesame",
+      "oil sesame for drizzling",
+      "oils sesame",
+      "sesame and sesame oil",
+      "sesame oil",
+      "sesame oil seeds"
+    ],
+    "pairing_ids": [
+      "sesame_oil",
+      "ginger",
+      "mustard",
+      "rice_wine_vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "oil",
+    "name": "Oil",
+    "name_variants": [
+      "oil truffle",
+      "oils truffle",
+      "truffle oil",
+      "truffles and truffle oil",
+      "truffles black and truffle oil",
+      "truffles oil",
+      "truffles white and white truffle oil",
+      "white truffle oil"
+    ],
+    "pairing_ids": [
+      "salads_and_salad_dressings"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "oil",
+    "name": "Oil",
+    "name_variants": [
+      "oil walnut",
+      "oils walnut",
+      "oilwalnut",
+      "walnut oil",
+      "walnuts and walnut oil",
+      "walnuts oil"
+    ],
+    "pairing_ids": [
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "saffron",
+    "name": "Saffron",
+    "name_variants": [
+      "old raj saffron",
+      "sabayon",
+      "sabayon sauce",
+      "saffron"
+    ],
+    "pairing_ids": [
+      "saffron",
+      "monkfish",
+      "rice"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "olives",
+    "name": "Olives",
+    "name_variants": [
+      "olives",
+      "olives black",
+      "olives greek",
+      "olives green",
+      "olives green or black spanish",
+      "olives kalamata",
+      "olives nioise",
+      "olives picholine"
+    ],
+    "pairing_ids": [
+      "wine,_dry_white"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "onions",
+    "name": "Onions",
+    "name_variants": [
+      "onion",
+      "onion red",
+      "onions",
+      "onions cipollini",
+      "onions cooked",
+      "onions fried",
+      "onions green",
+      "onions pearl",
+      "onions red",
+      "onions roasted",
+      "onions spanish",
+      "onions sweet",
+      "onions vidalia",
+      "onions white",
+      "onions yellow",
+      "sauces onion"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "oranges",
+    "name": "Oranges",
+    "name_variants": [
+      "orange",
+      "orange fruit",
+      "orange segments",
+      "oranges",
+      "oranges fruit",
+      "oranges mandarin",
+      "oranges sweet"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "name_variants": [
+      "orange blossom water",
+      "orangeflower water",
+      "ume japanese plum",
+      "zuidam dry orange peel"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tangerine",
+    "name": "Tangerine",
+    "name_variants": [
+      "orange tangerine",
+      "tangerine",
+      "tangerine juice",
+      "tangerines",
+      "tangerines and tangerine juice"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "name_variants": [
+      "oregano",
+      "oregano dried",
+      "turmeric"
+    ],
+    "pairing_ids": [
+      "oregano",
+      "lemon_juice",
+      "marjoram"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "shiso",
+    "name": "Shiso",
+    "name_variants": [
+      "osso buco",
+      "pesto",
+      "shiso",
+      "shiso leaf"
+    ],
+    "pairing_ids": [
+      "shiso_leaf",
+      "clams",
+      "onions"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "oyster",
+    "name": "Oyster",
+    "name_variants": [
+      "oyster juice",
+      "oyster sauce",
+      "oysters",
+      "shellfish oysters"
+    ],
+    "pairing_ids": [
+      "oysters",
+      "shallots",
+      "vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "papaya",
+    "name": "Papaya",
+    "name_variants": [
+      "papaya",
+      "papayas"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "paprika",
+    "name": "Paprika",
+    "name_variants": [
+      "paprika",
+      "paprika hot",
+      "paprika smoked",
+      "paprika sweet",
+      "paprikash"
+    ],
+    "pairing_ids": [
+      "smoked_paprika",
+      "mayonnaise",
+      "seafood"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "parsnip",
+    "name": "Parsnip",
+    "name_variants": [
+      "parsnip",
+      "parsnips"
+    ],
+    "pairing_ids": [
+      "parsnips",
+      "pancetta",
+      "parmesan_cheese",
+      "pasta"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "passion",
+    "name": "Passion",
+    "name_variants": [
+      "passion fruit",
+      "passion fruits"
+    ],
+    "pairing_ids": [
+      "passion_fruit",
+      "dark_chocolate",
+      "ginger",
+      "raspberries"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pasta",
+    "name": "Pasta",
+    "name_variants": [
+      "pasta",
+      "pasta and pasta sauces",
+      "pasta dishes and sauces",
+      "pastas"
+    ],
+    "pairing_ids": [
+      "pasta",
+      "tomatoes",
+      "ricotta_cheese"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pasta",
+    "name": "Pasta",
+    "name_variants": [
+      "pasta including using to color green pasta",
+      "water for blanching or for pasta"
+    ],
+    "pairing_ids": [
+      "pasta",
+      "tomatoes",
+      "ricotta_cheese"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pepper",
+    "name": "Pepper",
+    "name_variants": [
+      "pepper black",
+      "pepper black pink",
+      "pepper green",
+      "pepper ground",
+      "pepper pink",
+      "pepper red",
+      "pepper white",
+      "red pepper flakes"
+    ],
+    "pairing_ids": [
+      "veal"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "peppercorns",
+    "name": "Peppercorns",
+    "name_variants": [
+      "pepper green as peppercorns",
+      "peppercorns",
+      "peppercorns black",
+      "peppercorns green",
+      "peppercorns white"
+    ],
+    "pairing_ids": [
+      "wine,_white"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pepper",
+    "name": "Pepper",
+    "name_variants": [
+      "pepper szechuan",
+      "szechuan pepper"
+    ],
+    "pairing_ids": [
+      "szechuan_pepper",
+      "ginger",
+      "star_anise"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "peppers",
+    "name": "Peppers",
+    "name_variants": [
+      "peppers piquillo",
+      "peppers piquillo spanish peppers",
+      "piquillo peppers"
+    ],
+    "pairing_ids": [
+      "tuna"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pernod",
+    "name": "Pernod",
+    "name_variants": [
+      "pernod",
+      "praline",
+      "purslane"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "persimmon",
+    "name": "Persimmon",
+    "name_variants": [
+      "persimmon",
+      "persimmons"
+    ],
+    "pairing_ids": [
+      "persimmons",
+      "allspice",
+      "cinnamon",
+      "ginger"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pickles",
+    "name": "Pickles",
+    "name_variants": [
+      "pickled foods",
+      "pickles",
+      "pickles saltysour"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pilaf",
+    "name": "Pilaf",
+    "name_variants": [
+      "pilaf",
+      "piquancy",
+      "pistou"
+    ],
+    "pairing_ids": [
+      "wasabi"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "name_variants": [
+      "pineapple",
+      "pineapple and pineapple juice",
+      "pineapple juice",
+      "pineapples"
+    ],
+    "pairing_ids": [
+      "pineapple",
+      "rum",
+      "vanilla",
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pinot",
+    "name": "Pinot",
+    "name_variants": [
+      "pinot noir",
+      "wine pinot blanc",
+      "wine pinot noir"
+    ],
+    "pairing_ids": [
+      "veal"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pizza",
+    "name": "Pizza",
+    "name_variants": [
+      "pizza",
+      "popcorn"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "plantains",
+    "name": "Plantains",
+    "name_variants": [
+      "plantains",
+      "plantains green",
+      "plantains sweet"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "plum",
+    "name": "Plum",
+    "name_variants": [
+      "plum paste",
+      "plum sauce",
+      "plums",
+      "plums fruit",
+      "plums sauce",
+      "plums sweet",
+      "tomatoes plum",
+      "wine plum"
+    ],
+    "pairing_ids": [
+      "plums",
+      "ginger",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "poire",
+    "name": "Poire",
+    "name_variants": [
+      "poire william",
+      "pomegrantes",
+      "pomelos"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pomegranate",
+    "name": "Pomegranate",
+    "name_variants": [
+      "pomegranate",
+      "pomegranate juice",
+      "pomegranates",
+      "pomegranates and pomegranate juice"
+    ],
+    "pairing_ids": [
+      "pomegranates",
+      "lemon",
+      "sugar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "ponzu",
+    "name": "Ponzu",
+    "name_variants": [
+      "ponzu",
+      "ponzu sauce"
+    ],
+    "pairing_ids": [
+      "ume_(japanese_plum)"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "pork",
+    "name": "Pork",
+    "name_variants": [
+      "pork",
+      "pork butt",
+      "pork loin",
+      "pork roast",
+      "pork shoulder",
+      "pork tenderloin",
+      "salt pork"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pork",
+    "name": "Pork",
+    "name_variants": [
+      "pork and pork belly",
+      "pork belly",
+      "pork pork belly"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pork",
+    "name": "Pork",
+    "name_variants": [
+      "pork and pork chops",
+      "pork chops"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "port",
+    "name": "Port",
+    "name_variants": [
+      "port",
+      "port red",
+      "port white"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "shrimp",
+    "name": "Shrimp",
+    "name_variants": [
+      "prawns",
+      "shrimp",
+      "shrimp paste"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "name_variants": [
+      "puddings",
+      "rice and rice pudding",
+      "rice pudding",
+      "ricerice pudding"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "pt",
+    "name": "Pt",
+    "name_variants": [
+      "pt",
+      "pts"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "quince",
+    "name": "Quince",
+    "name_variants": [
+      "quince",
+      "quince paste",
+      "quinces",
+      "quinoa"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "raisins",
+    "name": "Raisins",
+    "name_variants": [
+      "raisins",
+      "raisins black",
+      "raisins golden",
+      "raisins white",
+      "raisins yellow"
+    ],
+    "pairing_ids": [
+      "raisins",
+      "orange",
+      "rum"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "raitas",
+    "name": "Raitas",
+    "name_variants": [
+      "raitas",
+      "sambuca"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "ramps",
+    "name": "Ramps",
+    "name_variants": [
+      "ramps",
+      "rocket"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "ras",
+    "name": "Ras",
+    "name_variants": [
+      "ras el hanout"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "puree",
+    "name": "Puree",
+    "name_variants": [
+      "raspberries puree",
+      "strawberries puree",
+      "tomatoes and tomato puree",
+      "tomatoes puree",
+      "vegetable puree"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sherry",
+    "name": "Sherry",
+    "name_variants": [
+      "red wine sherry white wine",
+      "sherry",
+      "sherry cream",
+      "sherry dry",
+      "sherry oloroso",
+      "sherry px",
+      "sherry sweet",
+      "vinegar sherry",
+      "wine dry sherry",
+      "wine sherry",
+      "wine sweet sherry"
+    ],
+    "pairing_ids": [
+      "vegetables"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "rhubarb",
+    "name": "Rhubarb",
+    "name_variants": [
+      "rhubarb",
+      "squab",
+      "tabbouleh"
+    ],
+    "pairing_ids": [
+      "rhubarb",
+      "strawberry",
+      "vanilla"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "name_variants": [
+      "rice",
+      "rice and rice dishes",
+      "rice arborio",
+      "rice basmati",
+      "rice bomba",
+      "rice brown",
+      "rice krispies",
+      "rice salads",
+      "rice white",
+      "rice wild",
+      "rices",
+      "wild rice"
+    ],
+    "pairing_ids": [
+      "tomatoes_and_tomato_paste"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "risotto",
+    "name": "Risotto",
+    "name_variants": [
+      "rice and risotto",
+      "rice or risotto",
+      "risotto",
+      "risottos"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "riesling",
+    "name": "Riesling",
+    "name_variants": [
+      "riesling",
+      "wine riesling"
+    ],
+    "pairing_ids": [
+      "trout,_esp._saut\u00e9ed"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "zinfandel",
+    "name": "Zinfandel",
+    "name_variants": [
+      "riesling ros zinfandel",
+      "zinfandel"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "romesco",
+    "name": "Romesco",
+    "name_variants": [
+      "romesco sauce",
+      "sauce romesco",
+      "sauces romesco"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "vegetables",
+    "name": "Vegetables",
+    "name_variants": [
+      "root vegetables",
+      "vegetables and root vegetables",
+      "vegetables root"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "rose",
+    "name": "Rose",
+    "name_variants": [
+      "rose",
+      "rose geranium",
+      "rose hips",
+      "rose hips petals water",
+      "rose water"
+    ],
+    "pairing_ids": [
+      "rose",
+      "lychee",
+      "raspberries"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "rosemary",
+    "name": "Rosemary",
+    "name_variants": [
+      "rosemary",
+      "rosemary fresh"
+    ],
+    "pairing_ids": [
+      "rosemary",
+      "pork",
+      "sherry"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "rum",
+    "name": "Rum",
+    "name_variants": [
+      "rum",
+      "rum dark",
+      "rum light"
+    ],
+    "pairing_ids": [
+      "rum",
+      "lime",
+      "pineapple",
+      "sugar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "rutabaga",
+    "name": "Rutabaga",
+    "name_variants": [
+      "rutabaga",
+      "rutabagas"
+    ],
+    "pairing_ids": [
+      "rutabagas",
+      "potatoes",
+      "rosemary"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "name_variants": [
+      "sage",
+      "sage fresh"
+    ],
+    "pairing_ids": [
+      "sage",
+      "stuffing",
+      "turkey",
+      "walnuts"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "sake",
+    "name": "Sake",
+    "name_variants": [
+      "sake",
+      "yams"
+    ],
+    "pairing_ids": [
+      "sake",
+      "cucumber",
+      "lime"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "salami",
+    "name": "Salami",
+    "name_variants": [
+      "salami",
+      "salsify",
+      "salumi",
+      "umami"
+    ],
+    "pairing_ids": [
+      "salsify",
+      "parmesan_cheese",
+      "prosciutto"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "salsas",
+    "name": "Salsas",
+    "name_variants": [
+      "salsa",
+      "salsa verde",
+      "salsas",
+      "salsas and other sauces",
+      "salsas and sauces",
+      "salsas fresh",
+      "salsas fruit",
+      "salsas mexican"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "de",
+    "name": "De",
+    "name_variants": [
+      "salt fleur de sel",
+      "saltfleur de sel"
+    ],
+    "pairing_ids": [
+      "steak"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "salt",
+    "name": "Salt",
+    "name_variants": [
+      "salt kosher",
+      "saltkosher"
+    ],
+    "pairing_ids": [
+      "water_for_blanching_or_for_pasta"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "sandwiches",
+    "name": "Sandwiches",
+    "name_variants": [
+      "sandwiches",
+      "tea sandwiches"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sashimi",
+    "name": "Sashimi",
+    "name_variants": [
+      "sashimi",
+      "sashimi and sushi",
+      "sushi and sashimi"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "mornay",
+    "name": "Mornay",
+    "name_variants": [
+      "sauce mornay",
+      "sauces mornay"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sauces",
+    "name": "Sauces",
+    "name_variants": [
+      "sauces red wine",
+      "sauces reducedwine",
+      "wine red and red wine sauces"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "name_variants": [
+      "sauces tomato",
+      "tomatoes and tomato sauce",
+      "tomatoes and tomato sauces",
+      "tomatoes sauce"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sauternes",
+    "name": "Sauternes",
+    "name_variants": [
+      "sauerkraut",
+      "saut steam",
+      "sauternes",
+      "wine sauternes"
+    ],
+    "pairing_ids": [
+      "wine:_dry_to_off-dry_white_(e.g.,_alsatian,_riesling)"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "sausage",
+    "name": "Sausage",
+    "name_variants": [
+      "sausage",
+      "sausage italian",
+      "sausage merguez",
+      "sausage smoked",
+      "sausages",
+      "sausages italian",
+      "sausages salty"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "savory",
+    "name": "Savory",
+    "name_variants": [
+      "savory",
+      "savory summer",
+      "savory winter"
+    ],
+    "pairing_ids": [
+      "savory",
+      "garlic",
+      "tomatoes"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "scallops",
+    "name": "Scallops",
+    "name_variants": [
+      "scallions",
+      "scallops",
+      "seafood scallops",
+      "shellfish scallops"
+    ],
+    "pairing_ids": [
+      "scallops",
+      "parsley",
+      "salmon_roe"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "vegetables",
+    "name": "Vegetables",
+    "name_variants": [
+      "sea vegetables",
+      "summer vegetables",
+      "sweet vegetables",
+      "vegetable",
+      "vegetables",
+      "vegetables and vegetable juices",
+      "vegetables delicate",
+      "vegetables green",
+      "vegetables hearty",
+      "vegetables sweet"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "seafood",
+    "name": "Seafood",
+    "name_variants": [
+      "seafood",
+      "seafood crab",
+      "seafood fish",
+      "seafood heartier",
+      "seafood lobster",
+      "seafood shrimp"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "seaweed",
+    "name": "Seaweed",
+    "name_variants": [
+      "seaweed",
+      "seaweed dried",
+      "seaweed for presentation"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sesame",
+    "name": "Sesame",
+    "name_variants": [
+      "seeds sesame",
+      "sesame",
+      "sesame seeds",
+      "sesame seeds black",
+      "sesame seeds white"
+    ],
+    "pairing_ids": [
+      "vinegar,_rice_wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "shallots",
+    "name": "Shallots",
+    "name_variants": [
+      "shallots",
+      "shallots roasted"
+    ],
+    "pairing_ids": [
+      "wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "shellfish",
+    "name": "Shellfish",
+    "name_variants": [
+      "shellfish",
+      "shellfish lobster",
+      "shellfish shrimp",
+      "snails"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "smoothies",
+    "name": "Smoothies",
+    "name_variants": [
+      "smoothies and shakes",
+      "whey"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sorbet",
+    "name": "Sorbet",
+    "name_variants": [
+      "sorbet",
+      "sorbets",
+      "sorrel"
+    ],
+    "pairing_ids": [
+      "sorrel",
+      "nutmeg",
+      "ricotta_cheese"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "soups",
+    "name": "Soups",
+    "name_variants": [
+      "soup",
+      "soups",
+      "soups and consomms",
+      "soups chicken",
+      "soups chilled",
+      "soups cold",
+      "soups fruit",
+      "soups vegetable"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "soy",
+    "name": "Soy",
+    "name_variants": [
+      "soy sauce",
+      "soy sauce regular",
+      "soy sauce white"
+    ],
+    "pairing_ids": [
+      "soy_sauce",
+      "molasses",
+      "sugar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "spice",
+    "name": "Spice",
+    "name_variants": [
+      "spice cake",
+      "spice cakes",
+      "spiced cakes"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "spirits",
+    "name": "Spirits",
+    "name_variants": [
+      "spirits white gin",
+      "spirits white vodka"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "squash",
+    "name": "Squash",
+    "name_variants": [
+      "squash",
+      "squash acorn",
+      "squash butternut",
+      "squash hubbard",
+      "squash spaghetti",
+      "squash summer",
+      "squash winter",
+      "squash yellow",
+      "squash yellow or other summer"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "stocks",
+    "name": "Stocks",
+    "name_variants": [
+      "stock",
+      "stock chicken",
+      "stocks",
+      "stocks chicken",
+      "stocks duck",
+      "stocks game",
+      "stocks rabbit",
+      "stocks turkey"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "stocks",
+    "name": "Stocks",
+    "name_variants": [
+      "stock beef",
+      "stocks  broths beef",
+      "stocks beef",
+      "stocks lamb",
+      "stocks meat",
+      "stocks meatbased",
+      "stocks pork"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "stocks",
+    "name": "Stocks",
+    "name_variants": [
+      "stock fish",
+      "stocks and broths fish",
+      "stocks and broths seafood",
+      "stocks and broths shellfish",
+      "stocks fish",
+      "stocks lobster",
+      "stocks seafood",
+      "stocks shellfish",
+      "stocks shrimp"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "stock",
+    "name": "Stock",
+    "name_variants": [
+      "stock mushroom",
+      "stock vegetable",
+      "stocks mushroom",
+      "stocks vegetable"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "veal",
+    "name": "Veal",
+    "name_variants": [
+      "stock veal",
+      "stocks and broths veal",
+      "stocks veal"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "stocks",
+    "name": "Stocks",
+    "name_variants": [
+      "stocks  broths chicken",
+      "stocks  broths vegetable",
+      "stocks and broths",
+      "stocks and broths chicken",
+      "stocks and broths clam",
+      "stocks clam"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "stuffing",
+    "name": "Stuffing",
+    "name_variants": [
+      "stuffing",
+      "stuffings"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "name_variants": [
+      "sugar",
+      "sugar confectioners",
+      "sugar granulated",
+      "sugar palm",
+      "sugar raw",
+      "sugar simple syrup"
+    ],
+    "pairing_ids": [
+      "syrup,_as_the_combination_is_too_intense."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "name_variants": [
+      "sugar brown",
+      "sugar light brown",
+      "sugar white"
+    ],
+    "pairing_ids": [
+      "syrup,_as_the_combination_is_too_intense."
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "sweet",
+    "name": "Sweet",
+    "name_variants": [
+      "sweet potato",
+      "sweet potatoes",
+      "sweetness"
+    ],
+    "pairing_ids": [
+      "sweet_potatoes",
+      "maple_syrup",
+      "pecans"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "tamarind",
+    "name": "Tamarind",
+    "name_variants": [
+      "tamari",
+      "tamarind",
+      "tamarind paste",
+      "tamarind puree",
+      "tamarind syrup"
+    ],
+    "pairing_ids": [
+      "tamarind",
+      "chicken",
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "tapanade",
+    "name": "Tapanade",
+    "name_variants": [
+      "tapanade",
+      "tapioca"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tarragon",
+    "name": "Tarragon",
+    "name_variants": [
+      "tarragon",
+      "tarragon fresh"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "teriyaki",
+    "name": "Teriyaki",
+    "name_variants": [
+      "teriyaki",
+      "teriyaki sauce"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "toffee",
+    "name": "Toffee",
+    "name_variants": [
+      "toffee",
+      "tofu"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "name_variants": [
+      "tomato juice",
+      "tomatoes and tomato juice",
+      "tomatoes and tomato juices",
+      "tomatoes and tomato water",
+      "tomatoes juice",
+      "tomatoes tomato juice tomato sauce"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "name_variants": [
+      "tomato paste",
+      "tomatoes and tomato paste",
+      "tomatoes and tomato paste sundried",
+      "tomatoes paste",
+      "tomatoes sundried",
+      "tomatoes tomato juice tomato paste",
+      "tomatoes tomato paste and tomato sauce"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tomatoes",
+    "name": "Tomatoes",
+    "name_variants": [
+      "tomatoes",
+      "tomatoes and tomato jam",
+      "tomatoes canned",
+      "tomatoes cherry",
+      "tomatoes flesh",
+      "tomatoes fresh",
+      "tomatoes pulp",
+      "tomatoes raw",
+      "tomatoes regular"
+    ],
+    "pairing_ids": [
+      "tomatoes",
+      "olive_oil",
+      "balsamic_vinegar"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "tonic",
+    "name": "Tonic",
+    "name_variants": [
+      "tonic",
+      "tonic water"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "tortilla",
+    "name": "Tortilla",
+    "name_variants": [
+      "tortilla spanish",
+      "tortillas corn"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "triple",
+    "name": "Triple",
+    "name_variants": [
+      "triple sec"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "truffles",
+    "name": "Truffles",
+    "name_variants": [
+      "truffles",
+      "truffles black",
+      "truffles juice",
+      "truffles pacific northwest",
+      "truffles shaved",
+      "truffles white"
+    ],
+    "pairing_ids": [
+      "vinegar,_balsamic"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "veal",
+    "name": "Veal",
+    "name_variants": [
+      "veal",
+      "veal and veal cheeks",
+      "veal breast",
+      "veal loin",
+      "veal rib",
+      "veal rump",
+      "veal sirloin",
+      "veal tenderloin"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "veal",
+    "name": "Veal",
+    "name_variants": [
+      "veal chop",
+      "veal chops",
+      "veal shank",
+      "veal shanks"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "shoulder",
+    "name": "Shoulder",
+    "name_variants": [
+      "veal shoulder",
+      "venison shoulder",
+      "verjus"
+    ],
+    "pairing_ids": [
+      "vinegar,_rice_wine"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "vegetarian",
+    "name": "Vegetarian",
+    "name_variants": [
+      "vegetarian dishes",
+      "vegetarian meals"
+    ],
+    "pairing_ids": [
+      "soy_sauce"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "vermouth",
+    "name": "Vermouth",
+    "name_variants": [
+      "vermouth",
+      "vermouth dry",
+      "vermouth sweet",
+      "wine vermouth"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "vin",
+    "name": "Vin",
+    "name_variants": [
+      "vin santo",
+      "wine vin santo"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "vinaigrette",
+    "name": "Vinaigrette",
+    "name_variants": [
+      "vinaigrette",
+      "vinaigrette  vinegar",
+      "vinaigrette mustard",
+      "vinaigrette sherry",
+      "vinaigrettes",
+      "vincotto cooked wine",
+      "vinegar vincotto cooked wine"
+    ],
+    "pairing_ids": [
+      "yogurt"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "vinegar",
+    "name": "Vinegar",
+    "name_variants": [
+      "vinegar",
+      "vinegar apple cider",
+      "vinegar balsamic",
+      "vinegar banyuls",
+      "vinegar chamapagne",
+      "vinegar chinese black",
+      "vinegar cider",
+      "vinegar fruit",
+      "vinegar malt",
+      "vinegar raspberry",
+      "vinegar red",
+      "vinegar tarragon",
+      "vinegar tarragon herbflavored vinegar",
+      "vinegar white",
+      "vinegars"
+    ],
+    "pairing_ids": [
+      "white_balsamic_vinegar",
+      "white_truffle_oil",
+      "whole_grain_mustard"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "vinegar",
+    "name": "Vinegar",
+    "name_variants": [
+      "vinegar ice wine",
+      "vinegar red or white wine",
+      "vinegar red wine",
+      "vinegar white wine",
+      "vinegar wine"
+    ],
+    "pairing_ids": [
+      "vegetables"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "name_variants": [
+      "vinegar rice",
+      "vinegar rice wine",
+      "wine rice"
+    ],
+    "pairing_ids": [
+      "wasabi"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "name_variants": [
+      "water",
+      "watercess",
+      "watercress"
+    ],
+    "pairing_ids": [
+      "watercress",
+      "ginger",
+      "lemon",
+      "shrimp"
+    ],
+    "status": "draft"
+  },
+  {
+    "id": "white",
+    "name": "White",
+    "name_variants": [
+      "white",
+      "white and other lightcolored foods"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "white",
+    "name": "White",
+    "name_variants": [
+      "white wine",
+      "wine dry to offdry white",
+      "wine dry white",
+      "wine or white",
+      "wine sweet white",
+      "wine white",
+      "wines dry white"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "wine",
+    "name": "Wine",
+    "name_variants": [
+      "wine",
+      "wine dry",
+      "wine fruity",
+      "wine port",
+      "wine port or sweet",
+      "wine sweet",
+      "wine syrah",
+      "wines sweet"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "wine",
+    "name": "Wine",
+    "name_variants": [
+      "wine dry or fruity red or white or sweet",
+      "wine dry red",
+      "wine dry red grenache",
+      "wine dry red or white",
+      "wine dry red or white or dessert",
+      "wine dry white ros",
+      "wine red",
+      "wine red hot",
+      "wine red or ros",
+      "wine red sweet",
+      "wine ros"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "yogurt",
+    "name": "Yogurt",
+    "name_variants": [
+      "yogurt",
+      "yogurt and yogurt sauces"
+    ],
+    "pairing_ids": [],
+    "status": "draft"
+  },
+  {
+    "id": "yuzu",
+    "name": "Yuzu",
+    "name_variants": [
+      "yuzu",
+      "yuzu fruit",
+      "yuzu juice",
+      "yuzu rind"
+    ],
+    "pairing_ids": [
+      "yuzu",
+      "caramel",
+      "grapefruit",
+      "green_tea"
+    ],
+    "status": "draft"
+  }
+]
