@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path'
 
 export const getIngredients = () =>{
-  const filePath = path.join(process.cwd(), 'data', 'ingredients', 'merged', `ingredients_1.json`);
+  const filePath = path.join(process.cwd(), 'data', 'ingredients', 'merged', `ingredients.json`);
   const data = fs.readFileSync(filePath, 'utf-8');
   return JSON.parse(data);
 }
@@ -16,7 +16,7 @@ export const getIngredientById = async (id: string | number) => {
 
 
 export const getIngredientClusters = () =>{
-  const filePath = path.join(process.cwd(), 'data', 'ingredients', `ingredients_master_1.json`);
+  const filePath = path.join(process.cwd(), 'data', 'ingredients', `ingredients.json`);
   const data = fs.readFileSync(filePath, 'utf-8');
   return JSON.parse(data);
 }
