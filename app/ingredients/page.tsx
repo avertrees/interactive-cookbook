@@ -2,7 +2,8 @@
 
 import Image from "next/image";
 import styles from "@/app/page.module.css";
-import { getIngredients } from "../src/utils/utils";
+import { getIngredients } from "@/app/src/utils/utils";
+
 
 export default function customFoodBIndexPage() {
   const data = getIngredients()
