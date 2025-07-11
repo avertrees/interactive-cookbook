@@ -16,7 +16,7 @@ export const getIngredientById = async (id: string | number) => {
 
 
 export const getCleanedIngredients = () =>{
-  const filePath = path.join(process.cwd(), 'data', 'ingredients', 'merged', `cleaned_deduped_ingredients.json`);
+  const filePath = path.join(process.cwd(), 'data', 'ingredients', 'merged', `cleaned_deduped_food.json`);
   const data = fs.readFileSync(filePath, 'utf-8');
   return JSON.parse(data);
 }
