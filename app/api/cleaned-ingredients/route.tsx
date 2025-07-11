@@ -1,10 +1,10 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getIngredients } from "@/app/src/utils/utils";
+import { getCleanedIngredients } from "@/app/src/utils/utils";
 import search from '@/app/src/utils/search'
 import {sortIngredientsByField} from '@/app/src/utils/sort'
 
 export const GET = async (request: NextRequest) => {
-  let data = await getIngredients()
+  let data = await getCleanedIngredients()
   console.log("data is: ", data)
   const sort = request?.nextUrl?.searchParams.get('sort')
 
