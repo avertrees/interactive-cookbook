@@ -1,7 +1,7 @@
 'use client';
 
 import { css } from '@styled-system/css';
-import { hstack, vstack } from '@/styled-system/patterns';
+import { hstack, vstack } from 'styled-system';
 // import { grid, flex } from "@pandacss/dev";
 
 import { useState } from 'react';

@@ -1,8 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { css, cx } from "@/styled-system/css";
-import { grid, flex } from "@/styled-system/patterns";
+import { css, cx } from "styled-system";
+import { grid, flex } from "styled-system";
 // import { card, label, button } from "@pandacss/dev"
 
 // Sample data
