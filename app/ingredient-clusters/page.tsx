@@ -2,10 +2,10 @@
 
 import Image from "next/image";
 import styles from "@/app/page.module.css";
-import { getIngredients } from "../src/utils/utils";
+import { getIngredientClusters } from "@/app/src/utils/utils";
 
 export default function customFoodBIndexPage() {
-  const data = getIngredients()
+  const data = getIngredientClusters()
 
   return (
     <ol>
@@ -13,7 +13,7 @@ export default function customFoodBIndexPage() {
         return (
           <li key={index}>
             <a
-              href={`/ingredients/${ingredient.id}`}
+              href={`/ingredient-clusters/${ingredient.id}`}
               className={styles.secondary}
             >
               {ingredient.name}
