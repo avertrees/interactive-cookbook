@@ -7,3 +7,11 @@ export default function onlyUnique(value, index, array) {
 export function filterStringsByCharacter(strings, character) {
   return strings.filter(str => str.includes(character));
 }
+
+
+// filter by field and value 
+export function filterIngredientsByField(ingredients, field, value) {
+  return ingredients.select((ingredient) => {
+    ingredient[field] == value
+  });
+}

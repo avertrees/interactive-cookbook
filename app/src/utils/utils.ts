@@ -34,6 +34,19 @@ export const getIngredientClusters = () =>{
 
 export const getIngredientClusterById = async (id: string | number) => {
   const ingredients = getIngredientClusters();
-  console.log("find obj: ", ingredients[0])
   return ingredients.find((obj) => String(obj.id) === String(id));
 };
+
+export const getCustomIngredients= () =>{
+  const filePath = path.join(process.cwd(), 'data', 'drafts', `custom`, `ingredients_sample.json`);
+  const data = fs.readFileSync(filePath, 'utf-8');
+  return JSON.parse(data);
+}
+
+// get unique list of food_groups ie. foodb_food['food_group'].unique()
+
+// get unique list of food_subgroups ie. foodb_food['food_subgroup'].unique()
+
+// get list of foods by food_group
+
+// get list of foods by food_subgroup
