@@ -2,11 +2,21 @@
 
 import Image from "next/image";
 import styles from "@/app/page.module.css";
-import { getIngredients } from "@/app/src/utils/utils";
+import { getIngredients, getUniqueFoodsByFoodGroup, getUniqueFoodsByFoodSubGroup } from "@/app/src/utils/utils";
+import search from "../src/utils/search";
 
+export default function customFoodBIndexPage({searchParams}) {
+  const foodGroupFilter = searchParams['food_group'];
+  const foodSubGroupFilter = searchParams['food_subgroup'];
 
-export default function customFoodBIndexPage() {
-  const data = getIngredients()
+  let data = getIngredients()
+  if (foodGroupFilter){
+    data = getUniqueFoodsByFoodGroup(data, foodGroupFilter)
+  } 
+
+  if (foodSubGroupFilter) {
+    data = getUniqueFoodsByFoodSubGroup(data, foodSubGroupFilter)
+  } 
 
   return (
     <ol>

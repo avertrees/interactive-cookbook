@@ -44,9 +44,29 @@ export const getCustomIngredients= () =>{
 }
 
 // get unique list of food_groups ie. foodb_food['food_group'].unique()
+export const getUniqueFoodGroups = (ingredients) => {
+    let foodGroups = ingredients.map((ing)=> {return ing['food_group']})
+    console.log("foodGroups: ", foodGroups)
+    const uniqueArray = [...new Set(foodGroups)];
+    return uniqueArray
+}
 
 // get unique list of food_subgroups ie. foodb_food['food_subgroup'].unique()
+export const getUniqueFoodSubGroups = (ingredients) => {
+    let foodSubGroups = ingredients.map((ing)=> {return ing['food_subgroup']})
+    console.log("foodSubGroups: ", foodSubGroups)
+    const uniqueArray = [...new Set(foodSubGroups)];
+    return uniqueArray
+}
 
 // get list of foods by food_group
+export const getUniqueFoodsByFoodGroup = (ingredients, foodGroup) => {
+    let foods = ingredients.filter(ing=> ing['food_group'] === foodGroup)
+    return foods
+}
 
 // get list of foods by food_subgroup
+export const getUniqueFoodsByFoodSubGroup = (ingredients, foodSubgroup) => {
+    let foods = ingredients.filter(ing=>  ing['food_subgroup'] === foodSubgroup)
+    return foods
+}

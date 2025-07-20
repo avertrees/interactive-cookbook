@@ -2,11 +2,8 @@ import React from "react";
 import IngredientPage from "@/app/src/components/IngredientPage"
 
 import { getIngredientClusterById } from "@/app/src/utils/utils";
-// import { Ingredient } from "@/app/src/types/ingredient";
-import { Metadata } from 'next';
-// import type { PageProps } from "next"; // <-- new import
 
-// type ClusterIngredientProps = PageProps<{ slug: string }>
+
 
 const CustomIngredientClusterPage = async ({ params }) => {
   const { slug } = await params
@@ -21,7 +18,7 @@ const CustomIngredientClusterPage = async ({ params }) => {
   }
 
   return (
-    <IngredientPage ingredient={ingredient} />
+    <IngredientPage ingredient={ingredient} id={slug.toString()}/>
   )
 }
 
