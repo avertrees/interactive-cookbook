@@ -133,3 +133,11 @@ https://en.wikipedia.org/wiki/Columbian_exchange
 https://en.wikipedia.org/wiki/Glass_Gem_Corn
 https://en.wikipedia.org/wiki/Cone_pepper
 https://en.wikipedia.org/wiki/Category:Edible_Solanaceae
+
+### Other
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8399939/#sec6-nutrients-13-02816 
+https://libguides.sjf.edu/c.php?g=908256&p=6645306
+https://foodon.org/ 
+https://obofoundry.org/
+https://cooklang.org/ 
+https://foodkg.github.io/subs.html  
