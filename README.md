@@ -141,3 +141,4 @@ https://foodon.org/
 https://obofoundry.org/
 https://cooklang.org/ 
 https://foodkg.github.io/subs.html  
+https://foodsubs.com/groups
