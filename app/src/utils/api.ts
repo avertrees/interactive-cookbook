@@ -65,16 +65,11 @@
 
 
 // #Food DB https://foodb.ca/api/v1/foodreport/food
-// #description may include info about country of origin 
+// #description may include info about country of origin
 // #also includes Taxonomy
 // #OpenFoodFacts https://world.openfoodfacts.org/cgi/search.pl
-// openFoodFactsEmail =
-// openFoodFactsKey = 
-// email = 
 // TODO: make it work
 export const getDataFromFoodDB = async (apiUrl: string) => {
-  // process.env.AUTH_TOKEN;
-  // process.env.apiEmail = ***REMOVED_EMAIL***
   try {
     const response = await fetch(apiUrl, {
       method: "GET",

@@ -5,7 +5,6 @@ import {getDataFromFoodDB, getDataFromEdamam, getDataFromOpenDataWeb, getDataFro
 // https://fdc.nal.usda.gov/api-guide#bkmk-3
 // https://fdc.nal.usda.gov/bkmk-2
 export const GET = async (request: NextRequest) => {
-  // https://api.nal.usda.gov/fdc/v1/foods/search?query=cheese&dataType=Foundation&pageSize=25&pageNumber=1&sortBy=dataType.keyword&sortOrder=asc&api_key=***REMOVED_USDA_KEY***
   const ingredient = request?.nextUrl?.searchParams.get('ingredient')
 
   const url = `https://api.nal.usda.gov/fdc/v1/foods/search?query=${ingredient}&dataType=Foundation&api_key=${process.env.usdaAPIKey}`
