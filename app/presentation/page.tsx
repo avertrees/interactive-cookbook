@@ -26,6 +26,26 @@ const slides: { kicker?: string; titleSlide?: boolean; node: React.ReactNode }[]
     ),
   },
   {
+    kicker: "Where we're headed",
+    node: (
+      <>
+        <h2 className={styles.title}>The Arc</h2>
+        <div className={styles.body}>
+          <ul>
+            <li>The goal: one search across three food databases</li>
+            <li>The one assumption that quietly breaks everything</li>
+            <li>Three attempts to fix it — each one trades an old problem for a new one</li>
+            <li>What we actually shipped (and what it still gets wrong)</li>
+            <li>The real fix — and why it isn&rsquo;t &ldquo;more NLP&rdquo;</li>
+          </ul>
+          <p className={styles.tryItNote}>
+            Green links throughout are live — click any of them to hit the real API.
+          </p>
+        </div>
+      </>
+    ),
+  },
+  {
     kicker: "The goal",
     node: (
       <>
@@ -102,7 +122,7 @@ const slides: { kicker?: string; titleSlide?: boolean; node: React.ReactNode }[]
       <>
         <h2 className={styles.title}>One Plant, Many Ingredients</h2>
         <div className={styles.body}>
-          <p>Corn is a single organism. These are all real entries in food databases:</p>
+          <p>Corn is a single organism. These are all real ingredients that I would expect to see in food databases:</p>
           <table className={styles.table}>
             <thead>
               <tr>
@@ -131,7 +151,7 @@ const slides: { kicker?: string; titleSlide?: boolean; node: React.ReactNode }[]
             </tbody>
           </table>
           <p>
-            A flat ingredient list treats these as eight unrelated things. The NLP has no idea they
+            NLP has no idea they
             share a plant.
           </p>
           <div className={styles.tryItRow}>
@@ -223,6 +243,10 @@ const slides: { kicker?: string; titleSlide?: boolean; node: React.ReactNode }[]
             Used <code className={styles.inlineCode}>difflib.get_close_matches()</code> with{" "}
             <code className={styles.inlineCode}>cutoff=0.85</code>.
           </p>
+          <p className={styles.tryItNote}>
+            Plain English: score how many letters you&rsquo;d add, drop, or change to turn one word
+            into the other. Closer spelling = higher score. It never looks at <em>meaning</em>.
+          </p>
           <table className={styles.table}>
             <thead>
               <tr>
@@ -250,6 +274,36 @@ const slides: { kicker?: string; titleSlide?: boolean; node: React.ReactNode }[]
           </table>
           <p>
             <strong>Takeaway:</strong> Edit distance measures characters, not meaning.
+          </p>
+        </div>
+      </>
+    ),
+  },
+  {
+    kicker: "Plain English detour",
+    node: (
+      <>
+        <h2 className={styles.title}>First — What&rsquo;s an Embedding?</h2>
+        <div className={styles.body}>
+          <ul>
+            <li>
+              An <strong>embedding</strong> turns a piece of text into a list of numbers that
+              captures its <em>meaning</em> — like GPS coordinates for words.
+            </li>
+            <li>Similar meanings land near each other; unrelated things land far apart.</li>
+            <li>
+              <strong>Clustering</strong> then just groups the points that sit close together.
+            </li>
+            <li>
+              The <code className={styles.inlineCode}>distance threshold</code> is the knob: how
+              close is &ldquo;close enough&rdquo; to call two things the same. Lower = stricter.
+            </li>
+          </ul>
+          <p className={styles.lead}>
+            The catch: the model learned &ldquo;meaning&rdquo; from the open internet, not from a
+            chef. It knows <code className={styles.inlineCode}>angelica</code> and{" "}
+            <code className={styles.inlineCode}>jasmine</code> both <em>sound</em> floral — it has no
+            idea you&rsquo;d never cook with them the same way.
           </p>
         </div>
       </>
@@ -351,8 +405,10 @@ Counter(tokens).most_common(1)[0][0]             # ...ties break on order`}</pre
             />
           </div>
           <p className={styles.tryItNote}>
-            Expect: pepper, pepper black, pepper cayenne, pepper chili, bell pepper, peppers sweet…
-            one keyword, a dozen different things.
+            Expect ~20 hits: pepper black, pepper white, pepper pink, bell peppers, chile peppers,
+            peppers piquillo… One keyword, 20 different things — and{" "}
+            <strong>black pepper and bell pepper aren&rsquo;t even related plants.</strong> The word
+            is the same; the ingredient isn&rsquo;t.
           </p>
         </div>
       </>
@@ -462,6 +518,10 @@ mergeFooDBAndFlavorBible(foodDBResults, flavorBibleResults)
             <li>The last 30% requires a controlled vocabulary or human review</li>
             <li>Every database has its own taxonomy, and no one agrees</li>
           </ul>
+          <p className={styles.lead}>
+            For engineers: we&rsquo;ve been joining on a display-name string. The fix is a stable
+            foreign key that every database agrees on — we just don&rsquo;t have one yet.
+          </p>
         </div>
       </>
     ),
@@ -535,8 +595,8 @@ mergeFooDBAndFlavorBible(foodDBResults, flavorBibleResults)
         <div className={styles.body}>
           <ul>
             <li>
-              Ingredient normalization is an <strong>entity resolution</strong> problem, not a string
-              matching problem
+              Ingredient normalization is an <strong>entity resolution</strong> problem (deciding
+              when two records are the same real-world thing), not a string matching problem
             </li>
             <li>Each NLP technique fixes one failure mode and introduces another</li>
             <li>The real fix is a shared controlled vocabulary — NLP is the bridge, not the destination</li>
