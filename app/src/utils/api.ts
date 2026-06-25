@@ -95,13 +95,8 @@ export const getDataFromFoodDB = async (apiUrl: string) => {
 // # /foods	GET | POST	Fetches details for multiple food items using input FDC IDs
 // # /foods/list	GET | POST	Returns a paged list of foods, in the 'abridged' format
 // # /foods/search	GET | POST	Returns a list of foods that matched search (query) keywords
-// usdaAPIEmail = ***REMOVED_EMAIL*** 
-// usdaAPIKey = ***REMOVED_USDA_KEY***
-// usdaAPIBaseURL = https://api.nal.usda.gov/fdc/v1/foods?api_key=***REMOVED_USDA_KEY***
 // TODO: make it work
 export const getDataFromUSDA= async (apiUrl: string) => {
-  // process.env.AUTH_TOKEN;
-  // process.env.apiEmail = ***REMOVED_EMAIL***
   const url = apiUrl + '?api_key=' + process.env.usdaAPIKey
   console.log("url is: ", url)
   try {
@@ -125,8 +120,6 @@ export const getDataFromUSDA= async (apiUrl: string) => {
 }
 
 // #Opendataweb - https://apps.fas.usda.gov/opendatawebV2/#/
-// opendatawebV2APIKey = ***REMOVED_OPENDATAWEB_KEY***
-// opendatawebV2Email = ***REMOVED_EMAIL***
 // opendatawebV2BaseURL = https://api.fas.usda.gov/api/esr/regions
 export const getDataFromOpenDataWeb = async (apiUrl: string) => {
   const url = apiUrl + '?api_key=' + process.env.opendatawebV2APIKey
@@ -155,11 +148,7 @@ export const getDataFromOpenDataWeb = async (apiUrl: string) => {
 
 // #Edamam
 // # https://developer.edamam.com/food-database-api
-// EdamamApplicationID = ***REMOVED_EDAMAM_APP_ID***
-// EdamamAPIKey = ***REMOVED_EDAMAM_KEY***	
 export const getDataFromEdamam = async (apiUrl: string) => {
-  // process.env.AUTH_TOKEN;
-  // process.env.apiEmail = ***REMOVED_EMAIL***
   const url = apiUrl + '?app_id=' + process.env.EdamamApplicationID + '&app_key=' + process.env.EdamamAPIKey + '&ingr=corn'
   console.log("url is: ", url)
   try {
