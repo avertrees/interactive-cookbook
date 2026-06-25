@@ -153,6 +153,9 @@ export default function Home() {
           FooDB, USDA, and Edamam. Browse the data below or call the endpoints directly.
         </p>
         <nav className={styles.navLinks}>
+          <a href="/presentation" className={styles.navLink}>
+            ▶ NLP Talk
+          </a>
           <a href="/ingredients" className={styles.navLink}>
             Browse Ingredients →
           </a>
