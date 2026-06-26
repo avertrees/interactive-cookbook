@@ -81,6 +81,15 @@
   font-style: italic;
 }
 
+.questionsImg {
+  display: block;
+  margin: 28px auto 0;
+  max-height: 52vh;
+  max-width: 100%;
+  border-radius: 12px;
+  object-fit: contain;
+}
+
 .body {
   font-size: 19px;
   line-height: 1.6;
