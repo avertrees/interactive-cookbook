@@ -1,11 +1,12 @@
 "use client"
 import MapComponent from "./MapComponent"
 import { useRouter } from "next/navigation"
-const IngredientPage = ({ingredient, id}) => {
-      const router = useRouter()
+
+const IngredientEditPage = ({ingredient, id}) => {
+    const router = useRouter()
 
     const handleSubmit = (e) => {
-        router.push(`/ingredients/${id}/edit`)
+        router.push(`/ingredients/${id}`)
     }
 
     return ( 
@@ -16,11 +17,12 @@ const IngredientPage = ({ingredient, id}) => {
                 <strong>{key}:</strong> {String(value)}
                 </p>
             ))}
-            <button onClick={e=>handleSubmit(e)}> edit </button>
+            <button onClick={e=>handleSubmit(e)}> save </button>
+
             </div>
             {/* <MapComponent></MapComponent> */}
         </>
     )
 }
 
-export default IngredientPage
+export default IngredientEditPage
